@@ -9,26 +9,39 @@ const toStringSplit = (conteudo) => {
     return arr
 }
 
-const exibirConteudo = (_, conteudo) => {
-    console.log(conteudo.toString());
-    console.log(" ");
-}
+const mostrarQuandoProcessar = (_, conteudo) => {
+    const toStringSplit = (conteudo) => {
+        const string = conteudo.toString();
+        const arr = string.split(' ');
+        return arr
+    }
+    
+    const exibirConteudo = (_, conteudo) => {
+        console.log(conteudo.toString());
+        console.log(" ");
+    }
+    
+    const exibirComQuebraDeLinha = (_, conteudo) => {
+        arr = toStringSplit(conteudo);
+        arr.map(element => console.log(element));
+        console.log(" ");
+    }
+    
+    const exibirEmOrdemAlfabetica = (_, conteudo) => {
+        const arrSort = toStringSplit(conteudo).sort();
+        arrSort.map(element => console.log(element));
+        console.log(' ')
+    }
 
-const exibirComQuebraDeLinha = (_, conteudo) => {
-    arr = toStringSplit(conteudo);
-    arr.map(element => console.log(element));
-    console.log(" ");
-}
+    fs.readFile(caminho, exibirConteudo);
+    fs.readFile(caminho, exibirComQuebraDeLinha)
+    fs.readFile(caminho, exibirEmOrdemAlfabetica)
 
-const exibirEmOrdemAlfabetica = (_, conteudo) => {
-    const arrSort = toStringSplit(conteudo).sort();
-    arrSort.map(element => console.log(element));
+    console.log('Está dentro da callback.')
     console.log(' ')
 }
 
-fs.readFile(caminho, exibirConteudo);
-fs.readFile(caminho, exibirComQuebraDeLinha)
-fs.readFile(caminho, exibirEmOrdemAlfabetica)
+fs.readFile(caminho, mostrarQuandoProcessar)
 
 console.log("Vai aparecer primeiro.")
 console.log(' ');

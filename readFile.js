@@ -35,7 +35,7 @@ const mostrarQuandoProcessar = (_, conteudo) => {
 
     fs.readFile(caminho, exibirConteudo);
     fs.readFile(caminho, exibirComQuebraDeLinha)
-    fs.readFile(caminho, exibirEmOrdemAlfabetica)
+    fs.readFile(caminho, exibirEmOrdemAlfabetica);
 
     console.log('Está dentro da callback.')
     console.log(' ')

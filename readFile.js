@@ -3,45 +3,38 @@ const path = require('path')
 
 const caminho = path.join(__dirname, 'nomes.txt')
 //Callback
-const toStringSplit = (conteudo) => {
-    const string = conteudo.toString();
-    const arr = string.split(' ');
-    return arr
+const transformarEmString = (string) => {
+    return string.toString();
 }
 
-const mostrarQuandoProcessar = (_, conteudo) => {
-    const toStringSplit = (conteudo) => {
-        const string = conteudo.toString();
-        const arr = string.split(' ');
-        return arr
-    }
-    
-    const exibirConteudo = (_, conteudo) => {
-        console.log(conteudo.toString());
-        console.log(" ");
-    }
-    
-    const exibirComQuebraDeLinha = (_, conteudo) => {
-        arr = toStringSplit(conteudo);
-        arr.map(element => console.log(element));
-        console.log(" ");
-    }
-    
-    const exibirEmOrdemAlfabetica = (_, conteudo) => {
-        const arrSort = toStringSplit(conteudo).sort();
-        arrSort.map(element => console.log(element));
-        console.log(' ')
-    }
-
-    fs.readFile(caminho, exibirConteudo);
-    fs.readFile(caminho, exibirComQuebraDeLinha)
-    fs.readFile(caminho, exibirEmOrdemAlfabetica);
-
-    console.log('Está dentro da callback.')
-    console.log(' ')
+const removerTodasSujeiras = (string) => {
+    return string.replace(/([\u0300-\u036f]|[^a-zA-Z' 'à-úÀ-Ú])/g, '');
 }
 
-fs.readFile(caminho, mostrarQuandoProcessar)
+const separarPalavras = (string) => {
+    return string.split(' ')
+}
+
+const retirarEspacosVazios = (lista) => {
+    return lista.filter(element => element != '')
+}
+
+const colocarNoLog = (lista) => {
+    console.log(lista);
+}
+
+const composicao = (...fns) => (_, lista) => fns.reduce((acc,fn) => fn(acc), lista)
+
+const tratamentoDoArquivo = composicao(
+    transformarEmString,
+    removerTodasSujeiras,
+    separarPalavras,
+    retirarEspacosVazios,
+    colocarNoLog
+)
+
+
+fs.readFile(caminho, tratamentoDoArquivo)
 
 console.log("Vai aparecer primeiro.")
 console.log(' ');

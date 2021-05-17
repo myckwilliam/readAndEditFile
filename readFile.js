@@ -1,8 +1,8 @@
 const fs = require('fs')
 const path = require('path')
 
-const caminho = path.join(__dirname, 'nomes.txt')
-//Callback
+const listaPrincipal = [];
+
 const transformarEmString = (string) => {
     return string.toString();
 }
@@ -16,11 +16,12 @@ const separarPalavras = (string) => {
 }
 
 const retirarEspacosVazios = (lista) => {
-    return lista.filter(element => element != '')
+    return lista.filter(element => element !== '')
 }
 
-const colocarNoLog = (lista) => {
-    console.log(lista);
+const adicionarAListaPrincipal = (lista) => {
+    lista.map(element => listaPrincipal.push(element));
+    return listaPrincipal
 }
 
 const composicao = (...fns) => (_, lista) => fns.reduce((acc,fn) => fn(acc), lista)
@@ -30,11 +31,21 @@ const tratamentoDoArquivo = composicao(
     removerTodasSujeiras,
     separarPalavras,
     retirarEspacosVazios,
-    colocarNoLog
+    adicionarAListaPrincipal,
+
 )
 
+const gerarResultado = (dados) => {
+    dados.map(element => fs.readFile(path.join(__dirname, element), tratamentoDoArquivo));
+}
 
-fs.readFile(caminho, tratamentoDoArquivo)
+const dados = ['nomes.txt', 'nomes2.txt']
 
-console.log("Vai aparecer primeiro.")
-console.log(' ');
+gerarResultado(dados)
+
+
+
+
+
+
+

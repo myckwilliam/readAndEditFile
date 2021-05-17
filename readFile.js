@@ -2,6 +2,8 @@ const fs = require('fs')
 const path = require('path')
 
 const listaPrincipal = [];
+const palavrasUsadas = [];
+const listaObjetos = [];
 
 const transformarEmString = (string) => {
     return string.toString();
@@ -24,6 +26,27 @@ const adicionarAListaPrincipal = (lista) => {
     return listaPrincipal
 }
 
+const criarObjetoContagem = (palavra, quantidade, percentual) => {
+    return {
+        palavra,
+        quantidade,
+        percentual
+    }
+}
+
+const obterInfoDasPalavras = (listaPalavras) => {
+    listaPalavras.map(element => {
+        if (palavrasUsadas.indexOf(element) === -1) {
+            palavrasUsadas.push(element);
+            const listaQuantidade = listaPalavras.filter(element2 => element2 === element);
+            const quantidade = listaQuantidade.length;
+            const percentual = (quantidade/listaPalavras.length) * 100;
+            listaObjetos.push(criarObjetoContagem(element, quantidade, percentual))
+        }   
+    })
+    return listaObjetos
+}
+
 const composicao = (...fns) => (_, lista) => fns.reduce((acc,fn) => fn(acc), lista)
 
 const tratamentoDoArquivo = composicao(
@@ -32,7 +55,7 @@ const tratamentoDoArquivo = composicao(
     separarPalavras,
     retirarEspacosVazios,
     adicionarAListaPrincipal,
-
+    obterInfoDasPalavras
 )
 
 const gerarResultado = (dados) => {
@@ -41,7 +64,7 @@ const gerarResultado = (dados) => {
 
 const dados = ['nomes.txt', 'nomes2.txt']
 
-gerarResultado(dados)
+console.log(gerarResultado(dados))
 
 
 

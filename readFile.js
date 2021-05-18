@@ -68,7 +68,6 @@ const escreverArquivo = JSON => {
     fs.writeFileSync(path.join(__dirname, 'teste.txt'), JSON)
 }
 
-
 const composicao = (...fns) => (_, lista) => fns.reduce((acc,fn) => fn(acc), lista)
 
 const tratamentoDoArquivo = composicao(

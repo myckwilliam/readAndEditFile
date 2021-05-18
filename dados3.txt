@@ -1,0 +1,32 @@
+Normalmente, você pode compartilhar arquivos de texto sem se preocupar com os detalhes subjacentes de como o texto está armazenado. No entanto, se você compartilha arquivos de texto com pessoas que trabalham em outros idiomas, faz o download de arquivos de texto na Internet ou compartilha arquivos de texto com outros sistemas de computador, talvez seja necessário escolher um padrão de codificação quando abrir ou salvar um arquivo.
+
+Quando você ou outra pessoa abre um arquivo de texto no Microsoft Word ou em outro programa, talvez em um computador que tenha o software do sistema em um idioma diferente daquele que foi usado para criar o arquivo, o padrão de codificação ajuda esse programa a determinar como representar o texto para que ele fique legível.
+
+O que você deseja fazer?
+Compreender a codificação de texto
+
+Escolha um padrão de codificação quando abrir um arquivo
+
+Escolha um padrão de codificação quando salvar um arquivo
+
+Procure padrões de codificação que estejam disponíveis no Word
+
+Compreender a codificação de texto
+O que é exibido para você como texto na tela é, na verdade, armazenado como valores numéricos no arquivo de texto. Seu computador converte os valores numéricos em caracteres visíveis. Ele faz isso usando um padrão de codificação.
+
+Um padrão de codificação é um esquema de numeração que atribui um valor numérico a cada caractere de texto em um conjunto de caracteres. Um conjunto de caracteres pode incluir caracteres alfabéticos, números e outros símbolos. Os idiomas diferentes frequentemente consistem em diferentes conjuntos de caracteres, assim, existem diversos padrões de codificação para representar os conjuntos de caracteres que são usados em diferentes idiomas.
+
+Diferentes padrões de codificação para diferentes alfabetos
+O padrão de codificação que é salvo com um arquivo de texto fornece as informações que seu computador precisa para exibir o texto na tela. Por exemplo, na codificação de cirílico (Windows), o caractere Й tem o valor numérico 201. Quando você abre um arquivo que contém esse caractere em um computador que usa a codificação cirílico (Windows), o computador lerá o valor numérico 201 e exibirá Й na tela.
+
+No entanto, se você abrir o mesmo arquivo em um computador que usa uma codificação diferente, o computador exibe o caractere correspondente ao valor numérico 201 no padrão de codificação que o computador usa por padrão. Por exemplo, se o computador usa o padrão de codificação Europeia Ocidental (Windows), o caractere no arquivo original com base em cirílico será exibido como É, em vez de Й, porque na codificação Europeia Ocidental (Windows), o valor 201 é mapeado como É.
+
+Unicode: Um padrão de codificação para muitos alfabetos
+Para evitar problemas com codificação e decodificação de arquivos de texto, você pode salvar os arquivos com codificação Unicode. O Unicode acomoda a maioria dos conjuntos de caracteres em todos os idiomas que são comumente usados entre os usuários de computador hoje.
+
+Como o Word baseia-se em Unicode, o Word salva automaticamente os arquivos codificados como Unicode. Você pode abrir e ler arquivos no formato Unicode no seu sistema de computador baseado em inglês independentemente do idioma do texto. Da mesma forma, quando você usa seu sistema baseado em inglês para salvar arquivos codificados como Unicode, o arquivo pode incluir caracteres não encontrados em alfabetos Europeus Ocidentais, como caracteres gregos, cirílicos, árabes e japoneses.
+
+Início da Página
+
+Escolha um padrão de codificação quando abrir um arquivo
+Se, quando você abrir um arquivo, o texto aparecer ilegível ou como pontos de interrogação ou caixas, o Word pode não ter detectado precisamente o padrão de codificação do texto no arquivo. Você pode especificar o padrão de codificação que pode usar para exibir (decodificar) o texto.

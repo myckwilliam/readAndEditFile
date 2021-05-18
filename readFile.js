@@ -1,6 +1,5 @@
 const fs = require('fs')
 const path = require('path')
-const { promisify } = require('util');
 
 const listaPrincipal = [];
 const palavrasUsadas = [];

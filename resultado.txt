@@ -1,0 +1,12142 @@
+[
+ {
+  "palavra": "de",
+  "quantidade": 523,
+  "percentual": 7.78
+ },
+ {
+  "palavra": "e",
+  "quantidade": 212,
+  "percentual": 3.15
+ },
+ {
+  "palavra": "a",
+  "quantidade": 188,
+  "percentual": 2.8
+ },
+ {
+  "palavra": "o",
+  "quantidade": 106,
+  "percentual": 1.58
+ },
+ {
+  "palavra": "em",
+  "quantidade": 95,
+  "percentual": 1.41
+ },
+ {
+  "palavra": "da",
+  "quantidade": 87,
+  "percentual": 1.29
+ },
+ {
+  "palavra": "que",
+  "quantidade": 70,
+  "percentual": 1.04
+ },
+ {
+  "palavra": "do",
+  "quantidade": 70,
+  "percentual": 1.04
+ },
+ {
+  "palavra": "para",
+  "quantidade": 67,
+  "percentual": 1
+ },
+ {
+  "palavra": "com",
+  "quantidade": 56,
+  "percentual": 0.83
+ },
+ {
+  "palavra": "uma",
+  "quantidade": 51,
+  "percentual": 0.76
+ },
+ {
+  "palavra": "é",
+  "quantidade": 49,
+  "percentual": 0.73
+ },
+ {
+  "palavra": "por",
+  "quantidade": 43,
+  "percentual": 0.64
+ },
+ {
+  "palavra": "no",
+  "quantidade": 43,
+  "percentual": 0.64
+ },
+ {
+  "palavra": "os",
+  "quantidade": 43,
+  "percentual": 0.64
+ },
+ {
+  "palavra": "na",
+  "quantidade": 43,
+  "percentual": 0.64
+ },
+ {
+  "palavra": "um",
+  "quantidade": 43,
+  "percentual": 0.64
+ },
+ {
+  "palavra": "et",
+  "quantidade": 42,
+  "percentual": 0.62
+ },
+ {
+  "palavra": "al",
+  "quantidade": 42,
+  "percentual": 0.62
+ },
+ {
+  "palavra": "as",
+  "quantidade": 39,
+  "percentual": 0.58
+ },
+ {
+  "palavra": "imagem",
+  "quantidade": 39,
+  "percentual": 0.58
+ },
+ {
+  "palavra": "ou",
+  "quantidade": 37,
+  "percentual": 0.55
+ },
+ {
+  "palavra": "das",
+  "quantidade": 36,
+  "percentual": 0.54
+ },
+ {
+  "palavra": "dos",
+  "quantidade": 35,
+  "percentual": 0.52
+ },
+ {
+  "palavra": "imagens",
+  "quantidade": 35,
+  "percentual": 0.52
+ },
+ {
+  "palavra": "foram",
+  "quantidade": 31,
+  "percentual": 0.46
+ },
+ {
+  "palavra": "como",
+  "quantidade": 26,
+  "percentual": 0.39
+ },
+ {
+  "palavra": "aprendizado",
+  "quantidade": 26,
+  "percentual": 0.39
+ },
+ {
+  "palavra": "máquina",
+  "quantidade": 24,
+  "percentual": 0.36
+ },
+ {
+  "palavra": "atributos",
+  "quantidade": 24,
+  "percentual": 0.36
+ },
+ {
+  "palavra": "expressão",
+  "quantidade": 23,
+  "percentual": 0.34
+ },
+ {
+  "palavra": "mais",
+  "quantidade": 22,
+  "percentual": 0.33
+ },
+ {
+  "palavra": "ser",
+  "quantidade": 22,
+  "percentual": 0.33
+ },
+ {
+  "palavra": "análise",
+  "quantidade": 22,
+  "percentual": 0.33
+ },
+ {
+  "palavra": "foi",
+  "quantidade": 21,
+  "percentual": 0.31
+ },
+ {
+  "palavra": "ao",
+  "quantidade": 20,
+  "percentual": 0.3
+ },
+ {
+  "palavra": "atividade",
+  "quantidade": 19,
+  "percentual": 0.28
+ },
+ {
+  "palavra": "não",
+  "quantidade": 19,
+  "percentual": 0.28
+ },
+ {
+  "palavra": "l",
+  "quantidade": 18,
+  "percentual": 0.27
+ },
+ {
+  "palavra": "à",
+  "quantidade": 18,
+  "percentual": 0.27
+ },
+ {
+  "palavra": "maior",
+  "quantidade": 18,
+  "percentual": 0.27
+ },
+ {
+  "palavra": "pode",
+  "quantidade": 16,
+  "percentual": 0.24
+ },
+ {
+  "palavra": "genes",
+  "quantidade": 16,
+  "percentual": 0.24
+ },
+ {
+  "palavra": "se",
+  "quantidade": 15,
+  "percentual": 0.22
+ },
+ {
+  "palavra": "china",
+  "quantidade": 15,
+  "percentual": 0.22
+ },
+ {
+  "palavra": "mm",
+  "quantidade": 15,
+  "percentual": 0.22
+ },
+ {
+  "palavra": "careca",
+  "quantidade": 15,
+  "percentual": 0.22
+ },
+ {
+  "palavra": "hídrico",
+  "quantidade": 14,
+  "percentual": 0.21
+ },
+ {
+  "palavra": "diferentes",
+  "quantidade": 14,
+  "percentual": 0.21
+ },
+ {
+  "palavra": "cat",
+  "quantidade": 14,
+  "percentual": 0.21
+ },
+ {
+  "palavra": "três",
+  "quantidade": 14,
+  "percentual": 0.21
+ },
+ {
+  "palavra": "acesso",
+  "quantidade": 14,
+  "percentual": 0.21
+ },
+ {
+  "palavra": "dados",
+  "quantidade": 14,
+  "percentual": 0.21
+ },
+ {
+  "palavra": "cad",
+  "quantidade": 14,
+  "percentual": 0.21
+ },
+ {
+  "palavra": "médicas",
+  "quantidade": 14,
+  "percentual": 0.21
+ },
+ {
+  "palavra": "são",
+  "quantidade": 13,
+  "percentual": 0.19
+ },
+ {
+  "palavra": "tc",
+  "quantidade": 13,
+  "percentual": 0.19
+ },
+ {
+  "palavra": "valores",
+  "quantidade": 12,
+  "percentual": 0.18
+ },
+ {
+  "palavra": "exames",
+  "quantidade": 12,
+  "percentual": 0.18
+ },
+ {
+  "palavra": "radiômica",
+  "quantidade": 12,
+  "percentual": 0.18
+ },
+ {
+  "palavra": "inglês",
+  "quantidade": 12,
+  "percentual": 0.18
+ },
+ {
+  "palavra": "nos",
+  "quantidade": 11,
+  "percentual": 0.16
+ },
+ {
+  "palavra": "níveis",
+  "quantidade": 11,
+  "percentual": 0.16
+ },
+ {
+  "palavra": "sod",
+  "quantidade": 11,
+  "percentual": 0.16
+ },
+ {
+  "palavra": "ferramentas",
+  "quantidade": 11,
+  "percentual": 0.16
+ },
+ {
+  "palavra": "inteligência",
+  "quantidade": 11,
+  "percentual": 0.16
+ },
+ {
+  "palavra": "cinza",
+  "quantidade": 11,
+  "percentual": 0.16
+ },
+ {
+  "palavra": "segmentação",
+  "quantidade": 11,
+  "percentual": 0.16
+ },
+ {
+  "palavra": "exemplo",
+  "quantidade": 11,
+  "percentual": 0.16
+ },
+ {
+  "palavra": "entre",
+  "quantidade": 10,
+  "percentual": 0.15
+ },
+ {
+  "palavra": "sistema",
+  "quantidade": 10,
+  "percentual": 0.15
+ },
+ {
+  "palavra": "déficit",
+  "quantidade": 10,
+  "percentual": 0.15
+ },
+ {
+  "palavra": "camada",
+  "quantidade": 10,
+  "percentual": 0.15
+ },
+ {
+  "palavra": "acessos",
+  "quantidade": 10,
+  "percentual": 0.15
+ },
+ {
+  "palavra": "apx",
+  "quantidade": 10,
+  "percentual": 0.15
+ },
+ {
+  "palavra": "figura",
+  "quantidade": 10,
+  "percentual": 0.15
+ },
+ {
+  "palavra": "textos",
+  "quantidade": 10,
+  "percentual": 0.15
+ },
+ {
+  "palavra": "pelo",
+  "quantidade": 9,
+  "percentual": 0.13
+ },
+ {
+  "palavra": "seca",
+  "quantidade": 9,
+  "percentual": 0.13
+ },
+ {
+  "palavra": "nas",
+  "quantidade": 9,
+  "percentual": 0.13
+ },
+ {
+  "palavra": "ho",
+  "quantidade": 9,
+  "percentual": 0.13
+ },
+ {
+  "palavra": "m",
+  "quantidade": 9,
+  "percentual": 0.13
+ },
+ {
+  "palavra": "também",
+  "quantidade": 9,
+  "percentual": 0.13
+ },
+ {
+  "palavra": "seu",
+  "quantidade": 9,
+  "percentual": 0.13
+ },
+ {
+  "palavra": "radiologia",
+  "quantidade": 9,
+  "percentual": 0.13
+ },
+ {
+  "palavra": "diagnóstico",
+  "quantidade": 9,
+  "percentual": 0.13
+ },
+ {
+  "palavra": "artificial",
+  "quantidade": 9,
+  "percentual": 0.13
+ },
+ {
+  "palavra": "tem",
+  "quantidade": 9,
+  "percentual": 0.13
+ },
+ {
+  "palavra": "tórax",
+  "quantidade": 9,
+  "percentual": 0.13
+ },
+ {
+  "palavra": "texto",
+  "quantidade": 9,
+  "percentual": 0.13
+ },
+ {
+  "palavra": "mamona",
+  "quantidade": 8,
+  "percentual": 0.12
+ },
+ {
+  "palavra": "sendo",
+  "quantidade": 8,
+  "percentual": 0.12
+ },
+ {
+  "palavra": "estresse",
+  "quantidade": 8,
+  "percentual": 0.12
+ },
+ {
+  "palavra": "aumento",
+  "quantidade": 8,
+  "percentual": 0.12
+ },
+ {
+  "palavra": "informações",
+  "quantidade": 8,
+  "percentual": 0.12
+ },
+ {
+  "palavra": "resposta",
+  "quantidade": 8,
+  "percentual": 0.12
+ },
+ {
+  "palavra": "partir",
+  "quantidade": 8,
+  "percentual": 0.12
+ },
+ {
+  "palavra": "cada",
+  "quantidade": 8,
+  "percentual": 0.12
+ },
+ {
+  "palavra": "ng",
+  "quantidade": 8,
+  "percentual": 0.12
+ },
+ {
+  "palavra": "utilizando",
+  "quantidade": 8,
+  "percentual": 0.12
+ },
+ {
+  "palavra": "método",
+  "quantidade": 8,
+  "percentual": 0.12
+ },
+ {
+  "palavra": "teste",
+  "quantidade": 8,
+  "percentual": 0.12
+ },
+ {
+  "palavra": "diferencial",
+  "quantidade": 8,
+  "percentual": 0.12
+ },
+ {
+  "palavra": "pb",
+  "quantidade": 8,
+  "percentual": 0.12
+ },
+ {
+  "palavra": "sistemas",
+  "quantidade": 8,
+  "percentual": 0.12
+ },
+ {
+  "palavra": "santos",
+  "quantidade": 8,
+  "percentual": 0.12
+ },
+ {
+  "palavra": "ia",
+  "quantidade": 8,
+  "percentual": 0.12
+ },
+ {
+  "palavra": "bras",
+  "quantidade": 8,
+  "percentual": 0.12
+ },
+ {
+  "palavra": "área",
+  "quantidade": 8,
+  "percentual": 0.12
+ },
+ {
+  "palavra": "algoritmos",
+  "quantidade": 8,
+  "percentual": 0.12
+ },
+ {
+  "palavra": "importante",
+  "quantidade": 7,
+  "percentual": 0.1
+ },
+ {
+  "palavra": "conjunto",
+  "quantidade": 7,
+  "percentual": 0.1
+ },
+ {
+  "palavra": "desenvolvimento",
+  "quantidade": 7,
+  "percentual": 0.1
+ },
+ {
+  "palavra": "durante",
+  "quantidade": 7,
+  "percentual": 0.1
+ },
+ {
+  "palavra": "sua",
+  "quantidade": 7,
+  "percentual": 0.1
+ },
+ {
+  "palavra": "enzimas",
+  "quantidade": 7,
+  "percentual": 0.1
+ },
+ {
+  "palavra": "forma",
+  "quantidade": 7,
+  "percentual": 0.1
+ },
+ {
+  "palavra": "função",
+  "quantidade": 7,
+  "percentual": 0.1
+ },
+ {
+  "palavra": "após",
+  "quantidade": 7,
+  "percentual": 0.1
+ },
+ {
+  "palavra": "rna",
+  "quantidade": 7,
+  "percentual": 0.1
+ },
+ {
+  "palavra": "apenas",
+  "quantidade": 7,
+  "percentual": 0.1
+ },
+ {
+  "palavra": "sodmn",
+  "quantidade": 7,
+  "percentual": 0.1
+ },
+ {
+  "palavra": "amplificação",
+  "quantidade": 7,
+  "percentual": 0.1
+ },
+ {
+  "palavra": "enzimática",
+  "quantidade": 7,
+  "percentual": 0.1
+ },
+ {
+  "palavra": "precisão",
+  "quantidade": 7,
+  "percentual": 0.1
+ },
+ {
+  "palavra": "principais",
+  "quantidade": 7,
+  "percentual": 0.1
+ },
+ {
+  "palavra": "maneira",
+  "quantidade": 7,
+  "percentual": 0.1
+ },
+ {
+  "palavra": "processo",
+  "quantidade": 7,
+  "percentual": 0.1
+ },
+ {
+  "palavra": "pulmonar",
+  "quantidade": 7,
+  "percentual": 0.1
+ },
+ {
+  "palavra": "plantas",
+  "quantidade": 6,
+  "percentual": 0.09
+ },
+ {
+  "palavra": "gene",
+  "quantidade": 6,
+  "percentual": 0.09
+ },
+ {
+  "palavra": "podem",
+  "quantidade": 6,
+  "percentual": 0.09
+ },
+ {
+  "palavra": "têm",
+  "quantidade": 6,
+  "percentual": 0.09
+ },
+ {
+  "palavra": "essas",
+  "quantidade": 6,
+  "percentual": 0.09
+ },
+ {
+  "palavra": "grande",
+  "quantidade": 6,
+  "percentual": 0.09
+ },
+ {
+  "palavra": "peg",
+  "quantidade": 6,
+  "percentual": 0.09
+ },
+ {
+  "palavra": "iac",
+  "quantidade": 6,
+  "percentual": 0.09
+ },
+ {
+  "palavra": "n",
+  "quantidade": 6,
+  "percentual": 0.09
+ },
+ {
+  "palavra": "p",
+  "quantidade": 6,
+  "percentual": 0.09
+ },
+ {
+  "palavra": "c",
+  "quantidade": 6,
+  "percentual": 0.09
+ },
+ {
+  "palavra": "amostras",
+  "quantidade": 6,
+  "percentual": 0.09
+ },
+ {
+  "palavra": "sodfe",
+  "quantidade": 6,
+  "percentual": 0.09
+ },
+ {
+  "palavra": "curva",
+  "quantidade": 6,
+  "percentual": 0.09
+ },
+ {
+  "palavra": "tampão",
+  "quantidade": 6,
+  "percentual": 0.09
+ },
+ {
+  "palavra": "tabela",
+  "quantidade": 6,
+  "percentual": 0.09
+ },
+ {
+  "palavra": "modelos",
+  "quantidade": 6,
+  "percentual": 0.09
+ },
+ {
+  "palavra": "profundo",
+  "quantidade": 6,
+  "percentual": 0.09
+ },
+ {
+  "palavra": "neural",
+  "quantidade": 6,
+  "percentual": 0.09
+ },
+ {
+  "palavra": "conteúdo",
+  "quantidade": 6,
+  "percentual": 0.09
+ },
+ {
+  "palavra": "médico",
+  "quantidade": 6,
+  "percentual": 0.09
+ },
+ {
+  "palavra": "características",
+  "quantidade": 6,
+  "percentual": 0.09
+ },
+ {
+  "palavra": "classificação",
+  "quantidade": 6,
+  "percentual": 0.09
+ },
+ {
+  "palavra": "nódulo",
+  "quantidade": 6,
+  "percentual": 0.09
+ },
+ {
+  "palavra": "sob",
+  "quantidade": 5,
+  "percentual": 0.07
+ },
+ {
+  "palavra": "porém",
+  "quantidade": 5,
+  "percentual": 0.07
+ },
+ {
+  "palavra": "tolerância",
+  "quantidade": 5,
+  "percentual": 0.07
+ },
+ {
+  "palavra": "assim",
+  "quantidade": 5,
+  "percentual": 0.07
+ },
+ {
+  "palavra": "alguns",
+  "quantidade": 5,
+  "percentual": 0.07
+ },
+ {
+  "palavra": "trabalhos",
+  "quantidade": 5,
+  "percentual": 0.07
+ },
+ {
+  "palavra": "enzimático",
+  "quantidade": 5,
+  "percentual": 0.07
+ },
+ {
+  "palavra": "ero",
+  "quantidade": 5,
+  "percentual": 0.07
+ },
+ {
+  "palavra": "gpox",
+  "quantidade": 5,
+  "percentual": 0.07
+ },
+ {
+  "palavra": "vem",
+  "quantidade": 5,
+  "percentual": 0.07
+ },
+ {
+  "palavra": "campinas",
+  "quantidade": 5,
+  "percentual": 0.07
+ },
+ {
+  "palavra": "g",
+  "quantidade": 5,
+  "percentual": 0.07
+ },
+ {
+  "palavra": "controle",
+  "quantidade": 5,
+  "percentual": 0.07
+ },
+ {
+  "palavra": "usando",
+  "quantidade": 5,
+  "percentual": 0.07
+ },
+ {
+  "palavra": "ubiquitina",
+  "quantidade": 5,
+  "percentual": 0.07
+ },
+ {
+  "palavra": "validação",
+  "quantidade": 5,
+  "percentual": 0.07
+ },
+ {
+  "palavra": "potássio",
+  "quantidade": 5,
+  "percentual": 0.07
+ },
+ {
+  "palavra": "acordo",
+  "quantidade": 5,
+  "percentual": 0.07
+ },
+ {
+  "palavra": "meio",
+  "quantidade": 5,
+  "percentual": 0.07
+ },
+ {
+  "palavra": "cálculo",
+  "quantidade": 5,
+  "percentual": 0.07
+ },
+ {
+  "palavra": "mesmo",
+  "quantidade": 5,
+  "percentual": 0.07
+ },
+ {
+  "palavra": "apresentou",
+  "quantidade": 5,
+  "percentual": 0.07
+ },
+ {
+  "palavra": "caso",
+  "quantidade": 5,
+  "percentual": 0.07
+ },
+ {
+  "palavra": "vezes",
+  "quantidade": 5,
+  "percentual": 0.07
+ },
+ {
+  "palavra": "possuem",
+  "quantidade": 5,
+  "percentual": 0.07
+ },
+ {
+  "palavra": "observado",
+  "quantidade": 5,
+  "percentual": 0.07
+ },
+ {
+  "palavra": "sodcuzn",
+  "quantidade": 5,
+  "percentual": 0.07
+ },
+ {
+  "palavra": "dentro",
+  "quantidade": 5,
+  "percentual": 0.07
+ },
+ {
+  "palavra": "principalmente",
+  "quantidade": 5,
+  "percentual": 0.07
+ },
+ {
+  "palavra": "auxílio",
+  "quantidade": 5,
+  "percentual": 0.07
+ },
+ {
+  "palavra": "objetivo",
+  "quantidade": 5,
+  "percentual": 0.07
+ },
+ {
+  "palavra": "interpretação",
+  "quantidade": 5,
+  "percentual": 0.07
+ },
+ {
+  "palavra": "uso",
+  "quantidade": 5,
+  "percentual": 0.07
+ },
+ {
+  "palavra": "computacionais",
+  "quantidade": 5,
+  "percentual": 0.07
+ },
+ {
+  "palavra": "medicina",
+  "quantidade": 5,
+  "percentual": 0.07
+ },
+ {
+  "palavra": "utilizados",
+  "quantidade": 5,
+  "percentual": 0.07
+ },
+ {
+  "palavra": "médica",
+  "quantidade": 5,
+  "percentual": 0.07
+ },
+ {
+  "palavra": "representa",
+  "quantidade": 5,
+  "percentual": 0.07
+ },
+ {
+  "palavra": "segunda",
+  "quantidade": 5,
+  "percentual": 0.07
+ },
+ {
+  "palavra": "rede",
+  "quantidade": 5,
+  "percentual": 0.07
+ },
+ {
+  "palavra": "extração",
+  "quantidade": 5,
+  "percentual": 0.07
+ },
+ {
+  "palavra": "geral",
+  "quantidade": 5,
+  "percentual": 0.07
+ },
+ {
+  "palavra": "sido",
+  "quantidade": 5,
+  "percentual": 0.07
+ },
+ {
+  "palavra": "cbir",
+  "quantidade": 5,
+  "percentual": 0.07
+ },
+ {
+  "palavra": "linguística",
+  "quantidade": 5,
+  "percentual": 0.07
+ },
+ {
+  "palavra": "literários",
+  "quantidade": 5,
+  "percentual": 0.07
+ },
+ {
+  "palavra": "ácido",
+  "quantidade": 4,
+  "percentual": 0.06
+ },
+ {
+  "palavra": "suas",
+  "quantidade": 4,
+  "percentual": 0.06
+ },
+ {
+  "palavra": "há",
+  "quantidade": 4,
+  "percentual": 0.06
+ },
+ {
+  "palavra": "crescimento",
+  "quantidade": 4,
+  "percentual": 0.06
+ },
+ {
+  "palavra": "considerada",
+  "quantidade": 4,
+  "percentual": 0.06
+ },
+ {
+  "palavra": "estudos",
+  "quantidade": 4,
+  "percentual": 0.06
+ },
+ {
+  "palavra": "reduzir",
+  "quantidade": 4,
+  "percentual": 0.06
+ },
+ {
+  "palavra": "essa",
+  "quantidade": 4,
+  "percentual": 0.06
+ },
+ {
+  "palavra": "às",
+  "quantidade": 4,
+  "percentual": 0.06
+ },
+ {
+  "palavra": "respostas",
+  "quantidade": 4,
+  "percentual": 0.06
+ },
+ {
+  "palavra": "relacionados",
+  "quantidade": 4,
+  "percentual": 0.06
+ },
+ {
+  "palavra": "reativas",
+  "quantidade": 4,
+  "percentual": 0.06
+ },
+ {
+  "palavra": "moléculas",
+  "quantidade": 4,
+  "percentual": 0.06
+ },
+ {
+  "palavra": "proteínas",
+  "quantidade": 4,
+  "percentual": 0.06
+ },
+ {
+  "palavra": "oxigênio",
+  "quantidade": 4,
+  "percentual": 0.06
+ },
+ {
+  "palavra": "esse",
+  "quantidade": 4,
+  "percentual": 0.06
+ },
+ {
+  "palavra": "formas",
+  "quantidade": 4,
+  "percentual": 0.06
+ },
+ {
+  "palavra": "dessa",
+  "quantidade": 4,
+  "percentual": 0.06
+ },
+ {
+  "palavra": "muitos",
+  "quantidade": 4,
+  "percentual": 0.06
+ },
+ {
+  "palavra": "v",
+  "quantidade": 4,
+  "percentual": 0.06
+ },
+ {
+  "palavra": "horas",
+  "quantidade": 4,
+  "percentual": 0.06
+ },
+ {
+  "palavra": "primeira",
+  "quantidade": 4,
+  "percentual": 0.06
+ },
+ {
+  "palavra": "cdna",
+  "quantidade": 4,
+  "percentual": 0.06
+ },
+ {
+  "palavra": "seleção",
+  "quantidade": 4,
+  "percentual": 0.06
+ },
+ {
+  "palavra": "iniciadores",
+  "quantidade": 4,
+  "percentual": 0.06
+ },
+ {
+  "palavra": "eficiência",
+  "quantidade": 4,
+  "percentual": 0.06
+ },
+ {
+  "palavra": "nm",
+  "quantidade": 4,
+  "percentual": 0.06
+ },
+ {
+  "palavra": "avaliação",
+  "quantidade": 4,
+  "percentual": 0.06
+ },
+ {
+  "palavra": "determinada",
+  "quantidade": 4,
+  "percentual": 0.06
+ },
+ {
+  "palavra": "fosfato",
+  "quantidade": 4,
+  "percentual": 0.06
+ },
+ {
+  "palavra": "ml",
+  "quantidade": 4,
+  "percentual": 0.06
+ },
+ {
+  "palavra": "pela",
+  "quantidade": 4,
+  "percentual": 0.06
+ },
+ {
+  "palavra": "leitura",
+  "quantidade": 4,
+  "percentual": 0.06
+ },
+ {
+  "palavra": "enzima",
+  "quantidade": 4,
+  "percentual": 0.06
+ },
+ {
+  "palavra": "utilizada",
+  "quantidade": 4,
+  "percentual": 0.06
+ },
+ {
+  "palavra": "valor",
+  "quantidade": 4,
+  "percentual": 0.06
+ },
+ {
+  "palavra": "médios",
+  "quantidade": 4,
+  "percentual": 0.06
+ },
+ {
+  "palavra": "cujos",
+  "quantidade": 4,
+  "percentual": 0.06
+ },
+ {
+  "palavra": "tempo",
+  "quantidade": 4,
+  "percentual": 0.06
+ },
+ {
+  "palavra": "padrão",
+  "quantidade": 4,
+  "percentual": 0.06
+ },
+ {
+  "palavra": "quando",
+  "quantidade": 4,
+  "percentual": 0.06
+ },
+ {
+  "palavra": "média",
+  "quantidade": 4,
+  "percentual": 0.06
+ },
+ {
+  "palavra": "dessas",
+  "quantidade": 4,
+  "percentual": 0.06
+ },
+ {
+  "palavra": "contra",
+  "quantidade": 4,
+  "percentual": 0.06
+ },
+ {
+  "palavra": "isoformas",
+  "quantidade": 4,
+  "percentual": 0.06
+ },
+ {
+  "palavra": "trabalho",
+  "quantidade": 4,
+  "percentual": 0.06
+ },
+ {
+  "palavra": "representando",
+  "quantidade": 4,
+  "percentual": 0.06
+ },
+ {
+  "palavra": "aos",
+  "quantidade": 4,
+  "percentual": 0.06
+ },
+ {
+  "palavra": "precisa",
+  "quantidade": 4,
+  "percentual": 0.06
+ },
+ {
+  "palavra": "especialistas",
+  "quantidade": 4,
+  "percentual": 0.06
+ },
+ {
+  "palavra": "radiol",
+  "quantidade": 4,
+  "percentual": 0.06
+ },
+ {
+  "palavra": "tipo",
+  "quantidade": 4,
+  "percentual": 0.06
+ },
+ {
+  "palavra": "acurácia",
+  "quantidade": 4,
+  "percentual": 0.06
+ },
+ {
+  "palavra": "decisão",
+  "quantidade": 4,
+  "percentual": 0.06
+ },
+ {
+  "palavra": "ainda",
+  "quantidade": 4,
+  "percentual": 0.06
+ },
+ {
+  "palavra": "paciente",
+  "quantidade": 4,
+  "percentual": 0.06
+ },
+ {
+  "palavra": "digital",
+  "quantidade": 4,
+  "percentual": 0.06
+ },
+ {
+  "palavra": "matriz",
+  "quantidade": 4,
+  "percentual": 0.06
+ },
+ {
+  "palavra": "volume",
+  "quantidade": 4,
+  "percentual": 0.06
+ },
+ {
+  "palavra": "final",
+  "quantidade": 4,
+  "percentual": 0.06
+ },
+ {
+  "palavra": "radiológicos",
+  "quantidade": 4,
+  "percentual": 0.06
+ },
+ {
+  "palavra": "modelo",
+  "quantidade": 4,
+  "percentual": 0.06
+ },
+ {
+  "palavra": "simples",
+  "quantidade": 4,
+  "percentual": 0.06
+ },
+ {
+  "palavra": "quantidade",
+  "quantidade": 4,
+  "percentual": 0.06
+ },
+ {
+  "palavra": "computacional",
+  "quantidade": 4,
+  "percentual": 0.06
+ },
+ {
+  "palavra": "textura",
+  "quantidade": 4,
+  "percentual": 0.06
+ },
+ {
+  "palavra": "busca",
+  "quantidade": 4,
+  "percentual": 0.06
+ },
+ {
+  "palavra": "saúde",
+  "quantidade": 4,
+  "percentual": 0.06
+ },
+ {
+  "palavra": "camadas",
+  "quantidade": 4,
+  "percentual": 0.06
+ },
+ {
+  "palavra": "precisãoradiol",
+  "quantidade": 4,
+  "percentual": 0.06
+ },
+ {
+  "palavra": "novdez",
+  "quantidade": 4,
+  "percentual": 0.06
+ },
+ {
+  "palavra": "seja",
+  "quantidade": 4,
+  "percentual": 0.06
+ },
+ {
+  "palavra": "região",
+  "quantidade": 4,
+  "percentual": 0.06
+ },
+ {
+  "palavra": "vetor",
+  "quantidade": 4,
+  "percentual": 0.06
+ },
+ {
+  "palavra": "pulmão",
+  "quantidade": 4,
+  "percentual": 0.06
+ },
+ {
+  "palavra": "histograma",
+  "quantidade": 4,
+  "percentual": 0.06
+ },
+ {
+  "palavra": "outra",
+  "quantidade": 4,
+  "percentual": 0.06
+ },
+ {
+  "palavra": "casos",
+  "quantidade": 4,
+  "percentual": 0.06
+ },
+ {
+  "palavra": "doenças",
+  "quantidade": 4,
+  "percentual": 0.06
+ },
+ {
+  "palavra": "tarefas",
+  "quantidade": 4,
+  "percentual": 0.06
+ },
+ {
+  "palavra": "necessidade",
+  "quantidade": 4,
+  "percentual": 0.06
+ },
+ {
+  "palavra": "performance",
+  "quantidade": 4,
+  "percentual": 0.06
+ },
+ {
+  "palavra": "semelhantes",
+  "quantidade": 4,
+  "percentual": 0.06
+ },
+ {
+  "palavra": "radiologista",
+  "quantidade": 4,
+  "percentual": 0.06
+ },
+ {
+  "palavra": "estudo",
+  "quantidade": 4,
+  "percentual": 0.06
+ },
+ {
+  "palavra": "radiogenômica",
+  "quantidade": 4,
+  "percentual": 0.06
+ },
+ {
+  "palavra": "leitor",
+  "quantidade": 4,
+  "percentual": 0.06
+ },
+ {
+  "palavra": "ter",
+  "quantidade": 4,
+  "percentual": 0.06
+ },
+ {
+  "palavra": "coerência",
+  "quantidade": 4,
+  "percentual": 0.06
+ },
+ {
+  "palavra": "mamoneira",
+  "quantidade": 3,
+  "percentual": 0.04
+ },
+ {
+  "palavra": "distribuição",
+  "quantidade": 3,
+  "percentual": 0.04
+ },
+ {
+  "palavra": "dias",
+  "quantidade": 3,
+  "percentual": 0.04
+ },
+ {
+  "palavra": "ocorre",
+  "quantidade": 3,
+  "percentual": 0.04
+ },
+ {
+  "palavra": "planta",
+  "quantidade": 3,
+  "percentual": 0.04
+ },
+ {
+  "palavra": "geralmente",
+  "quantidade": 3,
+  "percentual": 0.04
+ },
+ {
+  "palavra": "cruzada",
+  "quantidade": 3,
+  "percentual": 0.04
+ },
+ {
+  "palavra": "condição",
+  "quantidade": 3,
+  "percentual": 0.04
+ },
+ {
+  "palavra": "outros",
+  "quantidade": 3,
+  "percentual": 0.04
+ },
+ {
+  "palavra": "tipos",
+  "quantidade": 3,
+  "percentual": 0.04
+ },
+ {
+  "palavra": "água",
+  "quantidade": 3,
+  "percentual": 0.04
+ },
+ {
+  "palavra": "ferramenta",
+  "quantidade": 3,
+  "percentual": 0.04
+ },
+ {
+  "palavra": "outras",
+  "quantidade": 3,
+  "percentual": 0.04
+ },
+ {
+  "palavra": "defesa",
+  "quantidade": 3,
+  "percentual": 0.04
+ },
+ {
+  "palavra": "ascorbato",
+  "quantidade": 3,
+  "percentual": 0.04
+ },
+ {
+  "palavra": "guaiacol",
+  "quantidade": 3,
+  "percentual": 0.04
+ },
+ {
+  "palavra": "peroxidase",
+  "quantidade": 3,
+  "percentual": 0.04
+ },
+ {
+  "palavra": "menor",
+  "quantidade": 3,
+  "percentual": 0.04
+ },
+ {
+  "palavra": "regiões",
+  "quantidade": 3,
+  "percentual": 0.04
+ },
+ {
+  "palavra": "determinação",
+  "quantidade": 3,
+  "percentual": 0.04
+ },
+ {
+  "palavra": "aproximadamente",
+  "quantidade": 3,
+  "percentual": 0.04
+ },
+ {
+  "palavra": "tratamento",
+  "quantidade": 3,
+  "percentual": 0.04
+ },
+ {
+  "palavra": "extraído",
+  "quantidade": 3,
+  "percentual": 0.04
+ },
+ {
+  "palavra": "eua",
+  "quantidade": 3,
+  "percentual": 0.04
+ },
+ {
+  "palavra": "num",
+  "quantidade": 3,
+  "percentual": 0.04
+ },
+ {
+  "palavra": "ca",
+  "quantidade": 3,
+  "percentual": 0.04
+ },
+ {
+  "palavra": "feita",
+  "quantidade": 3,
+  "percentual": 0.04
+ },
+ {
+  "palavra": "information",
+  "quantidade": 3,
+  "percentual": 0.04
+ },
+ {
+  "palavra": "referência",
+  "quantidade": 3,
+  "percentual": 0.04
+ },
+ {
+  "palavra": "actina",
+  "quantidade": 3,
+  "percentual": 0.04
+ },
+ {
+  "palavra": "curvas",
+  "quantidade": 3,
+  "percentual": 0.04
+ },
+ {
+  "palavra": "pcr",
+  "quantidade": 3,
+  "percentual": 0.04
+ },
+ {
+  "palavra": "avaliados",
+  "quantidade": 3,
+  "percentual": 0.04
+ },
+ {
+  "palavra": "biosystems",
+  "quantidade": 3,
+  "percentual": 0.04
+ },
+ {
+  "palavra": "min",
+  "quantidade": 3,
+  "percentual": 0.04
+ },
+ {
+  "palavra": "negativo",
+  "quantidade": 3,
+  "percentual": 0.04
+ },
+ {
+  "palavra": "ct",
+  "quantidade": 3,
+  "percentual": 0.04
+ },
+ {
+  "palavra": "gênica",
+  "quantidade": 3,
+  "percentual": 0.04
+ },
+ {
+  "palavra": "programa",
+  "quantidade": 3,
+  "percentual": 0.04
+ },
+ {
+  "palavra": "atividades",
+  "quantidade": 3,
+  "percentual": 0.04
+ },
+ {
+  "palavra": "observandose",
+  "quantidade": 3,
+  "percentual": 0.04
+ },
+ {
+  "palavra": "acordocom",
+  "quantidade": 3,
+  "percentual": 0.04
+ },
+ {
+  "palavra": "lde",
+  "quantidade": 3,
+  "percentual": 0.04
+ },
+ {
+  "palavra": "extrato",
+  "quantidade": 3,
+  "percentual": 0.04
+ },
+ {
+  "palavra": "coeficiente",
+  "quantidade": 3,
+  "percentual": 0.04
+ },
+ {
+  "palavra": "tratamentos",
+  "quantidade": 3,
+  "percentual": 0.04
+ },
+ {
+  "palavra": "normalizadores",
+  "quantidade": 3,
+  "percentual": 0.04
+ },
+ {
+  "palavra": "qr",
+  "quantidade": 3,
+  "percentual": 0.04
+ },
+ {
+  "palavra": "dois",
+  "quantidade": 3,
+  "percentual": 0.04
+ },
+ {
+  "palavra": "tendo",
+  "quantidade": 3,
+  "percentual": 0.04
+ },
+ {
+  "palavra": "sem",
+  "quantidade": 3,
+  "percentual": 0.04
+ },
+ {
+  "palavra": "situação",
+  "quantidade": 3,
+  "percentual": 0.04
+ },
+ {
+  "palavra": "nível",
+  "quantidade": 3,
+  "percentual": 0.04
+ },
+ {
+  "palavra": "vez",
+  "quantidade": 3,
+  "percentual": 0.04
+ },
+ {
+  "palavra": "d",
+  "quantidade": 3,
+  "percentual": 0.04
+ },
+ {
+  "palavra": "presente",
+  "quantidade": 3,
+  "percentual": 0.04
+ },
+ {
+  "palavra": "superexpressão",
+  "quantidade": 3,
+  "percentual": 0.04
+ },
+ {
+  "palavra": "apb",
+  "quantidade": 3,
+  "percentual": 0.04
+ },
+ {
+  "palavra": "está",
+  "quantidade": 3,
+  "percentual": 0.04
+ },
+ {
+  "palavra": "provavelmente",
+  "quantidade": 3,
+  "percentual": 0.04
+ },
+ {
+  "palavra": "desses",
+  "quantidade": 3,
+  "percentual": 0.04
+ },
+ {
+  "palavra": "programas",
+  "quantidade": 3,
+  "percentual": 0.04
+ },
+ {
+  "palavra": "anos",
+  "quantidade": 3,
+  "percentual": 0.04
+ },
+ {
+  "palavra": "centenas",
+  "quantidade": 3,
+  "percentual": 0.04
+ },
+ {
+  "palavra": "doença",
+  "quantidade": 3,
+  "percentual": 0.04
+ },
+ {
+  "palavra": "lesão",
+  "quantidade": 3,
+  "percentual": 0.04
+ },
+ {
+  "palavra": "tumor",
+  "quantidade": 3,
+  "percentual": 0.04
+ },
+ {
+  "palavra": "presença",
+  "quantidade": 3,
+  "percentual": 0.04
+ },
+ {
+  "palavra": "terapêutica",
+  "quantidade": 3,
+  "percentual": 0.04
+ },
+ {
+  "palavra": "potencial",
+  "quantidade": 3,
+  "percentual": 0.04
+ },
+ {
+  "palavra": "limitações",
+  "quantidade": 3,
+  "percentual": 0.04
+ },
+ {
+  "palavra": "médicos",
+  "quantidade": 3,
+  "percentual": 0.04
+ },
+ {
+  "palavra": "conceito",
+  "quantidade": 3,
+  "percentual": 0.04
+ },
+ {
+  "palavra": "serão",
+  "quantidade": 3,
+  "percentual": 0.04
+ },
+ {
+  "palavra": "atualmente",
+  "quantidade": 3,
+  "percentual": 0.04
+ },
+ {
+  "palavra": "ponto",
+  "quantidade": 3,
+  "percentual": 0.04
+ },
+ {
+  "palavra": "rm",
+  "quantidade": 3,
+  "percentual": 0.04
+ },
+ {
+  "palavra": "informação",
+  "quantidade": 3,
+  "percentual": 0.04
+ },
+ {
+  "palavra": "system",
+  "quantidade": 3,
+  "percentual": 0.04
+ },
+ {
+  "palavra": "diversos",
+  "quantidade": 3,
+  "percentual": 0.04
+ },
+ {
+  "palavra": "radiografia",
+  "quantidade": 3,
+  "percentual": 0.04
+ },
+ {
+  "palavra": "grandes",
+  "quantidade": 3,
+  "percentual": 0.04
+ },
+ {
+  "palavra": "processamento",
+  "quantidade": 3,
+  "percentual": 0.04
+ },
+ {
+  "palavra": "muitas",
+  "quantidade": 3,
+  "percentual": 0.04
+ },
+ {
+  "palavra": "exame",
+  "quantidade": 3,
+  "percentual": 0.04
+ },
+ {
+  "palavra": "diagnósticos",
+  "quantidade": 3,
+  "percentual": 0.04
+ },
+ {
+  "palavra": "composta",
+  "quantidade": 3,
+  "percentual": 0.04
+ },
+ {
+  "palavra": "correlação",
+  "quantidade": 3,
+  "percentual": 0.04
+ },
+ {
+  "palavra": "normal",
+  "quantidade": 3,
+  "percentual": 0.04
+ },
+ {
+  "palavra": "lesões",
+  "quantidade": 3,
+  "percentual": 0.04
+ },
+ {
+  "palavra": "estruturas",
+  "quantidade": 3,
+  "percentual": 0.04
+ },
+ {
+  "palavra": "técnicas",
+  "quantidade": 3,
+  "percentual": 0.04
+ },
+ {
+  "palavra": "semiautomática",
+  "quantidade": 3,
+  "percentual": 0.04
+ },
+ {
+  "palavra": "completamente",
+  "quantidade": 3,
+  "percentual": 0.04
+ },
+ {
+  "palavra": "automática",
+  "quantidade": 3,
+  "percentual": 0.04
+ },
+ {
+  "palavra": "contornos",
+  "quantidade": 3,
+  "percentual": 0.04
+ },
+ {
+  "palavra": "escala",
+  "quantidade": 3,
+  "percentual": 0.04
+ },
+ {
+  "palavra": "detectar",
+  "quantidade": 3,
+  "percentual": 0.04
+ },
+ {
+  "palavra": "somente",
+  "quantidade": 3,
+  "percentual": 0.04
+ },
+ {
+  "palavra": "podendo",
+  "quantidade": 3,
+  "percentual": 0.04
+ },
+ {
+  "palavra": "similares",
+  "quantidade": 3,
+  "percentual": 0.04
+ },
+ {
+  "palavra": "importantes",
+  "quantidade": 3,
+  "percentual": 0.04
+ },
+ {
+  "palavra": "nódulos",
+  "quantidade": 3,
+  "percentual": 0.04
+ },
+ {
+  "palavra": "pulmonares",
+  "quantidade": 3,
+  "percentual": 0.04
+ },
+ {
+  "palavra": "relação",
+  "quantidade": 3,
+  "percentual": 0.04
+ },
+ {
+  "palavra": "realizar",
+  "quantidade": 3,
+  "percentual": 0.04
+ },
+ {
+  "palavra": "parte",
+  "quantidade": 3,
+  "percentual": 0.04
+ },
+ {
+  "palavra": "aprendizadode",
+  "quantidade": 3,
+  "percentual": 0.04
+ },
+ {
+  "palavra": "técnica",
+  "quantidade": 3,
+  "percentual": 0.04
+ },
+ {
+  "palavra": "padrões",
+  "quantidade": 3,
+  "percentual": 0.04
+ },
+ {
+  "palavra": "treinamento",
+  "quantidade": 3,
+  "percentual": 0.04
+ },
+ {
+  "palavra": "clínicos",
+  "quantidade": 3,
+  "percentual": 0.04
+ },
+ {
+  "palavra": "tradicionais",
+  "quantidade": 3,
+  "percentual": 0.04
+ },
+ {
+  "palavra": "mlp",
+  "quantidade": 3,
+  "percentual": 0.04
+ },
+ {
+  "palavra": "neurônios",
+  "quantidade": 3,
+  "percentual": 0.04
+ },
+ {
+  "palavra": "correspondem",
+  "quantidade": 3,
+  "percentual": 0.04
+ },
+ {
+  "palavra": "baseada",
+  "quantidade": 3,
+  "percentual": 0.04
+ },
+ {
+  "palavra": "roc",
+  "quantidade": 3,
+  "percentual": 0.04
+ },
+ {
+  "palavra": "computador",
+  "quantidade": 3,
+  "percentual": 0.04
+ },
+ {
+  "palavra": "auxiliar",
+  "quantidade": 3,
+  "percentual": 0.04
+ },
+ {
+  "palavra": "trabalhar",
+  "quantidade": 3,
+  "percentual": 0.04
+ },
+ {
+  "palavra": "igual",
+  "quantidade": 3,
+  "percentual": 0.04
+ },
+ {
+  "palavra": "pois",
+  "quantidade": 3,
+  "percentual": 0.04
+ },
+ {
+  "palavra": "diagnóstica",
+  "quantidade": 3,
+  "percentual": 0.04
+ },
+ {
+  "palavra": "fornecendo",
+  "quantidade": 3,
+  "percentual": 0.04
+ },
+ {
+  "palavra": "aspectos",
+  "quantidade": 3,
+  "percentual": 0.04
+ },
+ {
+  "palavra": "linguagem",
+  "quantidade": 3,
+  "percentual": 0.04
+ },
+ {
+  "palavra": "textual",
+  "quantidade": 3,
+  "percentual": 0.04
+ },
+ {
+  "palavra": "sentido",
+  "quantidade": 3,
+  "percentual": 0.04
+ },
+ {
+  "palavra": "coesão",
+  "quantidade": 3,
+  "percentual": 0.04
+ },
+ {
+  "palavra": "ricinus",
+  "quantidade": 2,
+  "percentual": 0.03
+ },
+ {
+  "palavra": "communis",
+  "quantidade": 2,
+  "percentual": 0.03
+ },
+ {
+  "palavra": "aplicação",
+  "quantidade": 2,
+  "percentual": 0.03
+ },
+ {
+  "palavra": "óleo",
+  "quantidade": 2,
+  "percentual": 0.03
+ },
+ {
+  "palavra": "todos",
+  "quantidade": 2,
+  "percentual": 0.03
+ },
+ {
+  "palavra": "especialmente",
+  "quantidade": 2,
+  "percentual": 0.03
+ },
+ {
+  "palavra": "condições",
+  "quantidade": 2,
+  "percentual": 0.03
+ },
+ {
+  "palavra": "registros",
+  "quantidade": 2,
+  "percentual": 0.03
+ },
+ {
+  "palavra": "muito",
+  "quantidade": 2,
+  "percentual": 0.03
+ },
+ {
+  "palavra": "ocorrência",
+  "quantidade": 2,
+  "percentual": 0.03
+ },
+ {
+  "palavra": "áfrica",
+  "quantidade": 2,
+  "percentual": 0.03
+ },
+ {
+  "palavra": "índia",
+  "quantidade": 2,
+  "percentual": 0.03
+ },
+ {
+  "palavra": "originado",
+  "quantidade": 2,
+  "percentual": 0.03
+ },
+ {
+  "palavra": "weiss",
+  "quantidade": 2,
+  "percentual": 0.03
+ },
+ {
+  "palavra": "hoje",
+  "quantidade": 2,
+  "percentual": 0.03
+ },
+ {
+  "palavra": "cultivada",
+  "quantidade": 2,
+  "percentual": 0.03
+ },
+ {
+  "palavra": "países",
+  "quantidade": 2,
+  "percentual": 0.03
+ },
+ {
+  "palavra": "particularmente",
+  "quantidade": 2,
+  "percentual": 0.03
+ },
+ {
+  "palavra": "tamanho",
+  "quantidade": 2,
+  "percentual": 0.03
+ },
+ {
+  "palavra": "polinização",
+  "quantidade": 2,
+  "percentual": 0.03
+ },
+ {
+  "palavra": "modo",
+  "quantidade": 2,
+  "percentual": 0.03
+ },
+ {
+  "palavra": "tolerante",
+  "quantidade": 2,
+  "percentual": 0.03
+ },
+ {
+  "palavra": "bem",
+  "quantidade": 2,
+  "percentual": 0.03
+ },
+ {
+  "palavra": "chuvas",
+  "quantidade": 2,
+  "percentual": 0.03
+ },
+ {
+  "palavra": "embora",
+  "quantidade": 2,
+  "percentual": 0.03
+ },
+ {
+  "palavra": "período",
+  "quantidade": 2,
+  "percentual": 0.03
+ },
+ {
+  "palavra": "falta",
+  "quantidade": 2,
+  "percentual": 0.03
+ },
+ {
+  "palavra": "formação",
+  "quantidade": 2,
+  "percentual": 0.03
+ },
+ {
+  "palavra": "afeta",
+  "quantidade": 2,
+  "percentual": 0.03
+ },
+ {
+  "palavra": "quais",
+  "quantidade": 2,
+  "percentual": 0.03
+ },
+ {
+  "palavra": "adaptação",
+  "quantidade": 2,
+  "percentual": 0.03
+ },
+ {
+  "palavra": "efeitos",
+  "quantidade": 2,
+  "percentual": 0.03
+ },
+ {
+  "palavra": "mundo",
+  "quantidade": 2,
+  "percentual": 0.03
+ },
+ {
+  "palavra": "mecanismos",
+  "quantidade": 2,
+  "percentual": 0.03
+ },
+ {
+  "palavra": "melhoramentogenético",
+  "quantidade": 2,
+  "percentual": 0.03
+ },
+ {
+  "palavra": "envolvidos",
+  "quantidade": 2,
+  "percentual": 0.03
+ },
+ {
+  "palavra": "déficithídrico",
+  "quantidade": 2,
+  "percentual": 0.03
+ },
+ {
+  "palavra": "genótipos",
+  "quantidade": 2,
+  "percentual": 0.03
+ },
+ {
+  "palavra": "soja",
+  "quantidade": 2,
+  "percentual": 0.03
+ },
+ {
+  "palavra": "diferencialmente",
+  "quantidade": 2,
+  "percentual": 0.03
+ },
+ {
+  "palavra": "expresso",
+  "quantidade": 2,
+  "percentual": 0.03
+ },
+ {
+  "palavra": "alterações",
+  "quantidade": 2,
+  "percentual": 0.03
+ },
+ {
+  "palavra": "categorias",
+  "quantidade": 2,
+  "percentual": 0.03
+ },
+ {
+  "palavra": "indução",
+  "quantidade": 2,
+  "percentual": 0.03
+ },
+ {
+  "palavra": "pertencentes",
+  "quantidade": 2,
+  "percentual": 0.03
+ },
+ {
+  "palavra": "biossíntese",
+  "quantidade": 2,
+  "percentual": 0.03
+ },
+ {
+  "palavra": "celular",
+  "quantidade": 2,
+  "percentual": 0.03
+ },
+ {
+  "palavra": "processos",
+  "quantidade": 2,
+  "percentual": 0.03
+ },
+ {
+  "palavra": "silva",
+  "quantidade": 2,
+  "percentual": 0.03
+ },
+ {
+  "palavra": "espécies",
+  "quantidade": 2,
+  "percentual": 0.03
+ },
+ {
+  "palavra": "extremamente",
+  "quantidade": 2,
+  "percentual": 0.03
+ },
+ {
+  "palavra": "nucleicos",
+  "quantidade": 2,
+  "percentual": 0.03
+ },
+ {
+  "palavra": "fato",
+  "quantidade": 2,
+  "percentual": 0.03
+ },
+ {
+  "palavra": "devido",
+  "quantidade": 2,
+  "percentual": 0.03
+ },
+ {
+  "palavra": "hidrogênio",
+  "quantidade": 2,
+  "percentual": 0.03
+ },
+ {
+  "palavra": "superóxido",
+  "quantidade": 2,
+  "percentual": 0.03
+ },
+ {
+  "palavra": "celulares",
+  "quantidade": 2,
+  "percentual": 0.03
+ },
+ {
+  "palavra": "alscher",
+  "quantidade": 2,
+  "percentual": 0.03
+ },
+ {
+  "palavra": "catalase",
+  "quantidade": 2,
+  "percentual": 0.03
+ },
+ {
+  "palavra": "antioxidante",
+  "quantidade": 2,
+  "percentual": 0.03
+ },
+ {
+  "palavra": "oz",
+  "quantidade": 2,
+  "percentual": 0.03
+ },
+ {
+  "palavra": "vaidyanathan",
+  "quantidade": 2,
+  "percentual": 0.03
+ },
+ {
+  "palavra": "atenção",
+  "quantidade": 2,
+  "percentual": 0.03
+ },
+ {
+  "palavra": "sensibilidade",
+  "quantidade": 2,
+  "percentual": 0.03
+ },
+ {
+  "palavra": "básicas",
+  "quantidade": 2,
+  "percentual": 0.03
+ },
+ {
+  "palavra": "mecanismo",
+  "quantidade": 2,
+  "percentual": 0.03
+ },
+ {
+  "palavra": "experimento",
+  "quantidade": 2,
+  "percentual": 0.03
+ },
+ {
+  "palavra": "selecionados",
+  "quantidade": 2,
+  "percentual": 0.03
+ },
+ {
+  "palavra": "cultivar",
+  "quantidade": 2,
+  "percentual": 0.03
+ },
+ {
+  "palavra": "submetidos",
+  "quantidade": 2,
+  "percentual": 0.03
+ },
+ {
+  "palavra": "hídricobragantia",
+  "quantidade": 2,
+  "percentual": 0.03
+ },
+ {
+  "palavra": "possui",
+  "quantidade": 2,
+  "percentual": 0.03
+ },
+ {
+  "palavra": "cm",
+  "quantidade": 2,
+  "percentual": 0.03
+ },
+ {
+  "palavra": "altura",
+  "quantidade": 2,
+  "percentual": 0.03
+ },
+ {
+  "palavra": "ambiente",
+  "quantidade": 2,
+  "percentual": 0.03
+ },
+ {
+  "palavra": "tubos",
+  "quantidade": 2,
+  "percentual": 0.03
+ },
+ {
+  "palavra": "mlcontendo",
+  "quantidade": 2,
+  "percentual": 0.03
+ },
+ {
+  "palavra": "aplicados",
+  "quantidade": 2,
+  "percentual": 0.03
+ },
+ {
+  "palavra": "coletadas",
+  "quantidade": 2,
+  "percentual": 0.03
+ },
+ {
+  "palavra": "total",
+  "quantidade": 2,
+  "percentual": 0.03
+ },
+ {
+  "palavra": "qualidade",
+  "quantidade": 2,
+  "percentual": 0.03
+ },
+ {
+  "palavra": "base",
+  "quantidade": 2,
+  "percentual": 0.03
+ },
+ {
+  "palavra": "verificar",
+  "quantidade": 2,
+  "percentual": 0.03
+ },
+ {
+  "palavra": "separadas",
+  "quantidade": 2,
+  "percentual": 0.03
+ },
+ {
+  "palavra": "gel",
+  "quantidade": 2,
+  "percentual": 0.03
+ },
+ {
+  "palavra": "kit",
+  "quantidade": 2,
+  "percentual": 0.03
+ },
+ {
+  "palavra": "thermo",
+  "quantidade": 2,
+  "percentual": 0.03
+ },
+ {
+  "palavra": "in",
+  "quantidade": 2,
+  "percentual": 0.03
+ },
+ {
+  "palavra": "desenhados",
+  "quantidade": 2,
+  "percentual": 0.03
+ },
+ {
+  "palavra": "sodcuzne",
+  "quantidade": 2,
+  "percentual": 0.03
+ },
+ {
+  "palavra": "software",
+  "quantidade": 2,
+  "percentual": 0.03
+ },
+ {
+  "palavra": "act",
+  "quantidade": 2,
+  "percentual": 0.03
+ },
+ {
+  "palavra": "iniciador",
+  "quantidade": 2,
+  "percentual": 0.03
+ },
+ {
+  "palavra": "eficiênciade",
+  "quantidade": 2,
+  "percentual": 0.03
+ },
+ {
+  "palavra": "utilizado",
+  "quantidade": 2,
+  "percentual": 0.03
+ },
+ {
+  "palavra": "sybr",
+  "quantidade": 2,
+  "percentual": 0.03
+ },
+ {
+  "palavra": "referênciaactina",
+  "quantidade": 2,
+  "percentual": 0.03
+ },
+ {
+  "palavra": "enzimáticas",
+  "quantidade": 2,
+  "percentual": 0.03
+ },
+ {
+  "palavra": "gpx",
+  "quantidade": 2,
+  "percentual": 0.03
+ },
+ {
+  "palavra": "folhas",
+  "quantidade": 2,
+  "percentual": 0.03
+ },
+ {
+  "palavra": "maceradas",
+  "quantidade": 2,
+  "percentual": 0.03
+ },
+ {
+  "palavra": "tampãofosfato",
+  "quantidade": 2,
+  "percentual": 0.03
+ },
+ {
+  "palavra": "peróxido",
+  "quantidade": 2,
+  "percentual": 0.03
+ },
+ {
+  "palavra": "costa",
+  "quantidade": 2,
+  "percentual": 0.03
+ },
+ {
+  "palavra": "edta",
+  "quantidade": 2,
+  "percentual": 0.03
+ },
+ {
+  "palavra": "moraes",
+  "quantidade": 2,
+  "percentual": 0.03
+ },
+ {
+  "palavra": "bragantia",
+  "quantidade": 2,
+  "percentual": 0.03
+ },
+ {
+  "palavra": "contendo",
+  "quantidade": 2,
+  "percentual": 0.03
+ },
+ {
+  "palavra": "ce",
+  "quantidade": 2,
+  "percentual": 0.03
+ },
+ {
+  "palavra": "molar",
+  "quantidade": 2,
+  "percentual": 0.03
+ },
+ {
+  "palavra": "apresenta",
+  "quantidade": 2,
+  "percentual": 0.03
+ },
+ {
+  "palavra": "mesma",
+  "quantidade": 2,
+  "percentual": 0.03
+ },
+ {
+  "palavra": "diferença",
+  "quantidade": 2,
+  "percentual": 0.03
+ },
+ {
+  "palavra": "variância",
+  "quantidade": 2,
+  "percentual": 0.03
+ },
+ {
+  "palavra": "r",
+  "quantidade": 2,
+  "percentual": 0.03
+ },
+ {
+  "palavra": "tukey",
+  "quantidade": 2,
+  "percentual": 0.03
+ },
+ {
+  "palavra": "alvos",
+  "quantidade": 2,
+  "percentual": 0.03
+ },
+ {
+  "palavra": "escolhidos",
+  "quantidade": 2,
+  "percentual": 0.03
+ },
+ {
+  "palavra": "expressos",
+  "quantidade": 2,
+  "percentual": 0.03
+ },
+ {
+  "palavra": "pega",
+  "quantidade": 2,
+  "percentual": 0.03
+ },
+ {
+  "palavra": "mostrou",
+  "quantidade": 2,
+  "percentual": 0.03
+ },
+ {
+  "palavra": "antioxidativo",
+  "quantidade": 2,
+  "percentual": 0.03
+ },
+ {
+  "palavra": "desse",
+  "quantidade": 2,
+  "percentual": 0.03
+ },
+ {
+  "palavra": "carecaapresentou",
+  "quantidade": 2,
+  "percentual": 0.03
+ },
+ {
+  "palavra": "cate",
+  "quantidade": 2,
+  "percentual": 0.03
+ },
+ {
+  "palavra": "fe",
+  "quantidade": 2,
+  "percentual": 0.03
+ },
+ {
+  "palavra": "incluindo",
+  "quantidade": 2,
+  "percentual": 0.03
+ },
+ {
+  "palavra": "lee",
+  "quantidade": 2,
+  "percentual": 0.03
+ },
+ {
+  "palavra": "tabaco",
+  "quantidade": 2,
+  "percentual": 0.03
+ },
+ {
+  "palavra": "aiac",
+  "quantidade": 2,
+  "percentual": 0.03
+ },
+ {
+  "palavra": "deapenas",
+  "quantidade": 2,
+  "percentual": 0.03
+ },
+ {
+  "palavra": "duas",
+  "quantidade": 2,
+  "percentual": 0.03
+ },
+ {
+  "palavra": "serem",
+  "quantidade": 2,
+  "percentual": 0.03
+ },
+ {
+  "palavra": "similaridade",
+  "quantidade": 2,
+  "percentual": 0.03
+ },
+ {
+  "palavra": "segundo",
+  "quantidade": 2,
+  "percentual": 0.03
+ },
+ {
+  "palavra": "precocidade",
+  "quantidade": 2,
+  "percentual": 0.03
+ },
+ {
+  "palavra": "enquanto",
+  "quantidade": 2,
+  "percentual": 0.03
+ },
+ {
+  "palavra": "produção",
+  "quantidade": 2,
+  "percentual": 0.03
+ },
+ {
+  "palavra": "coordenadas",
+  "quantidade": 2,
+  "percentual": 0.03
+ },
+ {
+  "palavra": "funções",
+  "quantidade": 2,
+  "percentual": 0.03
+ },
+ {
+  "palavra": "eficiente",
+  "quantidade": 2,
+  "percentual": 0.03
+ },
+ {
+  "palavra": "precoce",
+  "quantidade": 2,
+  "percentual": 0.03
+ },
+ {
+  "palavra": "perspectiva",
+  "quantidade": 2,
+  "percentual": 0.03
+ },
+ {
+  "palavra": "capacidade",
+  "quantidade": 2,
+  "percentual": 0.03
+ },
+ {
+  "palavra": "sobremaneira",
+  "quantidade": 2,
+  "percentual": 0.03
+ },
+ {
+  "palavra": "últimos",
+  "quantidade": 2,
+  "percentual": 0.03
+ },
+ {
+  "palavra": "radiológicas",
+  "quantidade": 2,
+  "percentual": 0.03
+ },
+ {
+  "palavra": "quantitativas",
+  "quantidade": 2,
+  "percentual": 0.03
+ },
+ {
+  "palavra": "mostrando",
+  "quantidade": 2,
+  "percentual": 0.03
+ },
+ {
+  "palavra": "mutações",
+  "quantidade": 2,
+  "percentual": 0.03
+ },
+ {
+  "palavra": "chance",
+  "quantidade": 2,
+  "percentual": 0.03
+ },
+ {
+  "palavra": "consistência",
+  "quantidade": 2,
+  "percentual": 0.03
+ },
+ {
+  "palavra": "suporte",
+  "quantidade": 2,
+  "percentual": 0.03
+ },
+ {
+  "palavra": "big",
+  "quantidade": 2,
+  "percentual": 0.03
+ },
+ {
+  "palavra": "data",
+  "quantidade": 2,
+  "percentual": 0.03
+ },
+ {
+  "palavra": "diaadia",
+  "quantidade": 2,
+  "percentual": 0.03
+ },
+ {
+  "palavra": "multidisciplinar",
+  "quantidade": 2,
+  "percentual": 0.03
+ },
+ {
+  "palavra": "imaginologia",
+  "quantidade": 2,
+  "percentual": 0.03
+ },
+ {
+  "palavra": "termos",
+  "quantidade": 2,
+  "percentual": 0.03
+ },
+ {
+  "palavra": "definições",
+  "quantidade": 2,
+  "percentual": 0.03
+ },
+ {
+  "palavra": "longo",
+  "quantidade": 2,
+  "percentual": 0.03
+ },
+ {
+  "palavra": "x",
+  "quantidade": 2,
+  "percentual": 0.03
+ },
+ {
+  "palavra": "y",
+  "quantidade": 2,
+  "percentual": 0.03
+ },
+ {
+  "palavra": "pixel",
+  "quantidade": 2,
+  "percentual": 0.03
+ },
+ {
+  "palavra": "corte",
+  "quantidade": 2,
+  "percentual": 0.03
+ },
+ {
+  "palavra": "década",
+  "quantidade": 2,
+  "percentual": 0.03
+ },
+ {
+  "palavra": "revolução",
+  "quantidade": 2,
+  "percentual": 0.03
+ },
+ {
+  "palavra": "tecnológica",
+  "quantidade": 2,
+  "percentual": 0.03
+ },
+ {
+  "palavra": "ambientes",
+  "quantidade": 2,
+  "percentual": 0.03
+ },
+ {
+  "palavra": "totalmente",
+  "quantidade": 2,
+  "percentual": 0.03
+ },
+ {
+  "palavra": "digitalizados",
+  "quantidade": 2,
+  "percentual": 0.03
+ },
+ {
+  "palavra": "and",
+  "quantidade": 2,
+  "percentual": 0.03
+ },
+ {
+  "palavra": "receber",
+  "quantidade": 2,
+  "percentual": 0.03
+ },
+ {
+  "palavra": "disponíveis",
+  "quantidade": 2,
+  "percentual": 0.03
+ },
+ {
+  "palavra": "bases",
+  "quantidade": 2,
+  "percentual": 0.03
+ },
+ {
+  "palavra": "integração",
+  "quantidade": 2,
+  "percentual": 0.03
+ },
+ {
+  "palavra": "clínica",
+  "quantidade": 2,
+  "percentual": 0.03
+ },
+ {
+  "palavra": "machine",
+  "quantidade": 2,
+  "percentual": 0.03
+ },
+ {
+  "palavra": "deep",
+  "quantidade": 2,
+  "percentual": 0.03
+ },
+ {
+  "palavra": "aided",
+  "quantidade": 2,
+  "percentual": 0.03
+ },
+ {
+  "palavra": "imaging",
+  "quantidade": 2,
+  "percentual": 0.03
+ },
+ {
+  "palavra": "evolução",
+  "quantidade": 2,
+  "percentual": 0.03
+ },
+ {
+  "palavra": "reconhecimento",
+  "quantidade": 2,
+  "percentual": 0.03
+ },
+ {
+  "palavra": "grupos",
+  "quantidade": 2,
+  "percentual": 0.03
+ },
+ {
+  "palavra": "analisados",
+  "quantidade": 2,
+  "percentual": 0.03
+ },
+ {
+  "palavra": "pelas",
+  "quantidade": 2,
+  "percentual": 0.03
+ },
+ {
+  "palavra": "utiliza",
+  "quantidade": 2,
+  "percentual": 0.03
+ },
+ {
+  "palavra": "resultado",
+  "quantidade": 2,
+  "percentual": 0.03
+ },
+ {
+  "palavra": "baseadas",
+  "quantidade": 2,
+  "percentual": 0.03
+ },
+ {
+  "palavra": "semelhante",
+  "quantidade": 2,
+  "percentual": 0.03
+ },
+ {
+  "palavra": "massiva",
+  "quantidade": 2,
+  "percentual": 0.03
+ },
+ {
+  "palavra": "nervoso",
+  "quantidade": 2,
+  "percentual": 0.03
+ },
+ {
+  "palavra": "central",
+  "quantidade": 2,
+  "percentual": 0.03
+ },
+ {
+  "palavra": "mínimo",
+  "quantidade": 2,
+  "percentual": 0.03
+ },
+ {
+  "palavra": "asegmentação",
+  "quantidade": 2,
+  "percentual": 0.03
+ },
+ {
+  "palavra": "interesse",
+  "quantidade": 2,
+  "percentual": 0.03
+ },
+ {
+  "palavra": "estrutura",
+  "quantidade": 2,
+  "percentual": 0.03
+ },
+ {
+  "palavra": "deimagens",
+  "quantidade": 2,
+  "percentual": 0.03
+ },
+ {
+  "palavra": "extratores",
+  "quantidade": 2,
+  "percentual": 0.03
+ },
+ {
+  "palavra": "esses",
+  "quantidade": 2,
+  "percentual": 0.03
+ },
+ {
+  "palavra": "construção",
+  "quantidade": 2,
+  "percentual": 0.03
+ },
+ {
+  "palavra": "classificados",
+  "quantidade": 2,
+  "percentual": 0.03
+ },
+ {
+  "palavra": "axial",
+  "quantidade": 2,
+  "percentual": 0.03
+ },
+ {
+  "palavra": "unidades",
+  "quantidade": 2,
+  "percentual": 0.03
+ },
+ {
+  "palavra": "hounsfield",
+  "quantidade": 2,
+  "percentual": 0.03
+ },
+ {
+  "palavra": "original",
+  "quantidade": 2,
+  "percentual": 0.03
+ },
+ {
+  "palavra": "bordas",
+  "quantidade": 2,
+  "percentual": 0.03
+ },
+ {
+  "palavra": "atributosde",
+  "quantidade": 2,
+  "percentual": 0.03
+ },
+ {
+  "palavra": "envolve",
+  "quantidade": 2,
+  "percentual": 0.03
+ },
+ {
+  "palavra": "pixelsvoxels",
+  "quantidade": 2,
+  "percentual": 0.03
+ },
+ {
+  "palavra": "utilizar",
+  "quantidade": 2,
+  "percentual": 0.03
+ },
+ {
+  "palavra": "fornece",
+  "quantidade": 2,
+  "percentual": 0.03
+ },
+ {
+  "palavra": "espacial",
+  "quantidade": 2,
+  "percentual": 0.03
+ },
+ {
+  "palavra": "extraídas",
+  "quantidade": 2,
+  "percentual": 0.03
+ },
+ {
+  "palavra": "objeto",
+  "quantidade": 2,
+  "percentual": 0.03
+ },
+ {
+  "palavra": "depende",
+  "quantidade": 2,
+  "percentual": 0.03
+ },
+ {
+  "palavra": "adjacentes",
+  "quantidade": 2,
+  "percentual": 0.03
+ },
+ {
+  "palavra": "caracterização",
+  "quantidade": 2,
+  "percentual": 0.03
+ },
+ {
+  "palavra": "relevantes",
+  "quantidade": 2,
+  "percentual": 0.03
+ },
+ {
+  "palavra": "etapa",
+  "quantidade": 2,
+  "percentual": 0.03
+ },
+ {
+  "palavra": "podemser",
+  "quantidade": 2,
+  "percentual": 0.03
+ },
+ {
+  "palavra": "classe",
+  "quantidade": 2,
+  "percentual": 0.03
+ },
+ {
+  "palavra": "redes",
+  "quantidade": 2,
+  "percentual": 0.03
+ },
+ {
+  "palavra": "neurais",
+  "quantidade": 2,
+  "percentual": 0.03
+ },
+ {
+  "palavra": "áreas",
+  "quantidade": 2,
+  "percentual": 0.03
+ },
+ {
+  "palavra": "identificação",
+  "quantidade": 2,
+  "percentual": 0.03
+ },
+ {
+  "palavra": "anteriores",
+  "quantidade": 2,
+  "percentual": 0.03
+ },
+ {
+  "palavra": "criação",
+  "quantidade": 2,
+  "percentual": 0.03
+ },
+ {
+  "palavra": "lógica",
+  "quantidade": 2,
+  "percentual": 0.03
+ },
+ {
+  "palavra": "classes",
+  "quantidade": 2,
+  "percentual": 0.03
+ },
+ {
+  "palavra": "desfechos",
+  "quantidade": 2,
+  "percentual": 0.03
+ },
+ {
+  "palavra": "supervisionado",
+  "quantidade": 2,
+  "percentual": 0.03
+ },
+ {
+  "palavra": "último",
+  "quantidade": 2,
+  "percentual": 0.03
+ },
+ {
+  "palavra": "algoritmo",
+  "quantidade": 2,
+  "percentual": 0.03
+ },
+ {
+  "palavra": "métodos",
+  "quantidade": 2,
+  "percentual": 0.03
+ },
+ {
+  "palavra": "matemáticos",
+  "quantidade": 2,
+  "percentual": 0.03
+ },
+ {
+  "palavra": "multicamadas",
+  "quantidade": 2,
+  "percentual": 0.03
+ },
+ {
+  "palavra": "saída",
+  "quantidade": 2,
+  "percentual": 0.03
+ },
+ {
+  "palavra": "entrada",
+  "quantidade": 2,
+  "percentual": 0.03
+ },
+ {
+  "palavra": "passaram",
+  "quantidade": 2,
+  "percentual": 0.03
+ },
+ {
+  "palavra": "desenvolver",
+  "quantidade": 2,
+  "percentual": 0.03
+ },
+ {
+  "palavra": "identificar",
+  "quantidade": 2,
+  "percentual": 0.03
+ },
+ {
+  "palavra": "rnc",
+  "quantidade": 2,
+  "percentual": 0.03
+ },
+ {
+  "palavra": "convolucional",
+  "quantidade": 2,
+  "percentual": 0.03
+ },
+ {
+  "palavra": "terceira",
+  "quantidade": 2,
+  "percentual": 0.03
+ },
+ {
+  "palavra": "predição",
+  "quantidade": 2,
+  "percentual": 0.03
+ },
+ {
+  "palavra": "subconjuntos",
+  "quantidade": 2,
+  "percentual": 0.03
+ },
+ {
+  "palavra": "próximo",
+  "quantidade": 2,
+  "percentual": 0.03
+ },
+ {
+  "palavra": "auxiliado",
+  "quantidade": 2,
+  "percentual": 0.03
+ },
+ {
+  "palavra": "mama",
+  "quantidade": 2,
+  "percentual": 0.03
+ },
+ {
+  "palavra": "visão",
+  "quantidade": 2,
+  "percentual": 0.03
+ },
+ {
+  "palavra": "eram",
+  "quantidade": 2,
+  "percentual": 0.03
+ },
+ {
+  "palavra": "câncer",
+  "quantidade": 2,
+  "percentual": 0.03
+ },
+ {
+  "palavra": "ajudar",
+  "quantidade": 2,
+  "percentual": 0.03
+ },
+ {
+  "palavra": "recentemente",
+  "quantidade": 2,
+  "percentual": 0.03
+ },
+ {
+  "palavra": "sistemasde",
+  "quantidade": 2,
+  "percentual": 0.03
+ },
+ {
+  "palavra": "exemplos",
+  "quantidade": 2,
+  "percentual": 0.03
+ },
+ {
+  "palavra": "detórax",
+  "quantidade": 2,
+  "percentual": 0.03
+ },
+ {
+  "palavra": "detecção",
+  "quantidade": 2,
+  "percentual": 0.03
+ },
+ {
+  "palavra": "quantificação",
+  "quantidade": 2,
+  "percentual": 0.03
+ },
+ {
+  "palavra": "baseadaem",
+  "quantidade": 2,
+  "percentual": 0.03
+ },
+ {
+  "palavra": "descrita",
+  "quantidade": 2,
+  "percentual": 0.03
+ },
+ {
+  "palavra": "ensino",
+  "quantidade": 2,
+  "percentual": 0.03
+ },
+ {
+  "palavra": "grau",
+  "quantidade": 2,
+  "percentual": 0.03
+ },
+ {
+  "palavra": "sítios",
+  "quantidade": 2,
+  "percentual": 0.03
+ },
+ {
+  "palavra": "definição",
+  "quantidade": 2,
+  "percentual": 0.03
+ },
+ {
+  "palavra": "executam",
+  "quantidade": 2,
+  "percentual": 0.03
+ },
+ {
+  "palavra": "extensão",
+  "quantidade": 2,
+  "percentual": 0.03
+ },
+ {
+  "palavra": "prognósticas",
+  "quantidade": 2,
+  "percentual": 0.03
+ },
+ {
+  "palavra": "isto",
+  "quantidade": 2,
+  "percentual": 0.03
+ },
+ {
+  "palavra": "autores",
+  "quantidade": 2,
+  "percentual": 0.03
+ },
+ {
+  "palavra": "neoplasiasde",
+  "quantidade": 2,
+  "percentual": 0.03
+ },
+ {
+  "palavra": "genéticas",
+  "quantidade": 2,
+  "percentual": 0.03
+ },
+ {
+  "palavra": "subregiões",
+  "quantidade": 2,
+  "percentual": 0.03
+ },
+ {
+  "palavra": "teciduais",
+  "quantidade": 2,
+  "percentual": 0.03
+ },
+ {
+  "palavra": "relacionada",
+  "quantidade": 2,
+  "percentual": 0.03
+ },
+ {
+  "palavra": "mudar",
+  "quantidade": 2,
+  "percentual": 0.03
+ },
+ {
+  "palavra": "radiologistas",
+  "quantidade": 2,
+  "percentual": 0.03
+ },
+ {
+  "palavra": "demais",
+  "quantidade": 2,
+  "percentual": 0.03
+ },
+ {
+  "palavra": "objetiva",
+  "quantidade": 2,
+  "percentual": 0.03
+ },
+ {
+  "palavra": "autor",
+  "quantidade": 2,
+  "percentual": 0.03
+ },
+ {
+  "palavra": "seus",
+  "quantidade": 2,
+  "percentual": 0.03
+ },
+ {
+  "palavra": "palavras",
+  "quantidade": 2,
+  "percentual": 0.03
+ },
+ {
+  "palavra": "frases",
+  "quantidade": 2,
+  "percentual": 0.03
+ },
+ {
+  "palavra": "qualquer",
+  "quantidade": 2,
+  "percentual": 0.03
+ },
+ {
+  "palavra": "escrita",
+  "quantidade": 2,
+  "percentual": 0.03
+ },
+ {
+  "palavra": "oposição",
+  "quantidade": 2,
+  "percentual": 0.03
+ },
+ {
+  "palavra": "unidade",
+  "quantidade": 2,
+  "percentual": 0.03
+ },
+ {
+  "palavra": "formais",
+  "quantidade": 2,
+  "percentual": 0.03
+ },
+ {
+  "palavra": "elementos",
+  "quantidade": 2,
+  "percentual": 0.03
+ },
+ {
+  "palavra": "dão",
+  "quantidade": 2,
+  "percentual": 0.03
+ },
+ {
+  "palavra": "httpswwwscielobrpdfbragvnbragpdf",
+  "quantidade": 1,
+  "percentual": 0.01
+ },
+ {
+  "palavra": "introduçãoa",
+  "quantidade": 1,
+  "percentual": 0.01
+ },
+ {
+  "palavra": "euphorbiaceae",
+  "quantidade": 1,
+  "percentual": 0.01
+ },
+ {
+  "palavra": "éuma",
+  "quantidade": 1,
+  "percentual": 0.01
+ },
+ {
+  "palavra": "cultura",
+  "quantidade": 1,
+  "percentual": 0.01
+ },
+ {
+  "palavra": "destacada",
+  "quantidade": 1,
+  "percentual": 0.01
+ },
+ {
+  "palavra": "industrial",
+  "quantidade": 1,
+  "percentual": 0.01
+ },
+ {
+  "palavra": "apresentarmais",
+  "quantidade": 1,
+  "percentual": 0.01
+ },
+ {
+  "palavra": "ricinoleico",
+  "quantidade": 1,
+  "percentual": 0.01
+ },
+ {
+  "palavra": "sementeso",
+  "quantidade": 1,
+  "percentual": 0.01
+ },
+ {
+  "palavra": "lhe",
+  "quantidade": 1,
+  "percentual": 0.01
+ },
+ {
+  "palavra": "confere",
+  "quantidade": 1,
+  "percentual": 0.01
+ },
+ {
+  "palavra": "índice",
+  "quantidade": 1,
+  "percentual": 0.01
+ },
+ {
+  "palavra": "viscosidade",
+  "quantidade": 1,
+  "percentual": 0.01
+ },
+ {
+  "palavra": "elevado",
+  "quantidade": 1,
+  "percentual": 0.01
+ },
+ {
+  "palavra": "maiorestabilidade",
+  "quantidade": 1,
+  "percentual": 0.01
+ },
+ {
+  "palavra": "óleos",
+  "quantidade": 1,
+  "percentual": 0.01
+ },
+ {
+  "palavra": "vegetais",
+  "quantidade": 1,
+  "percentual": 0.01
+ },
+ {
+  "palavra": "combinados",
+  "quantidade": 1,
+  "percentual": 0.01
+ },
+ {
+  "palavra": "comalta",
+  "quantidade": 1,
+  "percentual": 0.01
+ },
+ {
+  "palavra": "lubricidade",
+  "quantidade": 1,
+  "percentual": 0.01
+ },
+ {
+  "palavra": "baixatemperatura",
+  "quantidade": 1,
+  "percentual": 0.01
+ },
+ {
+  "palavra": "notadamente",
+  "quantidade": 1,
+  "percentual": 0.01
+ },
+ {
+  "palavra": "fabricação",
+  "quantidade": 1,
+  "percentual": 0.01
+ },
+ {
+  "palavra": "gasolina",
+  "quantidade": 1,
+  "percentual": 0.01
+ },
+ {
+  "palavra": "deaviação",
+  "quantidade": 1,
+  "percentual": 0.01
+ },
+ {
+  "palavra": "lubrificantes",
+  "quantidade": 1,
+  "percentual": 0.01
+ },
+ {
+  "palavra": "nylon",
+  "quantidade": 1,
+  "percentual": 0.01
+ },
+ {
+  "palavra": "corantes",
+  "quantidade": 1,
+  "percentual": 0.01
+ },
+ {
+  "palavra": "tintas",
+  "quantidade": 1,
+  "percentual": 0.01
+ },
+ {
+  "palavra": "sabões",
+  "quantidade": 1,
+  "percentual": 0.01
+ },
+ {
+  "palavra": "adesivose",
+  "quantidade": 1,
+  "percentual": 0.01
+ },
+ {
+  "palavra": "biodiesel",
+  "quantidade": 1,
+  "percentual": 0.01
+ },
+ {
+  "palavra": "ogunniyi",
+  "quantidade": 1,
+  "percentual": 0.01
+ },
+ {
+  "palavra": "antigos",
+  "quantidade": 1,
+  "percentual": 0.01
+ },
+ {
+  "palavra": "nosudeste",
+  "quantidade": 1,
+  "percentual": 0.01
+ },
+ {
+  "palavra": "mediterrâneo",
+  "quantidade": 1,
+  "percentual": 0.01
+ },
+ {
+  "palavra": "oriental",
+  "quantidade": 1,
+  "percentual": 0.01
+ },
+ {
+  "palavra": "maisprovável",
+  "quantidade": 1,
+  "percentual": 0.01
+ },
+ {
+  "palavra": "tenha",
+  "quantidade": 1,
+  "percentual": 0.01
+ },
+ {
+  "palavra": "tropical",
+  "quantidade": 1,
+  "percentual": 0.01
+ },
+ {
+  "palavra": "espécie",
+  "quantidade": 1,
+  "percentual": 0.01
+ },
+ {
+  "palavra": "entreas",
+  "quantidade": 1,
+  "percentual": 0.01
+ },
+ {
+  "palavra": "latitudes",
+  "quantidade": 1,
+  "percentual": 0.01
+ },
+ {
+  "palavra": "norte",
+  "quantidade": 1,
+  "percentual": 0.01
+ },
+ {
+  "palavra": "sul",
+  "quantidade": 1,
+  "percentual": 0.01
+ },
+ {
+  "palavra": "maisde",
+  "quantidade": 1,
+  "percentual": 0.01
+ },
+ {
+  "palavra": "allan",
+  "quantidade": 1,
+  "percentual": 0.01
+ },
+ {
+  "palavra": "figueiredo",
+  "quantidade": 1,
+  "percentual": 0.01
+ },
+ {
+  "palavra": "brasil",
+  "quantidade": 1,
+  "percentual": 0.01
+ },
+ {
+  "palavra": "atsmon",
+  "quantidade": 1,
+  "percentual": 0.01
+ },
+ {
+  "palavra": "perene",
+  "quantidade": 1,
+  "percentual": 0.01
+ },
+ {
+  "palavra": "variação",
+  "quantidade": 1,
+  "percentual": 0.01
+ },
+ {
+  "palavra": "hábitode",
+  "quantidade": 1,
+  "percentual": 0.01
+ },
+ {
+  "palavra": "cor",
+  "quantidade": 1,
+  "percentual": 0.01
+ },
+ {
+  "palavra": "folhagem",
+  "quantidade": 1,
+  "percentual": 0.01
+ },
+ {
+  "palavra": "caules",
+  "quantidade": 1,
+  "percentual": 0.01
+ },
+ {
+  "palavra": "sementee",
+  "quantidade": 1,
+  "percentual": 0.01
+ },
+ {
+  "palavra": "teor",
+  "quantidade": 1,
+  "percentual": 0.01
+ },
+ {
+  "palavra": "tantode",
+  "quantidade": 1,
+  "percentual": 0.01
+ },
+ {
+  "palavra": "auto",
+  "quantidade": 1,
+  "percentual": 0.01
+ },
+ {
+  "palavra": "vento",
+  "quantidade": 1,
+  "percentual": 0.01
+ },
+ {
+  "palavra": "decruzamento",
+  "quantidade": 1,
+  "percentual": 0.01
+ },
+ {
+  "palavra": "controlados",
+  "quantidade": 1,
+  "percentual": 0.01
+ },
+ {
+  "palavra": "sugerem",
+  "quantidade": 1,
+  "percentual": 0.01
+ },
+ {
+  "palavra": "éum",
+  "quantidade": 1,
+  "percentual": 0.01
+ },
+ {
+  "palavra": "frequente",
+  "quantidade": 1,
+  "percentual": 0.01
+ },
+ {
+  "palavra": "reprodução",
+  "quantidade": 1,
+  "percentual": 0.01
+ },
+ {
+  "palavra": "taxa",
+  "quantidade": 1,
+  "percentual": 0.01
+ },
+ {
+  "palavra": "alogamianatural",
+  "quantidade": 1,
+  "percentual": 0.01
+ },
+ {
+  "palavra": "superior",
+  "quantidade": 1,
+  "percentual": 0.01
+ },
+ {
+  "palavra": "brigham",
+  "quantidade": 1,
+  "percentual": 0.01
+ },
+ {
+  "palavra": "tida",
+  "quantidade": 1,
+  "percentual": 0.01
+ },
+ {
+  "palavra": "provavelmentedevido",
+  "quantidade": 1,
+  "percentual": 0.01
+ },
+ {
+  "palavra": "radicular",
+  "quantidade": 1,
+  "percentual": 0.01
+ },
+ {
+  "palavra": "desenvolvido",
+  "quantidade": 1,
+  "percentual": 0.01
+ },
+ {
+  "palavra": "referênciasde",
+  "quantidade": 1,
+  "percentual": 0.01
+ },
+ {
+  "palavra": "bons",
+  "quantidade": 1,
+  "percentual": 0.01
+ },
+ {
+  "palavra": "rendimentos",
+  "quantidade": 1,
+  "percentual": 0.01
+ },
+ {
+  "palavra": "anuaisweiss",
+  "quantidade": 1,
+  "percentual": 0.01
+ },
+ {
+  "palavra": "tanto",
+  "quantidade": 1,
+  "percentual": 0.01
+ },
+ {
+  "palavra": "aausência",
+  "quantidade": 1,
+  "percentual": 0.01
+ },
+ {
+  "palavra": "excesso",
+  "quantidade": 1,
+  "percentual": 0.01
+ },
+ {
+  "palavra": "floraçãopodem",
+  "quantidade": 1,
+  "percentual": 0.01
+ },
+ {
+  "palavra": "produtividade",
+  "quantidade": 1,
+  "percentual": 0.01
+ },
+ {
+  "palavra": "águanessa",
+  "quantidade": 1,
+  "percentual": 0.01
+ },
+ {
+  "palavra": "última",
+  "quantidade": 1,
+  "percentual": 0.01
+ },
+ {
+  "palavra": "fase",
+  "quantidade": 1,
+  "percentual": 0.01
+ },
+ {
+  "palavra": "comprometer",
+  "quantidade": 1,
+  "percentual": 0.01
+ },
+ {
+  "palavra": "frutossouza",
+  "quantidade": 1,
+  "percentual": 0.01
+ },
+ {
+  "palavra": "fator",
+  "quantidade": 1,
+  "percentual": 0.01
+ },
+ {
+  "palavra": "desenvolvimentodas",
+  "quantidade": 1,
+  "percentual": 0.01
+ },
+ {
+  "palavra": "prejudicando",
+  "quantidade": 1,
+  "percentual": 0.01
+ },
+ {
+  "palavra": "rendimento",
+  "quantidade": 1,
+  "percentual": 0.01
+ },
+ {
+  "palavra": "culturas",
+  "quantidade": 1,
+  "percentual": 0.01
+ },
+ {
+  "palavra": "emgeral",
+  "quantidade": 1,
+  "percentual": 0.01
+ },
+ {
+  "palavra": "induz",
+  "quantidade": 1,
+  "percentual": 0.01
+ },
+ {
+  "palavra": "respostasfisiológicas",
+  "quantidade": 1,
+  "percentual": 0.01
+ },
+ {
+  "palavra": "bioquímicas",
+  "quantidade": 1,
+  "percentual": 0.01
+ },
+ {
+  "palavra": "moleculares",
+  "quantidade": 1,
+  "percentual": 0.01
+ },
+ {
+  "palavra": "desenvolvemhabilidades",
+  "quantidade": 1,
+  "percentual": 0.01
+ },
+ {
+  "palavra": "circunstâncias",
+  "quantidade": 1,
+  "percentual": 0.01
+ },
+ {
+  "palavra": "ambientaislimitantes",
+  "quantidade": 1,
+  "percentual": 0.01
+ },
+ {
+  "palavra": "dependendo",
+  "quantidade": 1,
+  "percentual": 0.01
+ },
+ {
+  "palavra": "intensidade",
+  "quantidade": 1,
+  "percentual": 0.01
+ },
+ {
+  "palavra": "duração",
+  "quantidade": 1,
+  "percentual": 0.01
+ },
+ {
+  "palavra": "doestresse",
+  "quantidade": 1,
+  "percentual": 0.01
+ },
+ {
+  "palavra": "interativos",
+  "quantidade": 1,
+  "percentual": 0.01
+ },
+ {
+  "palavra": "doestádio",
+  "quantidade": 1,
+  "percentual": 0.01
+ },
+ {
+  "palavra": "genótipo",
+  "quantidade": 1,
+  "percentual": 0.01
+ },
+ {
+  "palavra": "meneses",
+  "quantidade": 1,
+  "percentual": 0.01
+ },
+ {
+  "palavra": "impacto",
+  "quantidade": 1,
+  "percentual": 0.01
+ },
+ {
+  "palavra": "agricultura",
+  "quantidade": 1,
+  "percentual": 0.01
+ },
+ {
+  "palavra": "importanteconsequência",
+  "quantidade": 1,
+  "percentual": 0.01
+ },
+ {
+  "palavra": "socioeconômica",
+  "quantidade": 1,
+  "percentual": 0.01
+ },
+ {
+  "palavra": "milhões",
+  "quantidade": 1,
+  "percentual": 0.01
+ },
+ {
+  "palavra": "pessoasao",
+  "quantidade": 1,
+  "percentual": 0.01
+ },
+ {
+  "palavra": "redor",
+  "quantidade": 1,
+  "percentual": 0.01
+ },
+ {
+  "palavra": "elliott",
+  "quantidade": 1,
+  "percentual": 0.01
+ },
+ {
+  "palavra": "sobreviveremna",
+  "quantidade": 1,
+  "percentual": 0.01
+ },
+ {
+  "palavra": "desenvolveram",
+  "quantidade": 1,
+  "percentual": 0.01
+ },
+ {
+  "palavra": "detolerância",
+  "quantidade": 1,
+  "percentual": 0.01
+ },
+ {
+  "palavra": "característicapoligênica",
+  "quantidade": 1,
+  "percentual": 0.01
+ },
+ {
+  "palavra": "difícil",
+  "quantidade": 1,
+  "percentual": 0.01
+ },
+ {
+  "palavra": "trabalhada",
+  "quantidade": 1,
+  "percentual": 0.01
+ },
+ {
+  "palavra": "clássico",
+  "quantidade": 1,
+  "percentual": 0.01
+ },
+ {
+  "palavra": "beever",
+  "quantidade": 1,
+  "percentual": 0.01
+ },
+ {
+  "palavra": "biologia",
+  "quantidade": 1,
+  "percentual": 0.01
+ },
+ {
+  "palavra": "molecularé",
+  "quantidade": 1,
+  "percentual": 0.01
+ },
+ {
+  "palavra": "extrema",
+  "quantidade": 1,
+  "percentual": 0.01
+ },
+ {
+  "palavra": "importância",
+  "quantidade": 1,
+  "percentual": 0.01
+ },
+ {
+  "palavra": "naidentificação",
+  "quantidade": 1,
+  "percentual": 0.01
+ },
+ {
+  "palavra": "tolerantes",
+  "quantidade": 1,
+  "percentual": 0.01
+ },
+ {
+  "palavra": "nadhdesidrogenase",
+  "quantidade": 1,
+  "percentual": 0.01
+ },
+ {
+  "palavra": "períodode",
+  "quantidade": 1,
+  "percentual": 0.01
+ },
+ {
+  "palavra": "associado",
+  "quantidade": 1,
+  "percentual": 0.01
+ },
+ {
+  "palavra": "rotas",
+  "quantidade": 1,
+  "percentual": 0.01
+ },
+ {
+  "palavra": "metabólicas",
+  "quantidade": 1,
+  "percentual": 0.01
+ },
+ {
+  "palavra": "estarenvolvidas",
+  "quantidade": 1,
+  "percentual": 0.01
+ },
+ {
+  "palavra": "casagrande",
+  "quantidade": 1,
+  "percentual": 0.01
+ },
+ {
+  "palavra": "provoca",
+  "quantidade": 1,
+  "percentual": 0.01
+ },
+ {
+  "palavra": "expressãogênica",
+  "quantidade": 1,
+  "percentual": 0.01
+ },
+ {
+  "palavra": "funcionais",
+  "quantidade": 1,
+  "percentual": 0.01
+ },
+ {
+  "palavra": "observouse",
+  "quantidade": 1,
+  "percentual": 0.01
+ },
+ {
+  "palavra": "emfeijãocaiupi",
+  "quantidade": 1,
+  "percentual": 0.01
+ },
+ {
+  "palavra": "deácido",
+  "quantidade": 1,
+  "percentual": 0.01
+ },
+ {
+  "palavra": "abscísico",
+  "quantidade": 1,
+  "percentual": 0.01
+ },
+ {
+  "palavra": "sinalização",
+  "quantidade": 1,
+  "percentual": 0.01
+ },
+ {
+  "palavra": "transportador",
+  "quantidade": 1,
+  "percentual": 0.01
+ },
+ {
+  "palavra": "prolinae",
+  "quantidade": 1,
+  "percentual": 0.01
+ },
+ {
+  "palavra": "lipídeos",
+  "quantidade": 1,
+  "percentual": 0.01
+ },
+ {
+  "palavra": "membranas",
+  "quantidade": 1,
+  "percentual": 0.01
+ },
+ {
+  "palavra": "dessesgenes",
+  "quantidade": 1,
+  "percentual": 0.01
+ },
+ {
+  "palavra": "indica",
+  "quantidade": 1,
+  "percentual": 0.01
+ },
+ {
+  "palavra": "participação",
+  "quantidade": 1,
+  "percentual": 0.01
+ },
+ {
+  "palavra": "àproteção",
+  "quantidade": 1,
+  "percentual": 0.01
+ },
+ {
+  "palavra": "abiótico",
+  "quantidade": 1,
+  "percentual": 0.01
+ },
+ {
+  "palavra": "produzem",
+  "quantidade": 1,
+  "percentual": 0.01
+ },
+ {
+  "palavra": "oxigênioero",
+  "quantidade": 1,
+  "percentual": 0.01
+ },
+ {
+  "palavra": "instáveis",
+  "quantidade": 1,
+  "percentual": 0.01
+ },
+ {
+  "palavra": "reativascapazes",
+  "quantidade": 1,
+  "percentual": 0.01
+ },
+ {
+  "palavra": "transformar",
+  "quantidade": 1,
+  "percentual": 0.01
+ },
+ {
+  "palavra": "colidemafetando",
+  "quantidade": 1,
+  "percentual": 0.01
+ },
+ {
+  "palavra": "carboidratos",
+  "quantidade": 1,
+  "percentual": 0.01
+ },
+ {
+  "palavra": "lipídeose",
+  "quantidade": 1,
+  "percentual": 0.01
+ },
+ {
+  "palavra": "gonçalves",
+  "quantidade": 1,
+  "percentual": 0.01
+ },
+ {
+  "palavra": "mostrado",
+  "quantidade": 1,
+  "percentual": 0.01
+ },
+ {
+  "palavra": "ativao",
+  "quantidade": 1,
+  "percentual": 0.01
+ },
+ {
+  "palavra": "eliminaçãodas",
+  "quantidade": 1,
+  "percentual": 0.01
+ },
+ {
+  "palavra": "fan",
+  "quantidade": 1,
+  "percentual": 0.01
+ },
+ {
+  "palavra": "jaleel",
+  "quantidade": 1,
+  "percentual": 0.01
+ },
+ {
+  "palavra": "jambunathan",
+  "quantidade": 1,
+  "percentual": 0.01
+ },
+ {
+  "palavra": "jebara",
+  "quantidade": 1,
+  "percentual": 0.01
+ },
+ {
+  "palavra": "metabolismo",
+  "quantidade": 1,
+  "percentual": 0.01
+ },
+ {
+  "palavra": "dasplantas",
+  "quantidade": 1,
+  "percentual": 0.01
+ },
+ {
+  "palavra": "peróxidode",
+  "quantidade": 1,
+  "percentual": 0.01
+ },
+ {
+  "palavra": "radical",
+  "quantidade": 1,
+  "percentual": 0.01
+ },
+ {
+  "palavra": "radicalhidroxila",
+  "quantidade": 1,
+  "percentual": 0.01
+ },
+ {
+  "palavra": "oh",
+  "quantidade": 1,
+  "percentual": 0.01
+ },
+ {
+  "palavra": "conhecidas",
+  "quantidade": 1,
+  "percentual": 0.01
+ },
+ {
+  "palavra": "oxidar",
+  "quantidade": 1,
+  "percentual": 0.01
+ },
+ {
+  "palavra": "importantesconstituintes",
+  "quantidade": 1,
+  "percentual": 0.01
+ },
+ {
+  "palavra": "tais",
+  "quantidade": 1,
+  "percentual": 0.01
+ },
+ {
+  "palavra": "ácidos",
+  "quantidade": 1,
+  "percentual": 0.01
+ },
+ {
+  "palavra": "lipídeosde",
+  "quantidade": 1,
+  "percentual": 0.01
+ },
+ {
+  "palavra": "membrana",
+  "quantidade": 1,
+  "percentual": 0.01
+ },
+ {
+  "palavra": "bipolar",
+  "quantidade": 1,
+  "percentual": 0.01
+ },
+ {
+  "palavra": "podendoocasionar",
+  "quantidade": 1,
+  "percentual": 0.01
+ },
+ {
+  "palavra": "morte",
+  "quantidade": 1,
+  "percentual": 0.01
+ },
+ {
+  "palavra": "produçãodas",
+  "quantidade": 1,
+  "percentual": 0.01
+ },
+ {
+  "palavra": "peroxidaseapx",
+  "quantidade": 1,
+  "percentual": 0.01
+ },
+ {
+  "palavra": "superoxide",
+  "quantidade": 1,
+  "percentual": 0.01
+ },
+ {
+  "palavra": "dismutasesod",
+  "quantidade": 1,
+  "percentual": 0.01
+ },
+ {
+  "palavra": "essencial",
+  "quantidade": 1,
+  "percentual": 0.01
+ },
+ {
+  "palavra": "eliminação",
+  "quantidade": 1,
+  "percentual": 0.01
+ },
+ {
+  "palavra": "presentes",
+  "quantidade": 1,
+  "percentual": 0.01
+ },
+ {
+  "palavra": "nascélulas",
+  "quantidade": 1,
+  "percentual": 0.01
+ },
+ {
+  "palavra": "dosistema",
+  "quantidade": 1,
+  "percentual": 0.01
+ },
+ {
+  "palavra": "eliminar",
+  "quantidade": 1,
+  "percentual": 0.01
+ },
+ {
+  "palavra": "acúmulode",
+  "quantidade": 1,
+  "percentual": 0.01
+ },
+ {
+  "palavra": "peroxidação",
+  "quantidade": 1,
+  "percentual": 0.01
+ },
+ {
+  "palavra": "lipídios",
+  "quantidade": 1,
+  "percentual": 0.01
+ },
+ {
+  "palavra": "eyidogan",
+  "quantidade": 1,
+  "percentual": 0.01
+ },
+ {
+  "palavra": "demanda",
+  "quantidade": 1,
+  "percentual": 0.01
+ },
+ {
+  "palavra": "paísesvem",
+  "quantidade": 1,
+  "percentual": 0.01
+ },
+ {
+  "palavra": "atraindo",
+  "quantidade": 1,
+  "percentual": 0.01
+ },
+ {
+  "palavra": "melhoristas",
+  "quantidade": 1,
+  "percentual": 0.01
+ },
+ {
+  "palavra": "paísesprodutores",
+  "quantidade": 1,
+  "percentual": 0.01
+ },
+ {
+  "palavra": "sujatha",
+  "quantidade": 1,
+  "percentual": 0.01
+ },
+ {
+  "palavra": "compreender",
+  "quantidade": 1,
+  "percentual": 0.01
+ },
+ {
+  "palavra": "sistemaantioxidativo",
+  "quantidade": 1,
+  "percentual": 0.01
+ },
+ {
+  "palavra": "fundamental",
+  "quantidade": 1,
+  "percentual": 0.01
+ },
+ {
+  "palavra": "seleçãode",
+  "quantidade": 1,
+  "percentual": 0.01
+ },
+ {
+  "palavra": "apresentam",
+  "quantidade": 1,
+  "percentual": 0.01
+ },
+ {
+  "palavra": "sobreo",
+  "quantidade": 1,
+  "percentual": 0.01
+ },
+ {
+  "palavra": "entendimento",
+  "quantidade": 1,
+  "percentual": 0.01
+ },
+ {
+  "palavra": "hídricopoderão",
+  "quantidade": 1,
+  "percentual": 0.01
+ },
+ {
+  "palavra": "representar",
+  "quantidade": 1,
+  "percentual": 0.01
+ },
+ {
+  "palavra": "avanço",
+  "quantidade": 1,
+  "percentual": 0.01
+ },
+ {
+  "palavra": "desenvolvimentode",
+  "quantidade": 1,
+  "percentual": 0.01
+ },
+ {
+  "palavra": "cultivares",
+  "quantidade": 1,
+  "percentual": 0.01
+ },
+ {
+  "palavra": "resistentes",
+  "quantidade": 1,
+  "percentual": 0.01
+ },
+ {
+  "palavra": "haja",
+  "quantidade": 1,
+  "percentual": 0.01
+ },
+ {
+  "palavra": "vista",
+  "quantidade": 1,
+  "percentual": 0.01
+ },
+ {
+  "palavra": "aplanta",
+  "quantidade": 1,
+  "percentual": 0.01
+ },
+ {
+  "palavra": "baixos",
+  "quantidade": 1,
+  "percentual": 0.01
+ },
+ {
+  "palavra": "deprecipitação",
+  "quantidade": 1,
+  "percentual": 0.01
+ },
+ {
+  "palavra": "material",
+  "quantidade": 1,
+  "percentual": 0.01
+ },
+ {
+  "palavra": "métodoinicialmente",
+  "quantidade": 1,
+  "percentual": 0.01
+ },
+ {
+  "palavra": "conduzido",
+  "quantidade": 1,
+  "percentual": 0.01
+ },
+ {
+  "palavra": "seisacessos",
+  "quantidade": 1,
+  "percentual": 0.01
+ },
+ {
+  "palavra": "expostos",
+  "quantidade": 1,
+  "percentual": 0.01
+ },
+ {
+  "palavra": "concentraçõesde",
+  "quantidade": 1,
+  "percentual": 0.01
+ },
+ {
+  "palavra": "polietilenoglicol",
+  "quantidade": 1,
+  "percentual": 0.01
+ },
+ {
+  "palavra": "decurva",
+  "quantidade": 1,
+  "percentual": 0.01
+ },
+ {
+  "palavra": "oestudo",
+  "quantidade": 1,
+  "percentual": 0.01
+ },
+ {
+  "palavra": "divergentes",
+  "quantidade": 1,
+  "percentual": 0.01
+ },
+ {
+  "palavra": "esusceptibilidade",
+  "quantidade": 1,
+  "percentual": 0.01
+ },
+ {
+  "palavra": "exposição",
+  "quantidade": 1,
+  "percentual": 0.01
+ },
+ {
+  "palavra": "induzidopor",
+  "quantidade": 1,
+  "percentual": 0.01
+ },
+ {
+  "palavra": "gl",
+  "quantidade": 1,
+  "percentual": 0.01
+ },
+ {
+  "palavra": "comercialpb",
+  "quantidade": 1,
+  "percentual": 0.01
+ },
+ {
+  "palavra": "linhagem",
+  "quantidade": 1,
+  "percentual": 0.01
+ },
+ {
+  "palavra": "avançada",
+  "quantidade": 1,
+  "percentual": 0.01
+ },
+ {
+  "palavra": "melhorado",
+  "quantidade": 1,
+  "percentual": 0.01
+ },
+ {
+  "palavra": "concentração",
+  "quantidade": 1,
+  "percentual": 0.01
+ },
+ {
+  "palavra": "opotencial",
+  "quantidade": 1,
+  "percentual": 0.01
+ },
+ {
+  "palavra": "mpasementes",
+  "quantidade": 1,
+  "percentual": 0.01
+ },
+ {
+  "palavra": "germinadas",
+  "quantidade": 1,
+  "percentual": 0.01
+ },
+ {
+  "palavra": "papelde",
+  "quantidade": 1,
+  "percentual": 0.01
+ },
+ {
+  "palavra": "filtro",
+  "quantidade": 1,
+  "percentual": 0.01
+ },
+ {
+  "palavra": "incubadora",
+  "quantidade": 1,
+  "percentual": 0.01
+ },
+ {
+  "palavra": "mantida",
+  "quantidade": 1,
+  "percentual": 0.01
+ },
+ {
+  "palavra": "sete",
+  "quantidade": 1,
+  "percentual": 0.01
+ },
+ {
+  "palavra": "asmudas",
+  "quantidade": 1,
+  "percentual": 0.01
+ },
+ {
+  "palavra": "transplantadas",
+  "quantidade": 1,
+  "percentual": 0.01
+ },
+ {
+  "palavra": "vasos",
+  "quantidade": 1,
+  "percentual": 0.01
+ },
+ {
+  "palavra": "vermiculita",
+  "quantidade": 1,
+  "percentual": 0.01
+ },
+ {
+  "palavra": "emantidos",
+  "quantidade": 1,
+  "percentual": 0.01
+ },
+ {
+  "palavra": "casa",
+  "quantidade": 1,
+  "percentual": 0.01
+ },
+ {
+  "palavra": "vegetação",
+  "quantidade": 1,
+  "percentual": 0.01
+ },
+ {
+  "palavra": "irrigação",
+  "quantidade": 1,
+  "percentual": 0.01
+ },
+ {
+  "palavra": "diasas",
+  "quantidade": 1,
+  "percentual": 0.01
+ },
+ {
+  "palavra": "plântulas",
+  "quantidade": 1,
+  "percentual": 0.01
+ },
+ {
+  "palavra": "foramtransferidas",
+  "quantidade": 1,
+  "percentual": 0.01
+ },
+ {
+  "palavra": "climatizado",
+  "quantidade": 1,
+  "percentual": 0.01
+ },
+ {
+  "palavra": "destilada",
+  "quantidade": 1,
+  "percentual": 0.01
+ },
+ {
+  "palavra": "condiçõesde",
+  "quantidade": 1,
+  "percentual": 0.01
+ },
+ {
+  "palavra": "luz",
+  "quantidade": 1,
+  "percentual": 0.01
+ },
+ {
+  "palavra": "constantes",
+  "quantidade": 1,
+  "percentual": 0.01
+ },
+ {
+  "palavra": "ostratamentos",
+  "quantidade": 1,
+  "percentual": 0.01
+ },
+ {
+  "palavra": "amostrasforam",
+  "quantidade": 1,
+  "percentual": 0.01
+ },
+ {
+  "palavra": "tempos",
+  "quantidade": 1,
+  "percentual": 0.01
+ },
+ {
+  "palavra": "cadatratamento",
+  "quantidade": 1,
+  "percentual": 0.01
+ },
+ {
+  "palavra": "adotadas",
+  "quantidade": 1,
+  "percentual": 0.01
+ },
+ {
+  "palavra": "repetições",
+  "quantidade": 1,
+  "percentual": 0.01
+ },
+ {
+  "palavra": "biológicasisolamento",
+  "quantidade": 1,
+  "percentual": 0.01
+ },
+ {
+  "palavra": "síntese",
+  "quantidade": 1,
+  "percentual": 0.01
+ },
+ {
+  "palavra": "dnacomplementaro",
+  "quantidade": 1,
+  "percentual": 0.01
+ },
+ {
+  "palavra": "mg",
+  "quantidade": 1,
+  "percentual": 0.01
+ },
+ {
+  "palavra": "folhasfrescas",
+  "quantidade": 1,
+  "percentual": 0.01
+ },
+ {
+  "palavra": "usandose",
+  "quantidade": 1,
+  "percentual": 0.01
+ },
+ {
+  "palavra": "reagente",
+  "quantidade": 1,
+  "percentual": 0.01
+ },
+ {
+  "palavra": "trizol",
+  "quantidade": 1,
+  "percentual": 0.01
+ },
+ {
+  "palavra": "invitrogen",
+  "quantidade": 1,
+  "percentual": 0.01
+ },
+ {
+  "palavra": "deacordo",
+  "quantidade": 1,
+  "percentual": 0.01
+ },
+ {
+  "palavra": "instruções",
+  "quantidade": 1,
+  "percentual": 0.01
+ },
+ {
+  "palavra": "fabricante",
+  "quantidade": 1,
+  "percentual": 0.01
+ },
+ {
+  "palavra": "aconcentração",
+  "quantidade": 1,
+  "percentual": 0.01
+ },
+ {
+  "palavra": "avaliadas",
+  "quantidade": 1,
+  "percentual": 0.01
+ },
+ {
+  "palavra": "através",
+  "quantidade": 1,
+  "percentual": 0.01
+ },
+ {
+  "palavra": "deespectrofotometro",
+  "quantidade": 1,
+  "percentual": 0.01
+ },
+ {
+  "palavra": "nanodrop",
+  "quantidade": 1,
+  "percentual": 0.01
+ },
+ {
+  "palavra": "nd",
+  "quantidade": 1,
+  "percentual": 0.01
+ },
+ {
+  "palavra": "nanodroptechnologies",
+  "quantidade": 1,
+  "percentual": 0.01
+ },
+ {
+  "palavra": "wilmington",
+  "quantidade": 1,
+  "percentual": 0.01
+ },
+ {
+  "palavra": "contaminaçãopor",
+  "quantidade": 1,
+  "percentual": 0.01
+ },
+ {
+  "palavra": "fenol",
+  "quantidade": 1,
+  "percentual": 0.01
+ },
+ {
+  "palavra": "hidratos",
+  "quantidade": 1,
+  "percentual": 0.01
+ },
+ {
+  "palavra": "carbono",
+  "quantidade": 1,
+  "percentual": 0.01
+ },
+ {
+  "palavra": "determinadacom",
+  "quantidade": 1,
+  "percentual": 0.01
+ },
+ {
+  "palavra": "índices",
+  "quantidade": 1,
+  "percentual": 0.01
+ },
+ {
+  "palavra": "od",
+  "quantidade": 1,
+  "percentual": 0.01
+ },
+ {
+  "palavra": "aa",
+  "quantidade": 1,
+  "percentual": 0.01
+ },
+ {
+  "palavra": "aarespectivamente",
+  "quantidade": 1,
+  "percentual": 0.01
+ },
+ {
+  "palavra": "considerandose",
+  "quantidade": 1,
+  "percentual": 0.01
+ },
+ {
+  "palavra": "comrazão",
+  "quantidade": 1,
+  "percentual": 0.01
+ },
+ {
+  "palavra": "fim",
+  "quantidade": 1,
+  "percentual": 0.01
+ },
+ {
+  "palavra": "integridade",
+  "quantidade": 1,
+  "percentual": 0.01
+ },
+ {
+  "palavra": "rnaas",
+  "quantidade": 1,
+  "percentual": 0.01
+ },
+ {
+  "palavra": "electroforese",
+  "quantidade": 1,
+  "percentual": 0.01
+ },
+ {
+  "palavra": "deagarose",
+  "quantidade": 1,
+  "percentual": 0.01
+ },
+ {
+  "palavra": "corado",
+  "quantidade": 1,
+  "percentual": 0.01
+ },
+ {
+  "palavra": "red",
+  "quantidade": 1,
+  "percentual": 0.01
+ },
+ {
+  "palavra": "biotium",
+  "quantidade": 1,
+  "percentual": 0.01
+ },
+ {
+  "palavra": "hayward",
+  "quantidade": 1,
+  "percentual": 0.01
+ },
+ {
+  "palavra": "caeua",
+  "quantidade": 1,
+  "percentual": 0.01
+ },
+ {
+  "palavra": "visualizadas",
+  "quantidade": 1,
+  "percentual": 0.01
+ },
+ {
+  "palavra": "hp",
+  "quantidade": 1,
+  "percentual": 0.01
+ },
+ {
+  "palavra": "alphaimager",
+  "quantidade": 1,
+  "percentual": 0.01
+ },
+ {
+  "palavra": "alpha",
+  "quantidade": 1,
+  "percentual": 0.01
+ },
+ {
+  "palavra": "innotechcorporation",
+  "quantidade": 1,
+  "percentual": 0.01
+ },
+ {
+  "palavra": "santa",
+  "quantidade": 1,
+  "percentual": 0.01
+ },
+ {
+  "palavra": "clara",
+  "quantidade": 1,
+  "percentual": 0.01
+ },
+ {
+  "palavra": "contaminantes",
+  "quantidade": 1,
+  "percentual": 0.01
+ },
+ {
+  "palavra": "dedna",
+  "quantidade": 1,
+  "percentual": 0.01
+ },
+ {
+  "palavra": "pequenos",
+  "quantidade": 1,
+  "percentual": 0.01
+ },
+ {
+  "palavra": "eliminados",
+  "quantidade": 1,
+  "percentual": 0.01
+ },
+ {
+  "palavra": "genejetrna",
+  "quantidade": 1,
+  "percentual": 0.01
+ },
+ {
+  "palavra": "purification",
+  "quantidade": 1,
+  "percentual": 0.01
+ },
+ {
+  "palavra": "scientifica",
+  "quantidade": 1,
+  "percentual": 0.01
+ },
+ {
+  "palavra": "fita",
+  "quantidade": 1,
+  "percentual": 0.01
+ },
+ {
+  "palavra": "sintetizada",
+  "quantidade": 1,
+  "percentual": 0.01
+ },
+ {
+  "palavra": "reação",
+  "quantidade": 1,
+  "percentual": 0.01
+ },
+ {
+  "palavra": "utilizandoserevertaid",
+  "quantidade": 1,
+  "percentual": 0.01
+ },
+ {
+  "palavra": "h",
+  "quantidade": 1,
+  "percentual": 0.01
+ },
+ {
+  "palavra": "minus",
+  "quantidade": 1,
+  "percentual": 0.01
+ },
+ {
+  "palavra": "first",
+  "quantidade": 1,
+  "percentual": 0.01
+ },
+ {
+  "palavra": "strand",
+  "quantidade": 1,
+  "percentual": 0.01
+ },
+ {
+  "palavra": "synthesis",
+  "quantidade": 1,
+  "percentual": 0.01
+ },
+ {
+  "palavra": "thermoscientific",
+  "quantidade": 1,
+  "percentual": 0.01
+ },
+ {
+  "palavra": "cdnas",
+  "quantidade": 1,
+  "percentual": 0.01
+ },
+ {
+  "palavra": "diluídos",
+  "quantidade": 1,
+  "percentual": 0.01
+ },
+ {
+  "palavra": "nglfoi",
+  "quantidade": 1,
+  "percentual": 0.01
+ },
+ {
+  "palavra": "silico",
+  "quantidade": 1,
+  "percentual": 0.01
+ },
+ {
+  "palavra": "sequências",
+  "quantidade": 1,
+  "percentual": 0.01
+ },
+ {
+  "palavra": "desod",
+  "quantidade": 1,
+  "percentual": 0.01
+ },
+ {
+  "palavra": "est",
+  "quantidade": 1,
+  "percentual": 0.01
+ },
+ {
+  "palavra": "expressedsequence",
+  "quantidade": 1,
+  "percentual": 0.01
+ },
+ {
+  "palavra": "tags",
+  "quantidade": 1,
+  "percentual": 0.01
+ },
+ {
+  "palavra": "ncbi",
+  "quantidade": 1,
+  "percentual": 0.01
+ },
+ {
+  "palavra": "national",
+  "quantidade": 1,
+  "percentual": 0.01
+ },
+ {
+  "palavra": "centerfor",
+  "quantidade": 1,
+  "percentual": 0.01
+ },
+ {
+  "palavra": "biotechnology",
+  "quantidade": 1,
+  "percentual": 0.01
+ },
+ {
+  "palavra": "cinco",
+  "quantidade": 1,
+  "percentual": 0.01
+ },
+ {
+  "palavra": "oligonucleotídeosiniciadores",
+  "quantidade": 1,
+  "percentual": 0.01
+ },
+ {
+  "palavra": "específicos",
+  "quantidade": 1,
+  "percentual": 0.01
+ },
+ {
+  "palavra": "catalasecat",
+  "quantidade": 1,
+  "percentual": 0.01
+ },
+ {
+  "palavra": "asisoformas",
+  "quantidade": 1,
+  "percentual": 0.01
+ },
+ {
+  "palavra": "dismutase",
+  "quantidade": 1,
+  "percentual": 0.01
+ },
+ {
+  "palavra": "primer",
+  "quantidade": 1,
+  "percentual": 0.01
+ },
+ {
+  "palavra": "rozen",
+  "quantidade": 1,
+  "percentual": 0.01
+ },
+ {
+  "palavra": "skaletsky",
+  "quantidade": 1,
+  "percentual": 0.01
+ },
+ {
+  "palavra": "ubte",
+  "quantidade": 1,
+  "percentual": 0.01
+ },
+ {
+  "palavra": "morgante",
+  "quantidade": 1,
+  "percentual": 0.01
+ },
+ {
+  "palavra": "realizado",
+  "quantidade": 1,
+  "percentual": 0.01
+ },
+ {
+  "palavra": "umexperimento",
+  "quantidade": 1,
+  "percentual": 0.01
+ },
+ {
+  "palavra": "confirmar",
+  "quantidade": 1,
+  "percentual": 0.01
+ },
+ {
+  "palavra": "pcras",
+  "quantidade": 1,
+  "percentual": 0.01
+ },
+ {
+  "palavra": "calibração",
+  "quantidade": 1,
+  "percentual": 0.01
+ },
+ {
+  "palavra": "geradasutilizandose",
+  "quantidade": 1,
+  "percentual": 0.01
+ },
+ {
+  "palavra": "diluições",
+  "quantidade": 1,
+  "percentual": 0.01
+ },
+ {
+  "palavra": "calculada",
+  "quantidade": 1,
+  "percentual": 0.01
+ },
+ {
+  "palavra": "slope",
+  "quantidade": 1,
+  "percentual": 0.01
+ },
+ {
+  "palavra": "×",
+  "quantidade": 1,
+  "percentual": 0.01
+ },
+ {
+  "palavra": "temporeal",
+  "quantidade": 1,
+  "percentual": 0.01
+ },
+ {
+  "palavra": "quantitativo",
+  "quantidade": 1,
+  "percentual": 0.01
+ },
+ {
+  "palavra": "qpcr",
+  "quantidade": 1,
+  "percentual": 0.01
+ },
+ {
+  "palavra": "mrnaforam",
+  "quantidade": 1,
+  "percentual": 0.01
+ },
+ {
+  "palavra": "ensaio",
+  "quantidade": 1,
+  "percentual": 0.01
+ },
+ {
+  "palavra": "green",
+  "quantidade": 1,
+  "percentual": 0.01
+ },
+ {
+  "palavra": "umapplied",
+  "quantidade": 1,
+  "percentual": 0.01
+ },
+ {
+  "palavra": "fast",
+  "quantidade": 1,
+  "percentual": 0.01
+ },
+ {
+  "palavra": "realtime",
+  "quantidade": 1,
+  "percentual": 0.01
+ },
+ {
+  "palavra": "systemapplied",
+  "quantidade": 1,
+  "percentual": 0.01
+ },
+ {
+  "palavra": "amplificações",
+  "quantidade": 1,
+  "percentual": 0.01
+ },
+ {
+  "palavra": "depcr",
+  "quantidade": 1,
+  "percentual": 0.01
+ },
+ {
+  "palavra": "realizadas",
+  "quantidade": 1,
+  "percentual": 0.01
+ },
+ {
+  "palavra": "triplicata",
+  "quantidade": 1,
+  "percentual": 0.01
+ },
+ {
+  "palavra": "reações",
+  "quantidade": 1,
+  "percentual": 0.01
+ },
+ {
+  "palavra": "lcontendo",
+  "quantidade": 1,
+  "percentual": 0.01
+ },
+ {
+  "palavra": "maxima",
+  "quantidade": 1,
+  "percentual": 0.01
+ },
+ {
+  "palavra": "greenqpcr",
+  "quantidade": 1,
+  "percentual": 0.01
+ },
+ {
+  "palavra": "rox",
+  "quantidade": 1,
+  "percentual": 0.01
+ },
+ {
+  "palavra": "mix",
+  "quantidade": 1,
+  "percentual": 0.01
+ },
+ {
+  "palavra": "masterfermentas",
+  "quantidade": 1,
+  "percentual": 0.01
+ },
+ {
+  "palavra": "direto",
+  "quantidade": 1,
+  "percentual": 0.01
+ },
+ {
+  "palavra": "inversoe",
+  "quantidade": 1,
+  "percentual": 0.01
+ },
+ {
+  "palavra": "ciclos",
+  "quantidade": 1,
+  "percentual": 0.01
+ },
+ {
+  "palavra": "s",
+  "quantidade": 1,
+  "percentual": 0.01
+ },
+ {
+  "palavra": "aespecificidade",
+  "quantidade": 1,
+  "percentual": 0.01
+ },
+ {
+  "palavra": "adicionado",
+  "quantidade": 1,
+  "percentual": 0.01
+ },
+ {
+  "palavra": "estágiode",
+  "quantidade": 1,
+  "percentual": 0.01
+ },
+ {
+  "palavra": "dissociação",
+  "quantidade": 1,
+  "percentual": 0.01
+ },
+ {
+  "palavra": "placa",
+  "quantidade": 1,
+  "percentual": 0.01
+ },
+ {
+  "palavra": "incluídosdeterminação",
+  "quantidade": 1,
+  "percentual": 0.01
+ },
+ {
+  "palavra": "diferencialvalores",
+  "quantidade": 1,
+  "percentual": 0.01
+ },
+ {
+  "palavra": "cycle",
+  "quantidade": 1,
+  "percentual": 0.01
+ },
+ {
+  "palavra": "threshold",
+  "quantidade": 1,
+  "percentual": 0.01
+ },
+ {
+  "palavra": "determinadosutilizandose",
+  "quantidade": 1,
+  "percentual": 0.01
+ },
+ {
+  "palavra": "sds",
+  "quantidade": 1,
+  "percentual": 0.01
+ },
+ {
+  "palavra": "applied",
+  "quantidade": 1,
+  "percentual": 0.01
+ },
+ {
+  "palavra": "euadados",
+  "quantidade": 1,
+  "percentual": 0.01
+ },
+ {
+  "palavra": "utilizandoseos",
+  "quantidade": 1,
+  "percentual": 0.01
+ },
+ {
+  "palavra": "ométodo",
+  "quantidade": 1,
+  "percentual": 0.01
+ },
+ {
+  "palavra": "livak",
+  "quantidade": 1,
+  "percentual": 0.01
+ },
+ {
+  "palavra": "schmittgen",
+  "quantidade": 1,
+  "percentual": 0.01
+ },
+ {
+  "palavra": "heatmap",
+  "quantidade": 1,
+  "percentual": 0.01
+ },
+ {
+  "palavra": "construído",
+  "quantidade": 1,
+  "percentual": 0.01
+ },
+ {
+  "palavra": "utilizandose",
+  "quantidade": 1,
+  "percentual": 0.01
+ },
+ {
+  "palavra": "jcolorgridjoachimiak",
+  "quantidade": 1,
+  "percentual": 0.01
+ },
+ {
+  "palavra": "enzimáticaas",
+  "quantidade": 1,
+  "percentual": 0.01
+ },
+ {
+  "palavra": "determinadas",
+  "quantidade": 1,
+  "percentual": 0.01
+ },
+ {
+  "palavra": "emespectrofotômetro",
+  "quantidade": 1,
+  "percentual": 0.01
+ },
+ {
+  "palavra": "scientific",
+  "quantidade": 1,
+  "percentual": 0.01
+ },
+ {
+  "palavra": "genesys",
+  "quantidade": 1,
+  "percentual": 0.01
+ },
+ {
+  "palavra": "suvpara",
+  "quantidade": 1,
+  "percentual": 0.01
+ },
+ {
+  "palavra": "enzimascat",
+  "quantidade": 1,
+  "percentual": 0.01
+ },
+ {
+  "palavra": "mma",
+  "quantidade": 1,
+  "percentual": 0.01
+ },
+ {
+  "palavra": "deextrato",
+  "quantidade": 1,
+  "percentual": 0.01
+ },
+ {
+  "palavra": "decréscimo",
+  "quantidade": 1,
+  "percentual": 0.01
+ },
+ {
+  "palavra": "acréscimo",
+  "quantidade": 1,
+  "percentual": 0.01
+ },
+ {
+  "palavra": "obtida",
+  "quantidade": 1,
+  "percentual": 0.01
+ },
+ {
+  "palavra": "adição",
+  "quantidade": 1,
+  "percentual": 0.01
+ },
+ {
+  "palavra": "ascórbito",
+  "quantidade": 1,
+  "percentual": 0.01
+ },
+ {
+  "palavra": "decréscimode",
+  "quantidade": 1,
+  "percentual": 0.01
+ },
+ {
+  "palavra": "ascórbico",
+  "quantidade": 1,
+  "percentual": 0.01
+ },
+ {
+  "palavra": "deamako",
+  "quantidade": 1,
+  "percentual": 0.01
+ },
+ {
+  "palavra": "enzimasod",
+  "quantidade": 1,
+  "percentual": 0.01
+ },
+ {
+  "palavra": "ul",
+  "quantidade": 1,
+  "percentual": 0.01
+ },
+ {
+  "palavra": "pvpppf",
+  "quantidade": 1,
+  "percentual": 0.01
+ },
+ {
+  "palavra": "espectrofotometriade",
+  "quantidade": 1,
+  "percentual": 0.01
+ },
+ {
+  "palavra": "gupta",
+  "quantidade": 1,
+  "percentual": 0.01
+ },
+ {
+  "palavra": "comalgumas",
+  "quantidade": 1,
+  "percentual": 0.01
+ },
+ {
+  "palavra": "modificações",
+  "quantidade": 1,
+  "percentual": 0.01
+ },
+ {
+  "palavra": "solução",
+  "quantidade": 1,
+  "percentual": 0.01
+ },
+ {
+  "palavra": "fosfatode",
+  "quantidade": 1,
+  "percentual": 0.01
+ },
+ {
+  "palavra": "potassio",
+  "quantidade": 1,
+  "percentual": 0.01
+ },
+ {
+  "palavra": "metionina",
+  "quantidade": 1,
+  "percentual": 0.01
+ },
+ {
+  "palavra": "azul",
+  "quantidade": 1,
+  "percentual": 0.01
+ },
+ {
+  "palavra": "nitrotetrazólio",
+  "quantidade": 1,
+  "percentual": 0.01
+ },
+ {
+  "palavra": "ntb",
+  "quantidade": 1,
+  "percentual": 0.01
+ },
+ {
+  "palavra": "tritonx",
+  "quantidade": 1,
+  "percentual": 0.01
+ },
+ {
+  "palavra": "riboflavinao",
+  "quantidade": 1,
+  "percentual": 0.01
+ },
+ {
+  "palavra": "gpoxfoi",
+  "quantidade": 1,
+  "percentual": 0.01
+ },
+ {
+  "palavra": "determinado",
+  "quantidade": 1,
+  "percentual": 0.01
+ },
+ {
+  "palavra": "fórmulaatividade",
+  "quantidade": 1,
+  "percentual": 0.01
+ },
+ {
+  "palavra": "tempovolumecubetaextrato",
+  "quantidade": 1,
+  "percentual": 0.01
+ },
+ {
+  "palavra": "enzimavolume",
+  "quantidade": 1,
+  "percentual": 0.01
+ },
+ {
+  "palavra": "tampãovolumetampãovolume",
+  "quantidade": 1,
+  "percentual": 0.01
+ },
+ {
+  "palavra": "centrifugaçãogramasde",
+  "quantidade": 1,
+  "percentual": 0.01
+ },
+ {
+  "palavra": "tecidoem",
+  "quantidade": 1,
+  "percentual": 0.01
+ },
+ {
+  "palavra": "extinção",
+  "quantidade": 1,
+  "percentual": 0.01
+ },
+ {
+  "palavra": "cadaenzima",
+  "quantidade": 1,
+  "percentual": 0.01
+ },
+ {
+  "palavra": "cmgpox",
+  "quantidade": 1,
+  "percentual": 0.01
+ },
+ {
+  "palavra": "cmcomo",
+  "quantidade": 1,
+  "percentual": 0.01
+ },
+ {
+  "palavra": "deextinção",
+  "quantidade": 1,
+  "percentual": 0.01
+ },
+ {
+  "palavra": "fórmula",
+  "quantidade": 1,
+  "percentual": 0.01
+ },
+ {
+  "palavra": "apresentadapara",
+  "quantidade": 1,
+  "percentual": 0.01
+ },
+ {
+  "palavra": "substituídopelo",
+  "quantidade": 1,
+  "percentual": 0.01
+ },
+ {
+  "palavra": "extratos",
+  "quantidade": 1,
+  "percentual": 0.01
+ },
+ {
+  "palavra": "controlee",
+  "quantidade": 1,
+  "percentual": 0.01
+ },
+ {
+  "palavra": "tratamentoas",
+  "quantidade": 1,
+  "percentual": 0.01
+ },
+ {
+  "palavra": "catalíticas",
+  "quantidade": 1,
+  "percentual": 0.01
+ },
+ {
+  "palavra": "calculadasde",
+  "quantidade": 1,
+  "percentual": 0.01
+ },
+ {
+  "palavra": "absorbâncias",
+  "quantidade": 1,
+  "percentual": 0.01
+ },
+ {
+  "palavra": "obtidas",
+  "quantidade": 1,
+  "percentual": 0.01
+ },
+ {
+  "palavra": "expressas",
+  "quantidade": 1,
+  "percentual": 0.01
+ },
+ {
+  "palavra": "emmolminmgmfanálise",
+  "quantidade": 1,
+  "percentual": 0.01
+ },
+ {
+  "palavra": "dadosa",
+  "quantidade": 1,
+  "percentual": 0.01
+ },
+ {
+  "palavra": "anova",
+  "quantidade": 1,
+  "percentual": 0.01
+ },
+ {
+  "palavra": "bioquímicosfoi",
+  "quantidade": 1,
+  "percentual": 0.01
+ },
+ {
+  "palavra": "development",
+  "quantidade": 1,
+  "percentual": 0.01
+ },
+ {
+  "palavra": "core",
+  "quantidade": 1,
+  "percentual": 0.01
+ },
+ {
+  "palavra": "team",
+  "quantidade": 1,
+  "percentual": 0.01
+ },
+ {
+  "palavra": "comparando",
+  "quantidade": 1,
+  "percentual": 0.01
+ },
+ {
+  "palavra": "econtroles",
+  "quantidade": 1,
+  "percentual": 0.01
+ },
+ {
+  "palavra": "diferenças",
+  "quantidade": 1,
+  "percentual": 0.01
+ },
+ {
+  "palavra": "tratamentomenos",
+  "quantidade": 1,
+  "percentual": 0.01
+ },
+ {
+  "palavra": "tratamentocontrole",
+  "quantidade": 1,
+  "percentual": 0.01
+ },
+ {
+  "palavra": "valoresencontrados",
+  "quantidade": 1,
+  "percentual": 0.01
+ },
+ {
+  "palavra": "comparados",
+  "quantidade": 1,
+  "percentual": 0.01
+ },
+ {
+  "palavra": "resultadosexpressão",
+  "quantidade": 1,
+  "percentual": 0.01
+ },
+ {
+  "palavra": "diferencialos",
+  "quantidade": 1,
+  "percentual": 0.01
+ },
+ {
+  "palavra": "deeficiência",
+  "quantidade": 1,
+  "percentual": 0.01
+ },
+ {
+  "palavra": "variaramde",
+  "quantidade": 1,
+  "percentual": 0.01
+ },
+ {
+  "palavra": "paraos",
+  "quantidade": 1,
+  "percentual": 0.01
+ },
+ {
+  "palavra": "oligonucleotídios",
+  "quantidade": 1,
+  "percentual": 0.01
+ },
+ {
+  "palavra": "consideradosvalores",
+  "quantidade": 1,
+  "percentual": 0.01
+ },
+ {
+  "palavra": "ideais",
+  "quantidade": 1,
+  "percentual": 0.01
+ },
+ {
+  "palavra": "pfaffl",
+  "quantidade": 1,
+  "percentual": 0.01
+ },
+ {
+  "palavra": "sucesso",
+  "quantidade": 1,
+  "percentual": 0.01
+ },
+ {
+  "palavra": "técnicapara",
+  "quantidade": 1,
+  "percentual": 0.01
+ },
+ {
+  "palavra": "consideradoscomo",
+  "quantidade": 1,
+  "percentual": 0.01
+ },
+ {
+  "palavra": "dequantificação",
+  "quantidade": 1,
+  "percentual": 0.01
+ },
+ {
+  "palavra": "relativa",
+  "quantidade": 1,
+  "percentual": 0.01
+ },
+ {
+  "palavra": "superiores",
+  "quantidade": 1,
+  "percentual": 0.01
+ },
+ {
+  "palavra": "houve",
+  "quantidade": 1,
+  "percentual": 0.01
+ },
+ {
+  "palavra": "significativa",
+  "quantidade": 1,
+  "percentual": 0.01
+ },
+ {
+  "palavra": "entreos",
+  "quantidade": 1,
+  "percentual": 0.01
+ },
+ {
+  "palavra": "motivo",
+  "quantidade": 1,
+  "percentual": 0.01
+ },
+ {
+  "palavra": "analisadas",
+  "quantidade": 1,
+  "percentual": 0.01
+ },
+ {
+  "palavra": "foramaquelas",
+  "quantidade": 1,
+  "percentual": 0.01
+ },
+ {
+  "palavra": "horaso",
+  "quantidade": 1,
+  "percentual": 0.01
+ },
+ {
+  "palavra": "ldas",
+  "quantidade": 1,
+  "percentual": 0.01
+ },
+ {
+  "palavra": "alvo",
+  "quantidade": 1,
+  "percentual": 0.01
+ },
+ {
+  "palavra": "revelou",
+  "quantidade": 1,
+  "percentual": 0.01
+ },
+ {
+  "palavra": "enzimasdo",
+  "quantidade": 1,
+  "percentual": 0.01
+ },
+ {
+  "palavra": "carecaquando",
+  "quantidade": 1,
+  "percentual": 0.01
+ },
+ {
+  "palavra": "comparadas",
+  "quantidade": 1,
+  "percentual": 0.01
+ },
+ {
+  "palavra": "ubiquitinautilizados",
+  "quantidade": 1,
+  "percentual": 0.01
+ },
+ {
+  "palavra": "foiobservado",
+  "quantidade": 1,
+  "percentual": 0.01
+ },
+ {
+  "palavra": "entanto",
+  "quantidade": 1,
+  "percentual": 0.01
+ },
+ {
+  "palavra": "normalizador",
+  "quantidade": 1,
+  "percentual": 0.01
+ },
+ {
+  "palavra": "sodfenão",
+  "quantidade": 1,
+  "percentual": 0.01
+ },
+ {
+  "palavra": "submetido",
+  "quantidade": 1,
+  "percentual": 0.01
+ },
+ {
+  "palavra": "adéficit",
+  "quantidade": 1,
+  "percentual": 0.01
+ },
+ {
+  "palavra": "nesse",
+  "quantidade": 1,
+  "percentual": 0.01
+ },
+ {
+  "palavra": "geneno",
+  "quantidade": 1,
+  "percentual": 0.01
+ },
+ {
+  "palavra": "lem",
+  "quantidade": 1,
+  "percentual": 0.01
+ },
+ {
+  "palavra": "cercade",
+  "quantidade": 1,
+  "percentual": 0.01
+ },
+ {
+  "palavra": "transcrição",
+  "quantidade": 1,
+  "percentual": 0.01
+ },
+ {
+  "palavra": "contrariamente",
+  "quantidade": 1,
+  "percentual": 0.01
+ },
+ {
+  "palavra": "nãoapresentou",
+  "quantidade": 1,
+  "percentual": 0.01
+ },
+ {
+  "palavra": "sendodiferentemente",
+  "quantidade": 1,
+  "percentual": 0.01
+ },
+ {
+  "palavra": "nosacessos",
+  "quantidade": 1,
+  "percentual": 0.01
+ },
+ {
+  "palavra": "diferencialmenteexpresso",
+  "quantidade": 1,
+  "percentual": 0.01
+ },
+ {
+  "palavra": "dedéficit",
+  "quantidade": 1,
+  "percentual": 0.01
+ },
+ {
+  "palavra": "nenhum",
+  "quantidade": 1,
+  "percentual": 0.01
+ },
+ {
+  "palavra": "alvotabela",
+  "quantidade": 1,
+  "percentual": 0.01
+ },
+ {
+  "palavra": "aosistema",
+  "quantidade": 1,
+  "percentual": 0.01
+ },
+ {
+  "palavra": "referênciagenes",
+  "quantidade": 1,
+  "percentual": 0.01
+ },
+ {
+  "palavra": "slop",
+  "quantidade": 1,
+  "percentual": 0.01
+ },
+ {
+  "palavra": "eficiênciacat",
+  "quantidade": 1,
+  "percentual": 0.01
+ },
+ {
+  "palavra": "dcccaggagctgcgcactatrgctagcttctgacccagggattxapx",
+  "quantidade": 1,
+  "percentual": 0.01
+ },
+ {
+  "palavra": "daactcagggtcttccaacaaagcraactcagggtcttccaacaaagctsod",
+  "quantidade": 1,
+  "percentual": 0.01
+ },
+ {
+  "palavra": "cuzn",
+  "quantidade": 1,
+  "percentual": 0.01
+ },
+ {
+  "palavra": "aaacctgtcaagccaacccatar",
+  "quantidade": 1,
+  "percentual": 0.01
+ },
+ {
+  "palavra": "tgaactgcttctccaggaatcctsod",
+  "quantidade": 1,
+  "percentual": 0.01
+ },
+ {
+  "palavra": "aaacccctttcccgaattcar",
+  "quantidade": 1,
+  "percentual": 0.01
+ },
+ {
+  "palavra": "tgcatggattcccaaaagaagtxmsod",
+  "quantidade": 1,
+  "percentual": 0.01
+ },
+ {
+  "palavra": "mn",
+  "quantidade": 1,
+  "percentual": 0.01
+ },
+ {
+  "palavra": "dgggcgactcttcttctgttgttaar",
+  "quantidade": 1,
+  "percentual": 0.01
+ },
+ {
+  "palavra": "ttgatatgacctcctccgttgaaxmact",
+  "quantidade": 1,
+  "percentual": 0.01
+ },
+ {
+  "palavra": "gccgacgccgaggatattr",
+  "quantidade": 1,
+  "percentual": 0.01
+ },
+ {
+  "palavra": "ccagccttcaccattccagttayubq",
+  "quantidade": 1,
+  "percentual": 0.01
+ },
+ {
+  "palavra": "dttctcatgtgagggactatggtgttrctgaaagtctgagaaccaaatgcaxmacesso",
+  "quantidade": 1,
+  "percentual": 0.01
+ },
+ {
+  "palavra": "sequência",
+  "quantidade": 1,
+  "percentual": 0.01
+ },
+ {
+  "palavra": "ncbigenótipos",
+  "quantidade": 1,
+  "percentual": 0.01
+ },
+ {
+  "palavra": "enzimáticasem",
+  "quantidade": 1,
+  "percentual": 0.01
+ },
+ {
+  "palavra": "emaior",
+  "quantidade": 1,
+  "percentual": 0.01
+ },
+ {
+  "palavra": "quandocomparado",
+  "quantidade": 1,
+  "percentual": 0.01
+ },
+ {
+  "palavra": "apresentaramvalores",
+  "quantidade": 1,
+  "percentual": 0.01
+ },
+ {
+  "palavra": "inferiores",
+  "quantidade": 1,
+  "percentual": 0.01
+ },
+ {
+  "palavra": "decat",
+  "quantidade": 1,
+  "percentual": 0.01
+ },
+ {
+  "palavra": "já",
+  "quantidade": 1,
+  "percentual": 0.01
+ },
+ {
+  "palavra": "acessoiac",
+  "quantidade": 1,
+  "percentual": 0.01
+ },
+ {
+  "palavra": "menoratividade",
+  "quantidade": 1,
+  "percentual": 0.01
+ },
+ {
+  "palavra": "alternância",
+  "quantidade": 1,
+  "percentual": 0.01
+ },
+ {
+  "palavra": "deatividade",
+  "quantidade": 1,
+  "percentual": 0.01
+ },
+ {
+  "palavra": "verificado",
+  "quantidade": 1,
+  "percentual": 0.01
+ },
+ {
+  "palavra": "queteve",
+  "quantidade": 1,
+  "percentual": 0.01
+ },
+ {
+  "palavra": "umamenor",
+  "quantidade": 1,
+  "percentual": 0.01
+ },
+ {
+  "palavra": "discussãoplantas",
+  "quantidade": 1,
+  "percentual": 0.01
+ },
+ {
+  "palavra": "enzimáticos",
+  "quantidade": 1,
+  "percentual": 0.01
+ },
+ {
+  "palavra": "contraespécies",
+  "quantidade": 1,
+  "percentual": 0.01
+ },
+ {
+  "palavra": "aativação",
+  "quantidade": 1,
+  "percentual": 0.01
+ },
+ {
+  "palavra": "codificam",
+  "quantidade": 1,
+  "percentual": 0.01
+ },
+ {
+  "palavra": "respostaa",
+  "quantidade": 1,
+  "percentual": 0.01
+ },
+ {
+  "palavra": "oxidativo",
+  "quantidade": 1,
+  "percentual": 0.01
+ },
+ {
+  "palavra": "observada",
+  "quantidade": 1,
+  "percentual": 0.01
+ },
+ {
+  "palavra": "tabacobowler",
+  "quantidade": 1,
+  "percentual": 0.01
+ },
+ {
+  "palavra": "amendoimsankar",
+  "quantidade": 1,
+  "percentual": 0.01
+ },
+ {
+  "palavra": "soddemonstram",
+  "quantidade": 1,
+  "percentual": 0.01
+ },
+ {
+  "palavra": "emarroz",
+  "quantidade": 1,
+  "percentual": 0.01
+ },
+ {
+  "palavra": "tanaka",
+  "quantidade": 1,
+  "percentual": 0.01
+ },
+ {
+  "palavra": "van",
+  "quantidade": 1,
+  "percentual": 0.01
+ },
+ {
+  "palavra": "breusegem",
+  "quantidade": 1,
+  "percentual": 0.01
+ },
+ {
+  "palavra": "acessofigura",
+  "quantidade": 1,
+  "percentual": 0.01
+ },
+ {
+  "palavra": "heat",
+  "quantidade": 1,
+  "percentual": 0.01
+ },
+ {
+  "palavra": "map",
+  "quantidade": 1,
+  "percentual": 0.01
+ },
+ {
+  "palavra": "expressãodiferencial",
+  "quantidade": 1,
+  "percentual": 0.01
+ },
+ {
+  "palavra": "horasde",
+  "quantidade": 1,
+  "percentual": 0.01
+ },
+ {
+  "palavra": "quantitativa",
+  "quantidade": 1,
+  "percentual": 0.01
+ },
+ {
+  "palavra": "realtabela",
+  "quantidade": 1,
+  "percentual": 0.01
+ },
+ {
+  "palavra": "estudadosgenesacessoschina",
+  "quantidade": 1,
+  "percentual": 0.01
+ },
+ {
+  "palavra": "controleno",
+  "quantidade": 1,
+  "percentual": 0.01
+ },
+ {
+  "palavra": "horasenzimas",
+  "quantidade": 1,
+  "percentual": 0.01
+ },
+ {
+  "palavra": "catchina",
+  "quantidade": 1,
+  "percentual": 0.01
+ },
+ {
+  "palavra": "abpb",
+  "quantidade": 1,
+  "percentual": 0.01
+ },
+ {
+  "palavra": "bapxchina",
+  "quantidade": 1,
+  "percentual": 0.01
+ },
+ {
+  "palavra": "agpoxiac",
+  "quantidade": 1,
+  "percentual": 0.01
+ },
+ {
+  "palavra": "achina",
+  "quantidade": 1,
+  "percentual": 0.01
+ },
+ {
+  "palavra": "bsodchina",
+  "quantidade": 1,
+  "percentual": 0.01
+ },
+ {
+  "palavra": "abiac",
+  "quantidade": 1,
+  "percentual": 0.01
+ },
+ {
+  "palavra": "ab",
+  "quantidade": 1,
+  "percentual": 0.01
+ },
+ {
+  "palavra": "molminmgmf",
+  "quantidade": 1,
+  "percentual": 0.01
+ },
+ {
+  "palavra": "médias",
+  "quantidade": 1,
+  "percentual": 0.01
+ },
+ {
+  "palavra": "seguidas",
+  "quantidade": 1,
+  "percentual": 0.01
+ },
+ {
+  "palavra": "letras",
+  "quantidade": 1,
+  "percentual": 0.01
+ },
+ {
+  "palavra": "distintas",
+  "quantidade": 1,
+  "percentual": 0.01
+ },
+ {
+  "palavra": "diferem",
+  "quantidade": 1,
+  "percentual": 0.01
+ },
+ {
+  "palavra": "sipf",
+  "quantidade": 1,
+  "percentual": 0.01
+ },
+ {
+  "palavra": "esodmn",
+  "quantidade": 1,
+  "percentual": 0.01
+ },
+ {
+  "palavra": "causado",
+  "quantidade": 1,
+  "percentual": 0.01
+ },
+ {
+  "palavra": "induzidaem",
+  "quantidade": 1,
+  "percentual": 0.01
+ },
+ {
+  "palavra": "enzimaconfere",
+  "quantidade": 1,
+  "percentual": 0.01
+ },
+ {
+  "palavra": "danos",
+  "quantidade": 1,
+  "percentual": 0.01
+ },
+ {
+  "palavra": "causados",
+  "quantidade": 1,
+  "percentual": 0.01
+ },
+ {
+  "palavra": "radicalde",
+  "quantidade": 1,
+  "percentual": 0.01
+ },
+ {
+  "palavra": "bowler",
+  "quantidade": 1,
+  "percentual": 0.01
+ },
+ {
+  "palavra": "explicada",
+  "quantidade": 1,
+  "percentual": 0.01
+ },
+ {
+  "palavra": "pelacompartimentação",
+  "quantidade": 1,
+  "percentual": 0.01
+ },
+ {
+  "palavra": "células",
+  "quantidade": 1,
+  "percentual": 0.01
+ },
+ {
+  "palavra": "aisoforma",
+  "quantidade": 1,
+  "percentual": 0.01
+ },
+ {
+  "palavra": "encontrada",
+  "quantidade": 1,
+  "percentual": 0.01
+ },
+ {
+  "palavra": "citosol",
+  "quantidade": 1,
+  "percentual": 0.01
+ },
+ {
+  "palavra": "cloroplasto",
+  "quantidade": 1,
+  "percentual": 0.01
+ },
+ {
+  "palavra": "epossivelmente",
+  "quantidade": 1,
+  "percentual": 0.01
+ },
+ {
+  "palavra": "espaço",
+  "quantidade": 1,
+  "percentual": 0.01
+ },
+ {
+  "palavra": "extracelular",
+  "quantidade": 1,
+  "percentual": 0.01
+ },
+ {
+  "palavra": "localizadanos",
+  "quantidade": 1,
+  "percentual": 0.01
+ },
+ {
+  "palavra": "cloroplastos",
+  "quantidade": 1,
+  "percentual": 0.01
+ },
+ {
+  "palavra": "localiza",
+  "quantidade": 1,
+  "percentual": 0.01
+ },
+ {
+  "palavra": "mitocôndriasalscher",
+  "quantidade": 1,
+  "percentual": 0.01
+ },
+ {
+  "palavra": "scandalios",
+  "quantidade": 1,
+  "percentual": 0.01
+ },
+ {
+  "palavra": "padrãode",
+  "quantidade": 1,
+  "percentual": 0.01
+ },
+ {
+  "palavra": "podeser",
+  "quantidade": 1,
+  "percentual": 0.01
+ },
+ {
+  "palavra": "maisantigas",
+  "quantidade": 1,
+  "percentual": 0.01
+ },
+ {
+  "palavra": "possivelmente",
+  "quantidade": 1,
+  "percentual": 0.01
+ },
+ {
+  "palavra": "terem",
+  "quantidade": 1,
+  "percentual": 0.01
+ },
+ {
+  "palavra": "surgido",
+  "quantidade": 1,
+  "percentual": 0.01
+ },
+ {
+  "palavra": "enzimaancestral",
+  "quantidade": 1,
+  "percentual": 0.01
+ },
+ {
+  "palavra": "apesar",
+  "quantidade": 1,
+  "percentual": 0.01
+ },
+ {
+  "palavra": "possuir",
+  "quantidade": 1,
+  "percentual": 0.01
+ },
+ {
+  "palavra": "asequência",
+  "quantidade": 1,
+  "percentual": 0.01
+ },
+ {
+  "palavra": "evoluíramseparadamente",
+  "quantidade": 1,
+  "percentual": 0.01
+ },
+ {
+  "palavra": "eucariotos",
+  "quantidade": 1,
+  "percentual": 0.01
+ },
+ {
+  "palavra": "issoexplica",
+  "quantidade": 1,
+  "percentual": 0.01
+ },
+ {
+  "palavra": "maisexpresso",
+  "quantidade": 1,
+  "percentual": 0.01
+ },
+ {
+  "palavra": "comparado",
+  "quantidade": 1,
+  "percentual": 0.01
+ },
+ {
+  "palavra": "comas",
+  "quantidade": 1,
+  "percentual": 0.01
+ },
+ {
+  "palavra": "tiveram",
+  "quantidade": 1,
+  "percentual": 0.01
+ },
+ {
+  "palavra": "expressãofoi",
+  "quantidade": 1,
+  "percentual": 0.01
+ },
+ {
+  "palavra": "possível",
+  "quantidade": 1,
+  "percentual": 0.01
+ },
+ {
+  "palavra": "observar",
+  "quantidade": 1,
+  "percentual": 0.01
+ },
+ {
+  "palavra": "naexpressão",
+  "quantidade": 1,
+  "percentual": 0.01
+ },
+ {
+  "palavra": "carecarespectivamente",
+  "quantidade": 1,
+  "percentual": 0.01
+ },
+ {
+  "palavra": "plano",
+  "quantidade": 1,
+  "percentual": 0.01
+ },
+ {
+  "palavra": "ambas",
+  "quantidade": 1,
+  "percentual": 0.01
+ },
+ {
+  "palavra": "asenzimas",
+  "quantidade": 1,
+  "percentual": 0.01
+ },
+ {
+  "palavra": "alta",
+  "quantidade": 1,
+  "percentual": 0.01
+ },
+ {
+  "palavra": "afinidade",
+  "quantidade": 1,
+  "percentual": 0.01
+ },
+ {
+  "palavra": "capazesde",
+  "quantidade": 1,
+  "percentual": 0.01
+ },
+ {
+  "palavra": "detoxificar",
+  "quantidade": 1,
+  "percentual": 0.01
+ },
+ {
+  "palavra": "baixas",
+  "quantidade": 1,
+  "percentual": 0.01
+ },
+ {
+  "palavra": "concentrações",
+  "quantidade": 1,
+  "percentual": 0.01
+ },
+ {
+  "palavra": "wang",
+  "quantidade": 1,
+  "percentual": 0.01
+ },
+ {
+  "palavra": "chamnongpol",
+  "quantidade": 1,
+  "percentual": 0.01
+ },
+ {
+  "palavra": "sankar",
+  "quantidade": 1,
+  "percentual": 0.01
+ },
+ {
+  "palavra": "diretamente",
+  "quantidade": 1,
+  "percentual": 0.01
+ },
+ {
+  "palavra": "ligadacom",
+  "quantidade": 1,
+  "percentual": 0.01
+ },
+ {
+  "palavra": "estresses",
+  "quantidade": 1,
+  "percentual": 0.01
+ },
+ {
+  "palavra": "bióticos",
+  "quantidade": 1,
+  "percentual": 0.01
+ },
+ {
+  "palavra": "abióticoso",
+  "quantidade": 1,
+  "percentual": 0.01
+ },
+ {
+  "palavra": "acima",
+  "quantidade": 1,
+  "percentual": 0.01
+ },
+ {
+  "palavra": "estudocom",
+  "quantidade": 1,
+  "percentual": 0.01
+ },
+ {
+  "palavra": "exceção",
+  "quantidade": 1,
+  "percentual": 0.01
+ },
+ {
+  "palavra": "estar",
+  "quantidade": 1,
+  "percentual": 0.01
+ },
+ {
+  "palavra": "relacionado",
+  "quantidade": 1,
+  "percentual": 0.01
+ },
+ {
+  "palavra": "caráter",
+  "quantidade": 1,
+  "percentual": 0.01
+ },
+ {
+  "palavra": "acessosiac",
+  "quantidade": 1,
+  "percentual": 0.01
+ },
+ {
+  "palavra": "completam",
+  "quantidade": 1,
+  "percentual": 0.01
+ },
+ {
+  "palavra": "ciclo",
+  "quantidade": 1,
+  "percentual": 0.01
+ },
+ {
+  "palavra": "geográficasdo",
+  "quantidade": 1,
+  "percentual": 0.01
+ },
+ {
+  "palavra": "município",
+  "quantidade": 1,
+  "percentual": 0.01
+ },
+ {
+  "palavra": "sp",
+  "quantidade": 1,
+  "percentual": 0.01
+ },
+ {
+  "palavra": "diasos",
+  "quantidade": 1,
+  "percentual": 0.01
+ },
+ {
+  "palavra": "resultados",
+  "quantidade": 1,
+  "percentual": 0.01
+ },
+ {
+  "palavra": "obtidos",
+  "quantidade": 1,
+  "percentual": 0.01
+ },
+ {
+  "palavra": "atividadeenzimática",
+  "quantidade": 1,
+  "percentual": 0.01
+ },
+ {
+  "palavra": "corroboram",
+  "quantidade": 1,
+  "percentual": 0.01
+ },
+ {
+  "palavra": "tendoo",
+  "quantidade": 1,
+  "percentual": 0.01
+ },
+ {
+  "palavra": "apresentado",
+  "quantidade": 1,
+  "percentual": 0.01
+ },
+ {
+  "palavra": "estádiretamente",
+  "quantidade": 1,
+  "percentual": 0.01
+ },
+ {
+  "palavra": "ligado",
+  "quantidade": 1,
+  "percentual": 0.01
+ },
+ {
+  "palavra": "genespertencentes",
+  "quantidade": 1,
+  "percentual": 0.01
+ },
+ {
+  "palavra": "umade",
+  "quantidade": 1,
+  "percentual": 0.01
+ },
+ {
+  "palavra": "impedir",
+  "quantidade": 1,
+  "percentual": 0.01
+ },
+ {
+  "palavra": "acúmulo",
+  "quantidade": 1,
+  "percentual": 0.01
+ },
+ {
+  "palavra": "célulaseyidogan",
+  "quantidade": 1,
+  "percentual": 0.01
+ },
+ {
+  "palavra": "conclusãoos",
+  "quantidade": 1,
+  "percentual": 0.01
+ },
+ {
+  "palavra": "estudados",
+  "quantidade": 1,
+  "percentual": 0.01
+ },
+ {
+  "palavra": "apresentamcaracterísticas",
+  "quantidade": 1,
+  "percentual": 0.01
+ },
+ {
+  "palavra": "morfológicas",
+  "quantidade": 1,
+  "percentual": 0.01
+ },
+ {
+  "palavra": "facilitam",
+  "quantidade": 1,
+  "percentual": 0.01
+ },
+ {
+  "palavra": "sobrevivênciae",
+  "quantidade": 1,
+  "percentual": 0.01
+ },
+ {
+  "palavra": "xerófilas",
+  "quantidade": 1,
+  "percentual": 0.01
+ },
+ {
+  "palavra": "noentanto",
+  "quantidade": 1,
+  "percentual": 0.01
+ },
+ {
+  "palavra": "dedefesa",
+  "quantidade": 1,
+  "percentual": 0.01
+ },
+ {
+  "palavra": "sugerindo",
+  "quantidade": 1,
+  "percentual": 0.01
+ },
+ {
+  "palavra": "menossensível",
+  "quantidade": 1,
+  "percentual": 0.01
+ },
+ {
+  "palavra": "situações",
+  "quantidade": 1,
+  "percentual": 0.01
+ },
+ {
+  "palavra": "confirmação",
+  "quantidade": 1,
+  "percentual": 0.01
+ },
+ {
+  "palavra": "campo",
+  "quantidade": 1,
+  "percentual": 0.01
+ },
+ {
+  "palavra": "deum",
+  "quantidade": 1,
+  "percentual": 0.01
+ },
+ {
+  "palavra": "umacesso",
+  "quantidade": 1,
+  "percentual": 0.01
+ },
+ {
+  "palavra": "abre",
+  "quantidade": 1,
+  "percentual": 0.01
+ },
+ {
+  "palavra": "trabalhopor",
+  "quantidade": 1,
+  "percentual": 0.01
+ },
+ {
+  "palavra": "utilização",
+  "quantidade": 1,
+  "percentual": 0.01
+ },
+ {
+  "palavra": "visando",
+  "quantidade": 1,
+  "percentual": 0.01
+ },
+ {
+  "palavra": "produçãocomo",
+  "quantidade": 1,
+  "percentual": 0.01
+ },
+ {
+  "palavra": "resistência",
+  "quantidade": 1,
+  "percentual": 0.01
+ },
+ {
+  "palavra": "dodéficit",
+  "quantidade": 1,
+  "percentual": 0.01
+ },
+ {
+  "palavra": "httpswwwscielobrpdfrbvnptrbpdfintroduçãoa",
+  "quantidade": 1,
+  "percentual": 0.01
+ },
+ {
+  "palavra": "disciplina",
+  "quantidade": 1,
+  "percentual": 0.01
+ },
+ {
+  "palavra": "imagemevoluiu",
+  "quantidade": 1,
+  "percentual": 0.01
+ },
+ {
+  "palavra": "complexas",
+  "quantidade": 1,
+  "percentual": 0.01
+ },
+ {
+  "palavra": "análisede",
+  "quantidade": 1,
+  "percentual": 0.01
+ },
+ {
+  "palavra": "tomografiacomputadorizada",
+  "quantidade": 1,
+  "percentual": 0.01
+ },
+ {
+  "palavra": "ressonância",
+  "quantidade": 1,
+  "percentual": 0.01
+ },
+ {
+  "palavra": "magnética",
+  "quantidade": 1,
+  "percentual": 0.01
+ },
+ {
+  "palavra": "rmé",
+  "quantidade": 1,
+  "percentual": 0.01
+ },
+ {
+  "palavra": "desafio",
+  "quantidade": 1,
+  "percentual": 0.01
+ },
+ {
+  "palavra": "reconhecido",
+  "quantidade": 1,
+  "percentual": 0.01
+ },
+ {
+  "palavra": "expe",
+  "quantidade": 1,
+  "percentual": 0.01
+ },
+ {
+  "palavra": "colégio",
+  "quantidade": 1,
+  "percentual": 0.01
+ },
+ {
+  "palavra": "brasileiro",
+  "quantidade": 1,
+  "percentual": 0.01
+ },
+ {
+  "palavra": "imagemhttpdxdoiorgkoenigkam",
+  "quantidade": 1,
+  "percentual": 0.01
+ },
+ {
+  "palavra": "novdezinformações",
+  "quantidade": 1,
+  "percentual": 0.01
+ },
+ {
+  "palavra": "gravidade",
+  "quantidade": 1,
+  "percentual": 0.01
+ },
+ {
+  "palavra": "identificando",
+  "quantidade": 1,
+  "percentual": 0.01
+ },
+ {
+  "palavra": "biomarcadores",
+  "quantidade": 1,
+  "percentual": 0.01
+ },
+ {
+  "palavra": "prognósticos",
+  "quantidade": 1,
+  "percentual": 0.01
+ },
+ {
+  "palavra": "aotratamento",
+  "quantidade": 1,
+  "percentual": 0.01
+ },
+ {
+  "palavra": "mudanças",
+  "quantidade": 1,
+  "percentual": 0.01
+ },
+ {
+  "palavra": "destacado",
+  "quantidade": 1,
+  "percentual": 0.01
+ },
+ {
+  "palavra": "oncologia",
+  "quantidade": 1,
+  "percentual": 0.01
+ },
+ {
+  "palavra": "informaçõespresentes",
+  "quantidade": 1,
+  "percentual": 0.01
+ },
+ {
+  "palavra": "capazes",
+  "quantidade": 1,
+  "percentual": 0.01
+ },
+ {
+  "palavra": "ir",
+  "quantidade": 1,
+  "percentual": 0.01
+ },
+ {
+  "palavra": "muitoalém",
+  "quantidade": 1,
+  "percentual": 0.01
+ },
+ {
+  "palavra": "dizer",
+  "quantidade": 1,
+  "percentual": 0.01
+ },
+ {
+  "palavra": "benigna",
+  "quantidade": 1,
+  "percentual": 0.01
+ },
+ {
+  "palavra": "maligna",
+  "quantidade": 1,
+  "percentual": 0.01
+ },
+ {
+  "palavra": "podendoinferir",
+  "quantidade": 1,
+  "percentual": 0.01
+ },
+ {
+  "palavra": "histológico",
+  "quantidade": 1,
+  "percentual": 0.01
+ },
+ {
+  "palavra": "estadiamento",
+  "quantidade": 1,
+  "percentual": 0.01
+ },
+ {
+  "palavra": "tratamentode",
+  "quantidade": 1,
+  "percentual": 0.01
+ },
+ {
+  "palavra": "recorrência",
+  "quantidade": 1,
+  "percentual": 0.01
+ },
+ {
+  "palavra": "sobrevida",
+  "quantidade": 1,
+  "percentual": 0.01
+ },
+ {
+  "palavra": "pacientesistemas",
+  "quantidade": 1,
+  "percentual": 0.01
+ },
+ {
+  "palavra": "computadorizados",
+  "quantidade": 1,
+  "percentual": 0.01
+ },
+ {
+  "palavra": "vêmsendo",
+  "quantidade": 1,
+  "percentual": 0.01
+ },
+ {
+  "palavra": "desenvolvidos",
+  "quantidade": 1,
+  "percentual": 0.01
+ },
+ {
+  "palavra": "melhorar",
+  "quantidade": 1,
+  "percentual": 0.01
+ },
+ {
+  "palavra": "imagensmédicas",
+  "quantidade": 1,
+  "percentual": 0.01
+ },
+ {
+  "palavra": "prognóstica",
+  "quantidade": 1,
+  "percentual": 0.01
+ },
+ {
+  "palavra": "enormeporém",
+  "quantidade": 1,
+  "percentual": 0.01
+ },
+ {
+  "palavra": "rotina",
+  "quantidade": 1,
+  "percentual": 0.01
+ },
+ {
+  "palavra": "clínicacom",
+  "quantidade": 1,
+  "percentual": 0.01
+ },
+ {
+  "palavra": "advento",
+  "quantidade": 1,
+  "percentual": 0.01
+ },
+ {
+  "palavra": "caminhamos",
+  "quantidade": 1,
+  "percentual": 0.01
+ },
+ {
+  "palavra": "redução",
+  "quantidade": 1,
+  "percentual": 0.01
+ },
+ {
+  "palavra": "homogeneizaçãoe",
+  "quantidade": 1,
+  "percentual": 0.01
+ },
+ {
+  "palavra": "expansão",
+  "quantidade": 1,
+  "percentual": 0.01
+ },
+ {
+  "palavra": "tornando",
+  "quantidade": 1,
+  "percentual": 0.01
+ },
+ {
+  "palavra": "único",
+  "quantidade": 1,
+  "percentual": 0.01
+ },
+ {
+  "palavra": "levando",
+  "quantidade": 1,
+  "percentual": 0.01
+ },
+ {
+  "palavra": "radiologiaao",
+  "quantidade": 1,
+  "percentual": 0.01
+ },
+ {
+  "palavra": "encontro",
+  "quantidade": 1,
+  "percentual": 0.01
+ },
+ {
+  "palavra": "abordagem",
+  "quantidade": 1,
+  "percentual": 0.01
+ },
+ {
+  "palavra": "emedicina",
+  "quantidade": 1,
+  "percentual": 0.01
+ },
+ {
+  "palavra": "precisãoneste",
+  "quantidade": 1,
+  "percentual": 0.01
+ },
+ {
+  "palavra": "artigo",
+  "quantidade": 1,
+  "percentual": 0.01
+ },
+ {
+  "palavra": "abordados",
+  "quantidade": 1,
+  "percentual": 0.01
+ },
+ {
+  "palavra": "aspectosdas",
+  "quantidade": 1,
+  "percentual": 0.01
+ },
+ {
+  "palavra": "disponíveispara",
+  "quantidade": 1,
+  "percentual": 0.01
+ },
+ {
+  "palavra": "discutindo",
+  "quantidade": 1,
+  "percentual": 0.01
+ },
+ {
+  "palavra": "oimpacto",
+  "quantidade": 1,
+  "percentual": 0.01
+ },
+ {
+  "palavra": "opapel",
+  "quantidade": 1,
+  "percentual": 0.01
+ },
+ {
+  "palavra": "resumidasque",
+  "quantidade": 1,
+  "percentual": 0.01
+ },
+ {
+  "palavra": "deste",
+  "quantidade": 1,
+  "percentual": 0.01
+ },
+ {
+  "palavra": "textoprincípios",
+  "quantidade": 1,
+  "percentual": 0.01
+ },
+ {
+  "palavra": "computadorizadade",
+  "quantidade": 1,
+  "percentual": 0.01
+ },
+ {
+  "palavra": "médicasa",
+  "quantidade": 1,
+  "percentual": 0.01
+ },
+ {
+  "palavra": "f",
+  "quantidade": 1,
+  "percentual": 0.01
+ },
+ {
+  "palavra": "emescala",
+  "quantidade": 1,
+  "percentual": 0.01
+ },
+ {
+  "palavra": "particionada",
+  "quantidade": 1,
+  "percentual": 0.01
+ },
+ {
+  "palavra": "espaciais",
+  "quantidade": 1,
+  "percentual": 0.01
+ },
+ {
+  "palavra": "representada",
+  "quantidade": 1,
+  "percentual": 0.01
+ },
+ {
+  "palavra": "cujosíndices",
+  "quantidade": 1,
+  "percentual": 0.01
+ },
+ {
+  "palavra": "linhas",
+  "quantidade": 1,
+  "percentual": 0.01
+ },
+ {
+  "palavra": "colunas",
+  "quantidade": 1,
+  "percentual": 0.01
+ },
+ {
+  "palavra": "identificam",
+  "quantidade": 1,
+  "percentual": 0.01
+ },
+ {
+  "palavra": "deimagem",
+  "quantidade": 1,
+  "percentual": 0.01
+ },
+ {
+  "palavra": "identifica",
+  "quantidade": 1,
+  "percentual": 0.01
+ },
+ {
+  "palavra": "umaescala",
+  "quantidade": 1,
+  "percentual": 0.01
+ },
+ {
+  "palavra": "inteiros",
+  "quantidade": 1,
+  "percentual": 0.01
+ },
+ {
+  "palavra": "representam",
+  "quantidade": 1,
+  "percentual": 0.01
+ },
+ {
+  "palavra": "preto",
+  "quantidade": 1,
+  "percentual": 0.01
+ },
+ {
+  "palavra": "menorvalor",
+  "quantidade": 1,
+  "percentual": 0.01
+ },
+ {
+  "palavra": "branco",
+  "quantidade": 1,
+  "percentual": 0.01
+ },
+ {
+  "palavra": "tons",
+  "quantidade": 1,
+  "percentual": 0.01
+ },
+ {
+  "palavra": "intermediários",
+  "quantidade": 1,
+  "percentual": 0.01
+ },
+ {
+  "palavra": "adquiridas",
+  "quantidade": 1,
+  "percentual": 0.01
+ },
+ {
+  "palavra": "demaneira",
+  "quantidade": 1,
+  "percentual": 0.01
+ },
+ {
+  "palavra": "volumétrica",
+  "quantidade": 1,
+  "percentual": 0.01
+ },
+ {
+  "palavra": "fatiasparalelas",
+  "quantidade": 1,
+  "percentual": 0.01
+ },
+ {
+  "palavra": "uniformemente",
+  "quantidade": 1,
+  "percentual": 0.01
+ },
+ {
+  "palavra": "espaçadas",
+  "quantidade": 1,
+  "percentual": 0.01
+ },
+ {
+  "palavra": "umponto",
+  "quantidade": 1,
+  "percentual": 0.01
+ },
+ {
+  "palavra": "voxel",
+  "quantidade": 1,
+  "percentual": 0.01
+ },
+ {
+  "palavra": "igualà",
+  "quantidade": 1,
+  "percentual": 0.01
+ },
+ {
+  "palavra": "espessura",
+  "quantidade": 1,
+  "percentual": 0.01
+ },
+ {
+  "palavra": "valoresnuméricos",
+  "quantidade": 1,
+  "percentual": 0.01
+ },
+ {
+  "palavra": "deprocessamento",
+  "quantidade": 1,
+  "percentual": 0.01
+ },
+ {
+  "palavra": "trabalhamno",
+  "quantidade": 1,
+  "percentual": 0.01
+ },
+ {
+  "palavra": "início",
+  "quantidade": 1,
+  "percentual": 0.01
+ },
+ {
+  "palavra": "ocorreu",
+  "quantidade": 1,
+  "percentual": 0.01
+ },
+ {
+  "palavra": "estruturação",
+  "quantidade": 1,
+  "percentual": 0.01
+ },
+ {
+  "palavra": "semfilme",
+  "quantidade": 1,
+  "percentual": 0.01
+ },
+ {
+  "palavra": "integrados",
+  "quantidade": 1,
+  "percentual": 0.01
+ },
+ {
+  "palavra": "denominadohospital",
+  "quantidade": 1,
+  "percentual": 0.01
+ },
+ {
+  "palavra": "filme",
+  "quantidade": 1,
+  "percentual": 0.01
+ },
+ {
+  "palavra": "arquivamento",
+  "quantidade": 1,
+  "percentual": 0.01
+ },
+ {
+  "palavra": "comunicação",
+  "quantidade": 1,
+  "percentual": 0.01
+ },
+ {
+  "palavra": "pacsdo",
+  "quantidade": 1,
+  "percentual": 0.01
+ },
+ {
+  "palavra": "picture",
+  "quantidade": 1,
+  "percentual": 0.01
+ },
+ {
+  "palavra": "archiving",
+  "quantidade": 1,
+  "percentual": 0.01
+ },
+ {
+  "palavra": "communication",
+  "quantidade": 1,
+  "percentual": 0.01
+ },
+ {
+  "palavra": "responsável",
+  "quantidade": 1,
+  "percentual": 0.01
+ },
+ {
+  "palavra": "comunicaçãode",
+  "quantidade": 1,
+  "percentual": 0.01
+ },
+ {
+  "palavra": "dicom",
+  "quantidade": 1,
+  "percentual": 0.01
+ },
+ {
+  "palavra": "digitalimaging",
+  "quantidade": 1,
+  "percentual": 0.01
+ },
+ {
+  "palavra": "communications",
+  "quantidade": 1,
+  "percentual": 0.01
+ },
+ {
+  "palavra": "medicine",
+  "quantidade": 1,
+  "percentual": 0.01
+ },
+ {
+  "palavra": "aparelhos",
+  "quantidade": 1,
+  "percentual": 0.01
+ },
+ {
+  "palavra": "aquisição",
+  "quantidade": 1,
+  "percentual": 0.01
+ },
+ {
+  "palavra": "ultrassonografiatc",
+  "quantidade": 1,
+  "percentual": 0.01
+ },
+ {
+  "palavra": "deixálas",
+  "quantidade": 1,
+  "percentual": 0.01
+ },
+ {
+  "palavra": "ououtros",
+  "quantidade": 1,
+  "percentual": 0.01
+ },
+ {
+  "palavra": "possam",
+  "quantidade": 1,
+  "percentual": 0.01
+ },
+ {
+  "palavra": "acessálas",
+  "quantidade": 1,
+  "percentual": 0.01
+ },
+ {
+  "palavra": "aindaarmazenálas",
+  "quantidade": 1,
+  "percentual": 0.01
+ },
+ {
+  "palavra": "organizada",
+  "quantidade": 1,
+  "percentual": 0.01
+ },
+ {
+  "palavra": "dedados",
+  "quantidade": 1,
+  "percentual": 0.01
+ },
+ {
+  "palavra": "pacs",
+  "quantidade": 1,
+  "percentual": 0.01
+ },
+ {
+  "palavra": "his",
+  "quantidade": 1,
+  "percentual": 0.01
+ },
+ {
+  "palavra": "hospital",
+  "quantidade": 1,
+  "percentual": 0.01
+ },
+ {
+  "palavra": "eris",
+  "quantidade": 1,
+  "percentual": 0.01
+ },
+ {
+  "palavra": "radiology",
+  "quantidade": 1,
+  "percentual": 0.01
+ },
+ {
+  "palavra": "hospitaispossibilitou",
+  "quantidade": 1,
+  "percentual": 0.01
+ },
+ {
+  "palavra": "computadorizado",
+  "quantidade": 1,
+  "percentual": 0.01
+ },
+ {
+  "palavra": "diagnósticoa",
+  "quantidade": 1,
+  "percentual": 0.01
+ },
+ {
+  "palavra": "etapas",
+  "quantidade": 1,
+  "percentual": 0.01
+ },
+ {
+  "palavra": "vezestabela",
+  "quantidade": 1,
+  "percentual": 0.01
+ },
+ {
+  "palavra": "resumidas",
+  "quantidade": 1,
+  "percentual": 0.01
+ },
+ {
+  "palavra": "textotermoaprendizado",
+  "quantidade": 1,
+  "percentual": 0.01
+ },
+ {
+  "palavra": "learningaprendizado",
+  "quantidade": 1,
+  "percentual": 0.01
+ },
+ {
+  "palavra": "learningatributos",
+  "quantidade": 1,
+  "percentual": 0.01
+ },
+ {
+  "palavra": "imagembig",
+  "quantidade": 1,
+  "percentual": 0.01
+ },
+ {
+  "palavra": "datacad",
+  "quantidade": 1,
+  "percentual": 0.01
+ },
+ {
+  "palavra": "computer",
+  "quantidade": 1,
+  "percentual": 0.01
+ },
+ {
+  "palavra": "diagnosisdetectioncbir",
+  "quantidade": 1,
+  "percentual": 0.01
+ },
+ {
+  "palavra": "content",
+  "quantidade": 1,
+  "percentual": 0.01
+ },
+ {
+  "palavra": "based",
+  "quantidade": 1,
+  "percentual": 0.01
+ },
+ {
+  "palavra": "retrievalinteligência",
+  "quantidade": 1,
+  "percentual": 0.01
+ },
+ {
+  "palavra": "artificialmedicina",
+  "quantidade": 1,
+  "percentual": 0.01
+ },
+ {
+  "palavra": "precisãoradiômicarede",
+  "quantidade": 1,
+  "percentual": 0.01
+ },
+ {
+  "palavra": "artificialrede",
+  "quantidade": 1,
+  "percentual": 0.01
+ },
+ {
+  "palavra": "convolucionaldefiniçãocampo",
+  "quantidade": 1,
+  "percentual": 0.01
+ },
+ {
+  "palavra": "ciência",
+  "quantidade": 1,
+  "percentual": 0.01
+ },
+ {
+  "palavra": "computação",
+  "quantidade": 1,
+  "percentual": 0.01
+ },
+ {
+  "palavra": "padrõespermitindo",
+  "quantidade": 1,
+  "percentual": 0.01
+ },
+ {
+  "palavra": "computadores",
+  "quantidade": 1,
+  "percentual": 0.01
+ },
+ {
+  "palavra": "aprender",
+  "quantidade": 1,
+  "percentual": 0.01
+ },
+ {
+  "palavra": "erros",
+  "quantidade": 1,
+  "percentual": 0.01
+ },
+ {
+  "palavra": "fazer",
+  "quantidade": 1,
+  "percentual": 0.01
+ },
+ {
+  "palavra": "previsõesramo",
+  "quantidade": 1,
+  "percentual": 0.01
+ },
+ {
+  "palavra": "tenta",
+  "quantidade": 1,
+  "percentual": 0.01
+ },
+ {
+  "palavra": "modelar",
+  "quantidade": 1,
+  "percentual": 0.01
+ },
+ {
+  "palavra": "várias",
+  "quantidade": 1,
+  "percentual": 0.01
+ },
+ {
+  "palavra": "camadasde",
+  "quantidade": 1,
+  "percentual": 0.01
+ },
+ {
+  "palavra": "processamentocaracterísticas",
+  "quantidade": 1,
+  "percentual": 0.01
+ },
+ {
+  "palavra": "utilizadas",
+  "quantidade": 1,
+  "percentual": 0.01
+ },
+ {
+  "palavra": "classificadas",
+  "quantidade": 1,
+  "percentual": 0.01
+ },
+ {
+  "palavra": "decinza",
+  "quantidade": 1,
+  "percentual": 0.01
+ },
+ {
+  "palavra": "formaconjunto",
+  "quantidade": 1,
+  "percentual": 0.01
+ },
+ {
+  "palavra": "armazenados",
+  "quantidade": 1,
+  "percentual": 0.01
+ },
+ {
+  "palavra": "modernas",
+  "quantidade": 1,
+  "percentual": 0.01
+ },
+ {
+  "palavra": "deanálise",
+  "quantidade": 1,
+  "percentual": 0.01
+ },
+ {
+  "palavra": "velocidade",
+  "quantidade": 1,
+  "percentual": 0.01
+ },
+ {
+  "palavra": "variedadediagnósticodetecção",
+  "quantidade": 1,
+  "percentual": 0.01
+ },
+ {
+  "palavra": "análises",
+  "quantidade": 1,
+  "percentual": 0.01
+ },
+ {
+  "palavra": "automatizadas",
+  "quantidade": 1,
+  "percentual": 0.01
+ },
+ {
+  "palavra": "imagenscomo",
+  "quantidade": 1,
+  "percentual": 0.01
+ },
+ {
+  "palavra": "opiniãosistema",
+  "quantidade": 1,
+  "percentual": 0.01
+ },
+ {
+  "palavra": "possibilita",
+  "quantidade": 1,
+  "percentual": 0.01
+ },
+ {
+  "palavra": "pictórico",
+  "quantidade": 1,
+  "percentual": 0.01
+ },
+ {
+  "palavra": "referênciainteligência",
+  "quantidade": 1,
+  "percentual": 0.01
+ },
+ {
+  "palavra": "humana",
+  "quantidade": 1,
+  "percentual": 0.01
+ },
+ {
+  "palavra": "exibida",
+  "quantidade": 1,
+  "percentual": 0.01
+ },
+ {
+  "palavra": "máquinas",
+  "quantidade": 1,
+  "percentual": 0.01
+ },
+ {
+  "palavra": "computadormodelo",
+  "quantidade": 1,
+  "percentual": 0.01
+ },
+ {
+  "palavra": "propõe",
+  "quantidade": 1,
+  "percentual": 0.01
+ },
+ {
+  "palavra": "personalização",
+  "quantidade": 1,
+  "percentual": 0.01
+ },
+ {
+  "palavra": "cuidados",
+  "quantidade": 1,
+  "percentual": 0.01
+ },
+ {
+  "palavra": "individualizados",
+  "quantidade": 1,
+  "percentual": 0.01
+ },
+ {
+  "palavra": "pacienteextração",
+  "quantidade": 1,
+  "percentual": 0.01
+ },
+ {
+  "palavra": "mensuráveis",
+  "quantidade": 1,
+  "percentual": 0.01
+ },
+ {
+  "palavra": "preditivos",
+  "quantidade": 1,
+  "percentual": 0.01
+ },
+ {
+  "palavra": "multidisciplinares",
+  "quantidade": 1,
+  "percentual": 0.01
+ },
+ {
+  "palavra": "gerenciamento",
+  "quantidade": 1,
+  "percentual": 0.01
+ },
+ {
+  "palavra": "terapêutico",
+  "quantidade": 1,
+  "percentual": 0.01
+ },
+ {
+  "palavra": "prognóstico",
+  "quantidade": 1,
+  "percentual": 0.01
+ },
+ {
+  "palavra": "pacientesmétodo",
+  "quantidade": 1,
+  "percentual": 0.01
+ },
+ {
+  "palavra": "humano",
+  "quantidade": 1,
+  "percentual": 0.01
+ },
+ {
+  "palavra": "formados",
+  "quantidade": 1,
+  "percentual": 0.01
+ },
+ {
+  "palavra": "neurôniosclasse",
+  "quantidade": 1,
+  "percentual": 0.01
+ },
+ {
+  "palavra": "desenvolvida",
+  "quantidade": 1,
+  "percentual": 0.01
+ },
+ {
+  "palavra": "demandar",
+  "quantidade": 1,
+  "percentual": 0.01
+ },
+ {
+  "palavra": "préprocessamento",
+  "quantidade": 1,
+  "percentual": 0.01
+ },
+ {
+  "palavra": "possívelkoenigkam",
+  "quantidade": 1,
+  "percentual": 0.01
+ },
+ {
+  "palavra": "desafios",
+  "quantidade": 1,
+  "percentual": 0.01
+ },
+ {
+  "palavra": "principal",
+  "quantidade": 1,
+  "percentual": 0.01
+ },
+ {
+  "palavra": "édividir",
+  "quantidade": 1,
+  "percentual": 0.01
+ },
+ {
+  "palavra": "partes",
+  "quantidade": 1,
+  "percentual": 0.01
+ },
+ {
+  "palavra": "tenham",
+  "quantidade": 1,
+  "percentual": 0.01
+ },
+ {
+  "palavra": "coma",
+  "quantidade": 1,
+  "percentual": 0.01
+ },
+ {
+  "palavra": "anatomia",
+  "quantidade": 1,
+  "percentual": 0.01
+ },
+ {
+  "palavra": "segmentar",
+  "quantidade": 1,
+  "percentual": 0.01
+ },
+ {
+  "palavra": "separar",
+  "quantidade": 1,
+  "percentual": 0.01
+ },
+ {
+  "palavra": "anatomicamente",
+  "quantidade": 1,
+  "percentual": 0.01
+ },
+ {
+  "palavra": "tecidos",
+  "quantidade": 1,
+  "percentual": 0.01
+ },
+ {
+  "palavra": "simplificada",
+  "quantidade": 1,
+  "percentual": 0.01
+ },
+ {
+  "palavra": "definidas",
+  "quantidade": 1,
+  "percentual": 0.01
+ },
+ {
+  "palavra": "circular",
+  "quantidade": 1,
+  "percentual": 0.01
+ },
+ {
+  "palavra": "retangular",
+  "quantidade": 1,
+  "percentual": 0.01
+ },
+ {
+  "palavra": "delineadas",
+  "quantidade": 1,
+  "percentual": 0.01
+ },
+ {
+  "palavra": "roi",
+  "quantidade": 1,
+  "percentual": 0.01
+ },
+ {
+  "palavra": "regionof",
+  "quantidade": 1,
+  "percentual": 0.01
+ },
+ {
+  "palavra": "interest",
+  "quantidade": 1,
+  "percentual": 0.01
+ },
+ {
+  "palavra": "necessariamente",
+  "quantidade": 1,
+  "percentual": 0.01
+ },
+ {
+  "palavra": "abrange",
+  "quantidade": 1,
+  "percentual": 0.01
+ },
+ {
+  "palavra": "todo",
+  "quantidade": 1,
+  "percentual": 0.01
+ },
+ {
+  "palavra": "tecido",
+  "quantidade": 1,
+  "percentual": 0.01
+ },
+ {
+  "palavra": "órgão",
+  "quantidade": 1,
+  "percentual": 0.01
+ },
+ {
+  "palavra": "propriedades",
+  "quantidade": 1,
+  "percentual": 0.01
+ },
+ {
+  "palavra": "descontinuidade",
+  "quantidade": 1,
+  "percentual": 0.01
+ },
+ {
+  "palavra": "bordasou",
+  "quantidade": 1,
+  "percentual": 0.01
+ },
+ {
+  "palavra": "definir",
+  "quantidade": 1,
+  "percentual": 0.01
+ },
+ {
+  "palavra": "limiares",
+  "quantidade": 1,
+  "percentual": 0.01
+ },
+ {
+  "palavra": "algoritmode",
+  "quantidade": 1,
+  "percentual": 0.01
+ },
+ {
+  "palavra": "figuras",
+  "quantidade": 1,
+  "percentual": 0.01
+ },
+ {
+  "palavra": "manual",
+  "quantidade": 1,
+  "percentual": 0.01
+ },
+ {
+  "palavra": "usuáriointerfere",
+  "quantidade": 1,
+  "percentual": 0.01
+ },
+ {
+  "palavra": "algum",
+  "quantidade": 1,
+  "percentual": 0.01
+ },
+ {
+  "palavra": "momento",
+  "quantidade": 1,
+  "percentual": 0.01
+ },
+ {
+  "palavra": "interferência",
+  "quantidade": 1,
+  "percentual": 0.01
+ },
+ {
+  "palavra": "usuárioo",
+  "quantidade": 1,
+  "percentual": 0.01
+ },
+ {
+  "palavra": "imagemconsiste",
+  "quantidade": 1,
+  "percentual": 0.01
+ },
+ {
+  "palavra": "numéricos",
+  "quantidade": 1,
+  "percentual": 0.01
+ },
+ {
+  "palavra": "descritoresque",
+  "quantidade": 1,
+  "percentual": 0.01
+ },
+ {
+  "palavra": "representem",
+  "quantidade": 1,
+  "percentual": 0.01
+ },
+ {
+  "palavra": "visual",
+  "quantidade": 1,
+  "percentual": 0.01
+ },
+ {
+  "palavra": "sãoobtidos",
+  "quantidade": 1,
+  "percentual": 0.01
+ },
+ {
+  "palavra": "execução",
+  "quantidade": 1,
+  "percentual": 0.01
+ },
+ {
+  "palavra": "conhecidoscomo",
+  "quantidade": 1,
+  "percentual": 0.01
+ },
+ {
+  "palavra": "realizam",
+  "quantidade": 1,
+  "percentual": 0.01
+ },
+ {
+  "palavra": "procedimentos",
+  "quantidade": 1,
+  "percentual": 0.01
+ },
+ {
+  "palavra": "quantitativos",
+  "quantidade": 1,
+  "percentual": 0.01
+ },
+ {
+  "palavra": "comopor",
+  "quantidade": 1,
+  "percentual": 0.01
+ },
+ {
+  "palavra": "histogramas",
+  "quantidade": 1,
+  "percentual": 0.01
+ },
+ {
+  "palavra": "detexturas",
+  "quantidade": 1,
+  "percentual": 0.01
+ },
+ {
+  "palavra": "estimativas",
+  "quantidade": 1,
+  "percentual": 0.01
+ },
+ {
+  "palavra": "característicasa",
+  "quantidade": 1,
+  "percentual": 0.01
+ },
+ {
+  "palavra": "armazenadosem",
+  "quantidade": 1,
+  "percentual": 0.01
+ },
+ {
+  "palavra": "sãobasicamente",
+  "quantidade": 1,
+  "percentual": 0.01
+ },
+ {
+  "palavra": "corfigura",
+  "quantidade": 1,
+  "percentual": 0.01
+ },
+ {
+  "palavra": "representação",
+  "quantidade": 1,
+  "percentual": 0.01
+ },
+ {
+  "palavra": "cinzafigura",
+  "quantidade": 1,
+  "percentual": 0.01
+ },
+ {
+  "palavra": "neoplásico",
+  "quantidade": 1,
+  "percentual": 0.01
+ },
+ {
+  "palavra": "colocação",
+  "quantidade": 1,
+  "percentual": 0.01
+ },
+ {
+  "palavra": "sementemarcada",
+  "quantidade": 1,
+  "percentual": 0.01
+ },
+ {
+  "palavra": "usuário",
+  "quantidade": 1,
+  "percentual": 0.01
+ },
+ {
+  "palavra": "centro",
+  "quantidade": 1,
+  "percentual": 0.01
+ },
+ {
+  "palavra": "esquerdafigura",
+  "quantidade": 1,
+  "percentual": 0.01
+ },
+ {
+  "palavra": "limiar",
+  "quantidade": 1,
+  "percentual": 0.01
+ },
+ {
+  "palavra": "definido",
+  "quantidade": 1,
+  "percentual": 0.01
+ },
+ {
+  "palavra": "usuárioa",
+  "quantidade": 1,
+  "percentual": 0.01
+ },
+ {
+  "palavra": "esquerda",
+  "quantidade": 1,
+  "percentual": 0.01
+ },
+ {
+  "palavra": "submetida",
+  "quantidade": 1,
+  "percentual": 0.01
+ },
+ {
+  "palavra": "limiarização",
+  "quantidade": 1,
+  "percentual": 0.01
+ },
+ {
+  "palavra": "posterior",
+  "quantidade": 1,
+  "percentual": 0.01
+ },
+ {
+  "palavra": "binarização",
+  "quantidade": 1,
+  "percentual": 0.01
+ },
+ {
+  "palavra": "separação",
+  "quantidade": 1,
+  "percentual": 0.01
+ },
+ {
+  "palavra": "pulmõeskoenigkam",
+  "quantidade": 1,
+  "percentual": 0.01
+ },
+ {
+  "palavra": "novdezníveis",
+  "quantidade": 1,
+  "percentual": 0.01
+ },
+ {
+  "palavra": "realizadadiretamente",
+  "quantidade": 1,
+  "percentual": 0.01
+ },
+ {
+  "palavra": "ohistograma",
+  "quantidade": 1,
+  "percentual": 0.01
+ },
+ {
+  "palavra": "descrição",
+  "quantidade": 1,
+  "percentual": 0.01
+ },
+ {
+  "palavra": "cinzapresentes",
+  "quantidade": 1,
+  "percentual": 0.01
+ },
+ {
+  "palavra": "acontagem",
+  "quantidade": 1,
+  "percentual": 0.01
+ },
+ {
+  "palavra": "intensidades",
+  "quantidade": 1,
+  "percentual": 0.01
+ },
+ {
+  "palavra": "escalade",
+  "quantidade": 1,
+  "percentual": 0.01
+ },
+ {
+  "palavra": "contudo",
+  "quantidade": 1,
+  "percentual": 0.01
+ },
+ {
+  "palavra": "descritores",
+  "quantidade": 1,
+  "percentual": 0.01
+ },
+ {
+  "palavra": "umaimagem",
+  "quantidade": 1,
+  "percentual": 0.01
+ },
+ {
+  "palavra": "esta",
+  "quantidade": 1,
+  "percentual": 0.01
+ },
+ {
+  "palavra": "analisada",
+  "quantidade": 1,
+  "percentual": 0.01
+ },
+ {
+  "palavra": "pelos",
+  "quantidade": 1,
+  "percentual": 0.01
+ },
+ {
+  "palavra": "detextura",
+  "quantidade": 1,
+  "percentual": 0.01
+ },
+ {
+  "palavra": "algumas",
+  "quantidade": 1,
+  "percentual": 0.01
+ },
+ {
+  "palavra": "quepossuem",
+  "quantidade": 1,
+  "percentual": 0.01
+ },
+ {
+  "palavra": "possíveis",
+  "quantidade": 1,
+  "percentual": 0.01
+ },
+ {
+  "palavra": "distinguir",
+  "quantidade": 1,
+  "percentual": 0.01
+ },
+ {
+  "palavra": "causa",
+  "quantidade": 1,
+  "percentual": 0.01
+ },
+ {
+  "palavra": "texturas",
+  "quantidade": 1,
+  "percentual": 0.01
+ },
+ {
+  "palavra": "tornaram",
+  "quantidade": 1,
+  "percentual": 0.01
+ },
+ {
+  "palavra": "emrazão",
+  "quantidade": 1,
+  "percentual": 0.01
+ },
+ {
+  "palavra": "refletir",
+  "quantidade": 1,
+  "percentual": 0.01
+ },
+ {
+  "palavra": "detalhes",
+  "quantidade": 1,
+  "percentual": 0.01
+ },
+ {
+  "palavra": "contidosdentro",
+  "quantidade": 1,
+  "percentual": 0.01
+ },
+ {
+  "palavra": "identificada",
+  "quantidade": 1,
+  "percentual": 0.01
+ },
+ {
+  "palavra": "médicaos",
+  "quantidade": 1,
+  "percentual": 0.01
+ },
+ {
+  "palavra": "descrevem",
+  "quantidade": 1,
+  "percentual": 0.01
+ },
+ {
+  "palavra": "borda",
+  "quantidade": 1,
+  "percentual": 0.01
+ },
+ {
+  "palavra": "geométricas",
+  "quantidade": 1,
+  "percentual": 0.01
+ },
+ {
+  "palavra": "segmentadocomo",
+  "quantidade": 1,
+  "percentual": 0.01
+ },
+ {
+  "palavra": "junções",
+  "quantidade": 1,
+  "percentual": 0.01
+ },
+ {
+  "palavra": "poligonaiscaracterizar",
+  "quantidade": 1,
+  "percentual": 0.01
+ },
+ {
+  "palavra": "quantitativamente",
+  "quantidade": 1,
+  "percentual": 0.01
+ },
+ {
+  "palavra": "objetos",
+  "quantidade": 1,
+  "percentual": 0.01
+ },
+ {
+  "palavra": "umatarefa",
+  "quantidade": 1,
+  "percentual": 0.01
+ },
+ {
+  "palavra": "complicada",
+  "quantidade": 1,
+  "percentual": 0.01
+ },
+ {
+  "palavra": "porque",
+  "quantidade": 1,
+  "percentual": 0.01
+ },
+ {
+  "palavra": "apresentamopacidades",
+  "quantidade": 1,
+  "percentual": 0.01
+ },
+ {
+  "palavra": "vasosmediastino",
+  "quantidade": 1,
+  "percentual": 0.01
+ },
+ {
+  "palavra": "acarretar",
+  "quantidade": 1,
+  "percentual": 0.01
+ },
+ {
+  "palavra": "ruim",
+  "quantidade": 1,
+  "percentual": 0.01
+ },
+ {
+  "palavra": "consequentemente",
+  "quantidade": 1,
+  "percentual": 0.01
+ },
+ {
+  "palavra": "pior",
+  "quantidade": 1,
+  "percentual": 0.01
+ },
+ {
+  "palavra": "poratributos",
+  "quantidade": 1,
+  "percentual": 0.01
+ },
+ {
+  "palavra": "formaa",
+  "quantidade": 1,
+  "percentual": 0.01
+ },
+ {
+  "palavra": "razão",
+  "quantidade": 1,
+  "percentual": 0.01
+ },
+ {
+  "palavra": "gama",
+  "quantidade": 1,
+  "percentual": 0.01
+ },
+ {
+  "palavra": "extraídos",
+  "quantidade": 1,
+  "percentual": 0.01
+ },
+ {
+  "palavra": "característicasfigura",
+  "quantidade": 1,
+  "percentual": 0.01
+ },
+ {
+  "palavra": "pacientes",
+  "quantidade": 1,
+  "percentual": 0.01
+ },
+ {
+  "palavra": "ambos",
+  "quantidade": 1,
+  "percentual": 0.01
+ },
+ {
+  "palavra": "irregulares",
+  "quantidade": 1,
+  "percentual": 0.01
+ },
+ {
+  "palavra": "apresentando",
+  "quantidade": 1,
+  "percentual": 0.01
+ },
+ {
+  "palavra": "comvasos",
+  "quantidade": 1,
+  "percentual": 0.01
+ },
+ {
+  "palavra": "parede",
+  "quantidade": 1,
+  "percentual": 0.01
+ },
+ {
+  "palavra": "torácica",
+  "quantidade": 1,
+  "percentual": 0.01
+ },
+ {
+  "palavra": "fatores",
+  "quantidade": 1,
+  "percentual": 0.01
+ },
+ {
+  "palavra": "dificultam",
+  "quantidade": 1,
+  "percentual": 0.01
+ },
+ {
+  "palavra": "adequada",
+  "quantidade": 1,
+  "percentual": 0.01
+ },
+ {
+  "palavra": "nesses",
+  "quantidade": 1,
+  "percentual": 0.01
+ },
+ {
+  "palavra": "auxiliarna",
+  "quantidade": 1,
+  "percentual": 0.01
+ },
+ {
+  "palavra": "corretafigura",
+  "quantidade": 1,
+  "percentual": 0.01
+ },
+ {
+  "palavra": "mostra",
+  "quantidade": 1,
+  "percentual": 0.01
+ },
+ {
+  "palavra": "pixels",
+  "quantidade": 1,
+  "percentual": 0.01
+ },
+ {
+  "palavra": "voxels",
+  "quantidade": 1,
+  "percentual": 0.01
+ },
+ {
+  "palavra": "necessáriokoenigkam",
+  "quantidade": 1,
+  "percentual": 0.01
+ },
+ {
+  "palavra": "irrelevantes",
+  "quantidade": 1,
+  "percentual": 0.01
+ },
+ {
+  "palavra": "ouos",
+  "quantidade": 1,
+  "percentual": 0.01
+ },
+ {
+  "palavra": "apresentar",
+  "quantidade": 1,
+  "percentual": 0.01
+ },
+ {
+  "palavra": "redundância",
+  "quantidade": 1,
+  "percentual": 0.01
+ },
+ {
+  "palavra": "inserindo",
+  "quantidade": 1,
+  "percentual": 0.01
+ },
+ {
+  "palavra": "ruídoou",
+  "quantidade": 1,
+  "percentual": 0.01
+ },
+ {
+  "palavra": "inconsistências",
+  "quantidade": 1,
+  "percentual": 0.01
+ },
+ {
+  "palavra": "formaé",
+  "quantidade": 1,
+  "percentual": 0.01
+ },
+ {
+  "palavra": "necessário",
+  "quantidade": 1,
+  "percentual": 0.01
+ },
+ {
+  "palavra": "maisrelevantes",
+  "quantidade": 1,
+  "percentual": 0.01
+ },
+ {
+  "palavra": "investigação",
+  "quantidade": 1,
+  "percentual": 0.01
+ },
+ {
+  "palavra": "clínicadiagnóstico",
+  "quantidade": 1,
+  "percentual": 0.01
+ },
+ {
+  "palavra": "desfecho",
+  "quantidade": 1,
+  "percentual": 0.01
+ },
+ {
+  "palavra": "criados",
+  "quantidade": 1,
+  "percentual": 0.01
+ },
+ {
+  "palavra": "dimensionalidade",
+  "quantidade": 1,
+  "percentual": 0.01
+ },
+ {
+  "palavra": "espacialdo",
+  "quantidade": 1,
+  "percentual": 0.01
+ },
+ {
+  "palavra": "principaisfiltro",
+  "quantidade": 1,
+  "percentual": 0.01
+ },
+ {
+  "palavra": "wrapper",
+  "quantidade": 1,
+  "percentual": 0.01
+ },
+ {
+  "palavra": "embarcado",
+  "quantidade": 1,
+  "percentual": 0.01
+ },
+ {
+  "palavra": "boa",
+  "quantidade": 1,
+  "percentual": 0.01
+ },
+ {
+  "palavra": "recurso",
+  "quantidade": 1,
+  "percentual": 0.01
+ },
+ {
+  "palavra": "realizama",
+  "quantidade": 1,
+  "percentual": 0.01
+ },
+ {
+  "palavra": "artificiaisrnas",
+  "quantidade": 1,
+  "percentual": 0.01
+ },
+ {
+  "palavra": "árvores",
+  "quantidade": 1,
+  "percentual": 0.01
+ },
+ {
+  "palavra": "florestas",
+  "quantidade": 1,
+  "percentual": 0.01
+ },
+ {
+  "palavra": "aleatóriasclassificação",
+  "quantidade": 1,
+  "percentual": 0.01
+ },
+ {
+  "palavra": "profundoclassificar",
+  "quantidade": 1,
+  "percentual": 0.01
+ },
+ {
+  "palavra": "significa",
+  "quantidade": 1,
+  "percentual": 0.01
+ },
+ {
+  "palavra": "definila",
+  "quantidade": 1,
+  "percentual": 0.01
+ },
+ {
+  "palavra": "categoria",
+  "quantidade": 1,
+  "percentual": 0.01
+ },
+ {
+  "palavra": "préestabelecida",
+  "quantidade": 1,
+  "percentual": 0.01
+ },
+ {
+  "palavra": "versuspatológico",
+  "quantidade": 1,
+  "percentual": 0.01
+ },
+ {
+  "palavra": "estudadas",
+  "quantidade": 1,
+  "percentual": 0.01
+ },
+ {
+  "palavra": "deaprendizado",
+  "quantidade": 1,
+  "percentual": 0.01
+ },
+ {
+  "palavra": "learningesta",
+  "quantidade": 1,
+  "percentual": 0.01
+ },
+ {
+  "palavra": "permite",
+  "quantidade": 1,
+  "percentual": 0.01
+ },
+ {
+  "palavra": "baseem",
+  "quantidade": 1,
+  "percentual": 0.01
+ },
+ {
+  "palavra": "experimentos",
+  "quantidade": 1,
+  "percentual": 0.01
+ },
+ {
+  "palavra": "ocorrecom",
+  "quantidade": 1,
+  "percentual": 0.01
+ },
+ {
+  "palavra": "humanamétodos",
+  "quantidade": 1,
+  "percentual": 0.01
+ },
+ {
+  "palavra": "modalidades",
+  "quantidade": 1,
+  "percentual": 0.01
+ },
+ {
+  "palavra": "variedade",
+  "quantidade": 1,
+  "percentual": 0.01
+ },
+ {
+  "palavra": "paradiversas",
+  "quantidade": 1,
+  "percentual": 0.01
+ },
+ {
+  "palavra": "inglêscomputer",
+  "quantidade": 1,
+  "percentual": 0.01
+ },
+ {
+  "palavra": "diagnosisdetection",
+  "quantidade": 1,
+  "percentual": 0.01
+ },
+ {
+  "palavra": "radiômicaa",
+  "quantidade": 1,
+  "percentual": 0.01
+ },
+ {
+  "palavra": "umconjunto",
+  "quantidade": 1,
+  "percentual": 0.01
+ },
+ {
+  "palavra": "vetores",
+  "quantidade": 1,
+  "percentual": 0.01
+ },
+ {
+  "palavra": "fazendose",
+  "quantidade": 1,
+  "percentual": 0.01
+ },
+ {
+  "palavra": "inferência",
+  "quantidade": 1,
+  "percentual": 0.01
+ },
+ {
+  "palavra": "modelosão",
+  "quantidade": 1,
+  "percentual": 0.01
+ },
+ {
+  "palavra": "préestabelecidas",
+  "quantidade": 1,
+  "percentual": 0.01
+ },
+ {
+  "palavra": "existe",
+  "quantidade": 1,
+  "percentual": 0.01
+ },
+ {
+  "palavra": "definida",
+  "quantidade": 1,
+  "percentual": 0.01
+ },
+ {
+  "palavra": "processoé",
+  "quantidade": 1,
+  "percentual": 0.01
+ },
+ {
+  "palavra": "neste",
+  "quantidade": 1,
+  "percentual": 0.01
+ },
+ {
+  "palavra": "visaà",
+  "quantidade": 1,
+  "percentual": 0.01
+ },
+ {
+  "palavra": "agrupamentos",
+  "quantidade": 1,
+  "percentual": 0.01
+ },
+ {
+  "palavra": "semelhantesexames",
+  "quantidade": 1,
+  "percentual": 0.01
+ },
+ {
+  "palavra": "estarrelacionado",
+  "quantidade": 1,
+  "percentual": 0.01
+ },
+ {
+  "palavra": "conhecida",
+  "quantidade": 1,
+  "percentual": 0.01
+ },
+ {
+  "palavra": "umadoença",
+  "quantidade": 1,
+  "percentual": 0.01
+ },
+ {
+  "palavra": "rnas",
+  "quantidade": 1,
+  "percentual": 0.01
+ },
+ {
+  "palavra": "bastante",
+  "quantidade": 1,
+  "percentual": 0.01
+ },
+ {
+  "palavra": "utilizadasem",
+  "quantidade": 1,
+  "percentual": 0.01
+ },
+ {
+  "palavra": "médicasessas",
+  "quantidade": 1,
+  "percentual": 0.01
+ },
+ {
+  "palavra": "propostas",
+  "quantidade": 1,
+  "percentual": 0.01
+ },
+ {
+  "palavra": "humanocom",
+  "quantidade": 1,
+  "percentual": 0.01
+ },
+ {
+  "palavra": "descritos",
+  "quantidade": 1,
+  "percentual": 0.01
+ },
+ {
+  "palavra": "nneurônios",
+  "quantidade": 1,
+  "percentual": 0.01
+ },
+ {
+  "palavra": "conhecido",
+  "quantidade": 1,
+  "percentual": 0.01
+ },
+ {
+  "palavra": "perceptronde",
+  "quantidade": 1,
+  "percentual": 0.01
+ },
+ {
+  "palavra": "multilayer",
+  "quantidade": 1,
+  "percentual": 0.01
+ },
+ {
+  "palavra": "perceptrontradicionalmente",
+  "quantidade": 1,
+  "percentual": 0.01
+ },
+ {
+  "palavra": "deentrada",
+  "quantidade": 1,
+  "percentual": 0.01
+ },
+ {
+  "palavra": "daimagem",
+  "quantidade": 1,
+  "percentual": 0.01
+ },
+ {
+  "palavra": "classesdesfechos",
+  "quantidade": 1,
+  "percentual": 0.01
+ },
+ {
+  "palavra": "camadasocultas",
+  "quantidade": 1,
+  "percentual": 0.01
+ },
+ {
+  "palavra": "intermediárias",
+  "quantidade": 1,
+  "percentual": 0.01
+ },
+ {
+  "palavra": "aospontos",
+  "quantidade": 1,
+  "percentual": 0.01
+ },
+ {
+  "palavra": "ajuste",
+  "quantidade": 1,
+  "percentual": 0.01
+ },
+ {
+  "palavra": "ativação",
+  "quantidade": 1,
+  "percentual": 0.01
+ },
+ {
+  "palavra": "recentesque",
+  "quantidade": 1,
+  "percentual": 0.01
+ },
+ {
+  "palavra": "ganhando",
+  "quantidade": 1,
+  "percentual": 0.01
+ },
+ {
+  "palavra": "comunidade",
+  "quantidade": 1,
+  "percentual": 0.01
+ },
+ {
+  "palavra": "científica",
+  "quantidade": 1,
+  "percentual": 0.01
+ },
+ {
+  "palavra": "ade",
+  "quantidade": 1,
+  "percentual": 0.01
+ },
+ {
+  "palavra": "learningmétodos",
+  "quantidade": 1,
+  "percentual": 0.01
+ },
+ {
+  "palavra": "representaras",
+  "quantidade": 1,
+  "percentual": 0.01
+ },
+ {
+  "palavra": "servir",
+  "quantidade": 1,
+  "percentual": 0.01
+ },
+ {
+  "palavra": "classificadoresdiante",
+  "quantidade": 1,
+  "percentual": 0.01
+ },
+ {
+  "palavra": "disso",
+  "quantidade": 1,
+  "percentual": 0.01
+ },
+ {
+  "palavra": "pesquisadores",
+  "quantidade": 1,
+  "percentual": 0.01
+ },
+ {
+  "palavra": "integrassem",
+  "quantidade": 1,
+  "percentual": 0.01
+ },
+ {
+  "palavra": "própria",
+  "quantidade": 1,
+  "percentual": 0.01
+ },
+ {
+  "palavra": "redeneural",
+  "quantidade": 1,
+  "percentual": 0.01
+ },
+ {
+  "palavra": "minimizada",
+  "quantidade": 1,
+  "percentual": 0.01
+ },
+ {
+  "palavra": "préprocessamentoou",
+  "quantidade": 1,
+  "percentual": 0.01
+ },
+ {
+  "palavra": "apresentadesvantagens",
+  "quantidade": 1,
+  "percentual": 0.01
+ },
+ {
+  "palavra": "muitogrande",
+  "quantidade": 1,
+  "percentual": 0.01
+ },
+ {
+  "palavra": "milhares",
+  "quantidade": 1,
+  "percentual": 0.01
+ },
+ {
+  "palavra": "dependência",
+  "quantidade": 1,
+  "percentual": 0.01
+ },
+ {
+  "palavra": "dificuldade",
+  "quantidade": 1,
+  "percentual": 0.01
+ },
+ {
+  "palavra": "black",
+  "quantidade": 1,
+  "percentual": 0.01
+ },
+ {
+  "palavra": "box",
+  "quantidade": 1,
+  "percentual": 0.01
+ },
+ {
+  "palavra": "doprocessamento",
+  "quantidade": 1,
+  "percentual": 0.01
+ },
+ {
+  "palavra": "quemais",
+  "quantidade": 1,
+  "percentual": 0.01
+ },
+ {
+  "palavra": "ganhou",
+  "quantidade": 1,
+  "percentual": 0.01
+ },
+ {
+  "palavra": "notoriedade",
+  "quantidade": 1,
+  "percentual": 0.01
+ },
+ {
+  "palavra": "neuralconvolucional",
+  "quantidade": 1,
+  "percentual": 0.01
+ },
+ {
+  "palavra": "convolutional",
+  "quantidade": 1,
+  "percentual": 0.01
+ },
+ {
+  "palavra": "network",
+  "quantidade": 1,
+  "percentual": 0.01
+ },
+ {
+  "palavra": "basicamente",
+  "quantidade": 1,
+  "percentual": 0.01
+ },
+ {
+  "palavra": "tiposde",
+  "quantidade": 1,
+  "percentual": 0.01
+ },
+ {
+  "palavra": "detecta",
+  "quantidade": 1,
+  "percentual": 0.01
+ },
+ {
+  "palavra": "eextrai",
+  "quantidade": 1,
+  "percentual": 0.01
+ },
+ {
+  "palavra": "pooling",
+  "quantidade": 1,
+  "percentual": 0.01
+ },
+ {
+  "palavra": "selecionae",
+  "quantidade": 1,
+  "percentual": 0.01
+ },
+ {
+  "palavra": "reduz",
+  "quantidade": 1,
+  "percentual": 0.01
+ },
+ {
+  "palavra": "conectada",
+  "quantidade": 1,
+  "percentual": 0.01
+ },
+ {
+  "palavra": "serve",
+  "quantidade": 1,
+  "percentual": 0.01
+ },
+ {
+  "palavra": "integrar",
+  "quantidade": 1,
+  "percentual": 0.01
+ },
+ {
+  "palavra": "todas",
+  "quantidade": 1,
+  "percentual": 0.01
+ },
+ {
+  "palavra": "normalmenteutilizando",
+  "quantidade": 1,
+  "percentual": 0.01
+ },
+ {
+  "palavra": "aclassificação",
+  "quantidade": 1,
+  "percentual": 0.01
+ },
+ {
+  "palavra": "dada",
+  "quantidade": 1,
+  "percentual": 0.01
+ },
+ {
+  "palavra": "classecom",
+  "quantidade": 1,
+  "percentual": 0.01
+ },
+ {
+  "palavra": "probabilidade",
+  "quantidade": 1,
+  "percentual": 0.01
+ },
+ {
+  "palavra": "demáquina",
+  "quantidade": 1,
+  "percentual": 0.01
+ },
+ {
+  "palavra": "dadoum",
+  "quantidade": 1,
+  "percentual": 0.01
+ },
+ {
+  "palavra": "classificador",
+  "quantidade": 1,
+  "percentual": 0.01
+ },
+ {
+  "palavra": "deve",
+  "quantidade": 1,
+  "percentual": 0.01
+ },
+ {
+  "palavra": "preditivo",
+  "quantidade": 1,
+  "percentual": 0.01
+ },
+ {
+  "palavra": "estratégiamuito",
+  "quantidade": 1,
+  "percentual": 0.01
+ },
+ {
+  "palavra": "nela",
+  "quantidade": 1,
+  "percentual": 0.01
+ },
+ {
+  "palavra": "amostrassão",
+  "quantidade": 1,
+  "percentual": 0.01
+ },
+ {
+  "palavra": "treinoe",
+  "quantidade": 1,
+  "percentual": 0.01
+ },
+ {
+  "palavra": "estratégia",
+  "quantidade": 1,
+  "percentual": 0.01
+ },
+ {
+  "palavra": "diminui",
+  "quantidade": 1,
+  "percentual": 0.01
+ },
+ {
+  "palavra": "riscofigura",
+  "quantidade": 1,
+  "percentual": 0.01
+ },
+ {
+  "palavra": "arquitetura",
+  "quantidade": 1,
+  "percentual": 0.01
+ },
+ {
+  "palavra": "entradarecebe",
+  "quantidade": 1,
+  "percentual": 0.01
+ },
+ {
+  "palavra": "versus",
+  "quantidade": 1,
+  "percentual": 0.01
+ },
+ {
+  "palavra": "patológicokoenigkam",
+  "quantidade": 1,
+  "percentual": 0.01
+ },
+ {
+  "palavra": "novdezde",
+  "quantidade": 1,
+  "percentual": 0.01
+ },
+ {
+  "palavra": "sobreajuste",
+  "quantidade": 1,
+  "percentual": 0.01
+ },
+ {
+  "palavra": "subconjuntosde",
+  "quantidade": 1,
+  "percentual": 0.01
+ },
+ {
+  "palavra": "treino",
+  "quantidade": 1,
+  "percentual": 0.01
+ },
+ {
+  "palavra": "independente",
+  "quantidade": 1,
+  "percentual": 0.01
+ },
+ {
+  "palavra": "avaliaçãoda",
+  "quantidade": 1,
+  "percentual": 0.01
+ },
+ {
+  "palavra": "especificidade",
+  "quantidade": 1,
+  "percentual": 0.01
+ },
+ {
+  "palavra": "rocdo",
+  "quantidade": 1,
+  "percentual": 0.01
+ },
+ {
+  "palavra": "receiver",
+  "quantidade": 1,
+  "percentual": 0.01
+ },
+ {
+  "palavra": "operating",
+  "quantidade": 1,
+  "percentual": 0.01
+ },
+ {
+  "palavra": "characteristic",
+  "quantidade": 1,
+  "percentual": 0.01
+ },
+ {
+  "palavra": "daauc",
+  "quantidade": 1,
+  "percentual": 0.01
+ },
+ {
+  "palavra": "area",
+  "quantidade": 1,
+  "percentual": 0.01
+ },
+ {
+  "palavra": "under",
+  "quantidade": 1,
+  "percentual": 0.01
+ },
+ {
+  "palavra": "the",
+  "quantidade": 1,
+  "percentual": 0.01
+ },
+ {
+  "palavra": "curve",
+  "quantidade": 1,
+  "percentual": 0.01
+ },
+ {
+  "palavra": "corresponde",
+  "quantidade": 1,
+  "percentual": 0.01
+ },
+ {
+  "palavra": "àárea",
+  "quantidade": 1,
+  "percentual": 0.01
+ },
+ {
+  "palavra": "quanto",
+  "quantidade": 1,
+  "percentual": 0.01
+ },
+ {
+  "palavra": "utilizam",
+  "quantidade": 1,
+  "percentual": 0.01
+ },
+ {
+  "palavra": "artificialaprendizado",
+  "quantidade": 1,
+  "percentual": 0.01
+ },
+ {
+  "palavra": "empregadas",
+  "quantidade": 1,
+  "percentual": 0.01
+ },
+ {
+  "palavra": "maneiras",
+  "quantidade": 1,
+  "percentual": 0.01
+ },
+ {
+  "palavra": "elas",
+  "quantidade": 1,
+  "percentual": 0.01
+ },
+ {
+  "palavra": "aplicadas",
+  "quantidade": 1,
+  "percentual": 0.01
+ },
+ {
+  "palavra": "diagnósticodetecção",
+  "quantidade": 1,
+  "percentual": 0.01
+ },
+ {
+  "palavra": "recuperação",
+  "quantidade": 1,
+  "percentual": 0.01
+ },
+ {
+  "palavra": "contentbased",
+  "quantidade": 1,
+  "percentual": 0.01
+ },
+ {
+  "palavra": "retrieval",
+  "quantidade": 1,
+  "percentual": 0.01
+ },
+ {
+  "palavra": "radiômicaradiogenômicadiagnósticodetecção",
+  "quantidade": 1,
+  "percentual": 0.01
+ },
+ {
+  "palavra": "porcomputadorferramentas",
+  "quantidade": 1,
+  "percentual": 0.01
+ },
+ {
+  "palavra": "inicialmente",
+  "quantidade": 1,
+  "percentual": 0.01
+ },
+ {
+  "palavra": "desenvolvidas",
+  "quantidade": 1,
+  "percentual": 0.01
+ },
+ {
+  "palavra": "achados",
+  "quantidade": 1,
+  "percentual": 0.01
+ },
+ {
+  "palavra": "radiológicose",
+  "quantidade": 1,
+  "percentual": 0.01
+ },
+ {
+  "palavra": "tumores",
+  "quantidade": 1,
+  "percentual": 0.01
+ },
+ {
+  "palavra": "melhorara",
+  "quantidade": 1,
+  "percentual": 0.01
+ },
+ {
+  "palavra": "mediante",
+  "quantidade": 1,
+  "percentual": 0.01
+ },
+ {
+  "palavra": "sugestão",
+  "quantidade": 1,
+  "percentual": 0.01
+ },
+ {
+  "palavra": "opiniãofornecida",
+  "quantidade": 1,
+  "percentual": 0.01
+ },
+ {
+  "palavra": "processamentode",
+  "quantidade": 1,
+  "percentual": 0.01
+ },
+ {
+  "palavra": "historicamente",
+  "quantidade": 1,
+  "percentual": 0.01
+ },
+ {
+  "palavra": "primeiros",
+  "quantidade": 1,
+  "percentual": 0.01
+ },
+ {
+  "palavra": "cadsurgiram",
+  "quantidade": 1,
+  "percentual": 0.01
+ },
+ {
+  "palavra": "baseados",
+  "quantidade": 1,
+  "percentual": 0.01
+ },
+ {
+  "palavra": "noprocessamento",
+  "quantidade": 1,
+  "percentual": 0.01
+ },
+ {
+  "palavra": "filmes",
+  "quantidade": 1,
+  "percentual": 0.01
+ },
+ {
+  "palavra": "elesforam",
+  "quantidade": 1,
+  "percentual": 0.01
+ },
+ {
+  "palavra": "fundamentalmente",
+  "quantidade": 1,
+  "percentual": 0.01
+ },
+ {
+  "palavra": "concebidos",
+  "quantidade": 1,
+  "percentual": 0.01
+ },
+ {
+  "palavra": "comouma",
+  "quantidade": 1,
+  "percentual": 0.01
+ },
+ {
+  "palavra": "rastreamento",
+  "quantidade": 1,
+  "percentual": 0.01
+ },
+ {
+  "palavra": "populacional",
+  "quantidade": 1,
+  "percentual": 0.01
+ },
+ {
+  "palavra": "nódulose",
+  "quantidade": 1,
+  "percentual": 0.01
+ },
+ {
+  "palavra": "microcalcificações",
+  "quantidade": 1,
+  "percentual": 0.01
+ },
+ {
+  "palavra": "mamografias",
+  "quantidade": 1,
+  "percentual": 0.01
+ },
+ {
+  "palavra": "posteriormentesistemas",
+  "quantidade": 1,
+  "percentual": 0.01
+ },
+ {
+  "palavra": "eclassificar",
+  "quantidade": 1,
+  "percentual": 0.01
+ },
+ {
+  "palavra": "radiografiasimples",
+  "quantidade": 1,
+  "percentual": 0.01
+ },
+ {
+  "palavra": "sistemastêm",
+  "quantidade": 1,
+  "percentual": 0.01
+ },
+ {
+  "palavra": "diagnósticode",
+  "quantidade": 1,
+  "percentual": 0.01
+ },
+ {
+  "palavra": "alzheimer",
+  "quantidade": 1,
+  "percentual": 0.01
+ },
+ {
+  "palavra": "nuclearnesses",
+  "quantidade": 1,
+  "percentual": 0.01
+ },
+ {
+  "palavra": "ideia",
+  "quantidade": 1,
+  "percentual": 0.01
+ },
+ {
+  "palavra": "lugar",
+  "quantidade": 1,
+  "percentual": 0.01
+ },
+ {
+  "palavra": "umsegundo",
+  "quantidade": 1,
+  "percentual": 0.01
+ },
+ {
+  "palavra": "dasnovas",
+  "quantidade": 1,
+  "percentual": 0.01
+ },
+ {
+  "palavra": "expandiram",
+  "quantidade": 1,
+  "percentual": 0.01
+ },
+ {
+  "palavra": "todotipo",
+  "quantidade": 1,
+  "percentual": 0.01
+ },
+ {
+  "palavra": "citamos",
+  "quantidade": 1,
+  "percentual": 0.01
+ },
+ {
+  "palavra": "númerosurpreendente",
+  "quantidade": 1,
+  "percentual": 0.01
+ },
+ {
+  "palavra": "apresentações",
+  "quantidade": 1,
+  "percentual": 0.01
+ },
+ {
+  "palavra": "aulas",
+  "quantidade": 1,
+  "percentual": 0.01
+ },
+ {
+  "palavra": "sessõesno",
+  "quantidade": 1,
+  "percentual": 0.01
+ },
+ {
+  "palavra": "congresso",
+  "quantidade": 1,
+  "percentual": 0.01
+ },
+ {
+  "palavra": "sociedade",
+  "quantidade": 1,
+  "percentual": 0.01
+ },
+ {
+  "palavra": "americana",
+  "quantidade": 1,
+  "percentual": 0.01
+ },
+ {
+  "palavra": "rsna",
+  "quantidade": 1,
+  "percentual": 0.01
+ },
+ {
+  "palavra": "meeting",
+  "quantidade": 1,
+  "percentual": 0.01
+ },
+ {
+  "palavra": "congressofigura",
+  "quantidade": 1,
+  "percentual": 0.01
+ },
+ {
+  "palavra": "profundofigura",
+  "quantidade": 1,
+  "percentual": 0.01
+ },
+ {
+  "palavra": "perfeita",
+  "quantidade": 1,
+  "percentual": 0.01
+ },
+ {
+  "palavra": "intermediária",
+  "quantidade": 1,
+  "percentual": 0.01
+ },
+ {
+  "palavra": "aleatóriocom",
+  "quantidade": 1,
+  "percentual": 0.01
+ },
+ {
+  "palavra": "koenigkam",
+  "quantidade": 1,
+  "percentual": 0.01
+ },
+ {
+  "palavra": "especialidade",
+  "quantidade": 1,
+  "percentual": 0.01
+ },
+ {
+  "palavra": "número",
+  "quantidade": 1,
+  "percentual": 0.01
+ },
+ {
+  "palavra": "participantese",
+  "quantidade": 1,
+  "percentual": 0.01
+ },
+ {
+  "palavra": "eventos",
+  "quantidade": 1,
+  "percentual": 0.01
+ },
+ {
+  "palavra": "umdos",
+  "quantidade": 1,
+  "percentual": 0.01
+ },
+ {
+  "palavra": "tópicos",
+  "quantidade": 1,
+  "percentual": 0.01
+ },
+ {
+  "palavra": "httpsrsnarsnaorgprogramindexcfm",
+  "quantidade": 1,
+  "percentual": 0.01
+ },
+ {
+  "palavra": "incluemdetecção",
+  "quantidade": 1,
+  "percentual": 0.01
+ },
+ {
+  "palavra": "pneumoniapneumotórax",
+  "quantidade": 1,
+  "percentual": 0.01
+ },
+ {
+  "palavra": "derrame",
+  "quantidade": 1,
+  "percentual": 0.01
+ },
+ {
+  "palavra": "pleural",
+  "quantidade": 1,
+  "percentual": 0.01
+ },
+ {
+  "palavra": "enfisema",
+  "quantidade": 1,
+  "percentual": 0.01
+ },
+ {
+  "palavra": "estimativa",
+  "quantidade": 1,
+  "percentual": 0.01
+ },
+ {
+  "palavra": "dorisco",
+  "quantidade": 1,
+  "percentual": 0.01
+ },
+ {
+  "palavra": "malignidade",
+  "quantidade": 1,
+  "percentual": 0.01
+ },
+ {
+  "palavra": "invasão",
+  "quantidade": 1,
+  "percentual": 0.01
+ },
+ {
+  "palavra": "local",
+  "quantidade": 1,
+  "percentual": 0.01
+ },
+ {
+  "palavra": "risco",
+  "quantidade": 1,
+  "percentual": 0.01
+ },
+ {
+  "palavra": "cardiovascular",
+  "quantidade": 1,
+  "percentual": 0.01
+ },
+ {
+  "palavra": "tcde",
+  "quantidade": 1,
+  "percentual": 0.01
+ },
+ {
+  "palavra": "cardíaca",
+  "quantidade": 1,
+  "percentual": 0.01
+ },
+ {
+  "palavra": "docoração",
+  "quantidade": 1,
+  "percentual": 0.01
+ },
+ {
+  "palavra": "possibilidadesde",
+  "quantidade": 1,
+  "percentual": 0.01
+ },
+ {
+  "palavra": "diagnósticocomputadorizado",
+  "quantidade": 1,
+  "percentual": 0.01
+ },
+ {
+  "palavra": "tornaramse",
+  "quantidade": 1,
+  "percentual": 0.01
+ },
+ {
+  "palavra": "quase",
+  "quantidade": 1,
+  "percentual": 0.01
+ },
+ {
+  "palavra": "ilimitadasrecuperação",
+  "quantidade": 1,
+  "percentual": 0.01
+ },
+ {
+  "palavra": "conteúdoo",
+  "quantidade": 1,
+  "percentual": 0.01
+ },
+ {
+  "palavra": "referese",
+  "quantidade": 1,
+  "percentual": 0.01
+ },
+ {
+  "palavra": "imagenscujos",
+  "quantidade": 1,
+  "percentual": 0.01
+ },
+ {
+  "palavra": "conteúdos",
+  "quantidade": 1,
+  "percentual": 0.01
+ },
+ {
+  "palavra": "referênciautilizando",
+  "quantidade": 1,
+  "percentual": 0.01
+ },
+ {
+  "palavra": "derivadas",
+  "quantidade": 1,
+  "percentual": 0.01
+ },
+ {
+  "palavra": "próprias",
+  "quantidade": 1,
+  "percentual": 0.01
+ },
+ {
+  "palavra": "imagensrepresentadas",
+  "quantidade": 1,
+  "percentual": 0.01
+ },
+ {
+  "palavra": "intrínseco",
+  "quantidade": 1,
+  "percentual": 0.01
+ },
+ {
+  "palavra": "associados",
+  "quantidade": 1,
+  "percentual": 0.01
+ },
+ {
+  "palavra": "laudos",
+  "quantidade": 1,
+  "percentual": 0.01
+ },
+ {
+  "palavra": "anotaçõesexternas",
+  "quantidade": 1,
+  "percentual": 0.01
+ },
+ {
+  "palavra": "promissoras",
+  "quantidade": 1,
+  "percentual": 0.01
+ },
+ {
+  "palavra": "ela",
+  "quantidade": 1,
+  "percentual": 0.01
+ },
+ {
+  "palavra": "pesquisaesta",
+  "quantidade": 1,
+  "percentual": 0.01
+ },
+ {
+  "palavra": "útil",
+  "quantidade": 1,
+  "percentual": 0.01
+ },
+ {
+  "palavra": "clínicodo",
+  "quantidade": 1,
+  "percentual": 0.01
+ },
+ {
+  "palavra": "aumentar",
+  "quantidade": 1,
+  "percentual": 0.01
+ },
+ {
+  "palavra": "deconfiança",
+  "quantidade": 1,
+  "percentual": 0.01
+ },
+ {
+  "palavra": "valendose",
+  "quantidade": 1,
+  "percentual": 0.01
+ },
+ {
+  "palavra": "comumé",
+  "quantidade": 1,
+  "percentual": 0.01
+ },
+ {
+  "palavra": "diante",
+  "quantidade": 1,
+  "percentual": 0.01
+ },
+ {
+  "palavra": "dúvida",
+  "quantidade": 1,
+  "percentual": 0.01
+ },
+ {
+  "palavra": "procurena",
+  "quantidade": 1,
+  "percentual": 0.01
+ },
+ {
+  "palavra": "internet",
+  "quantidade": 1,
+  "percentual": 0.01
+ },
+ {
+  "palavra": "especializados",
+  "quantidade": 1,
+  "percentual": 0.01
+ },
+ {
+  "palavra": "emradiologia",
+  "quantidade": 1,
+  "percentual": 0.01
+ },
+ {
+  "palavra": "palavraschave",
+  "quantidade": 1,
+  "percentual": 0.01
+ },
+ {
+  "palavra": "valendo",
+  "quantidade": 1,
+  "percentual": 0.01
+ },
+ {
+  "palavra": "suspeita",
+  "quantidade": 1,
+  "percentual": 0.01
+ },
+ {
+  "palavra": "porexemplo",
+  "quantidade": 1,
+  "percentual": 0.01
+ },
+ {
+  "palavra": "buscar",
+  "quantidade": 1,
+  "percentual": 0.01
+ },
+ {
+  "palavra": "google",
+  "quantidade": 1,
+  "percentual": 0.01
+ },
+ {
+  "palavra": "hamartoma",
+  "quantidade": 1,
+  "percentual": 0.01
+ },
+ {
+  "palavra": "substitui",
+  "quantidade": 1,
+  "percentual": 0.01
+ },
+ {
+  "palavra": "essetipo",
+  "quantidade": 1,
+  "percentual": 0.01
+ },
+ {
+  "palavra": "tarefa",
+  "quantidade": 1,
+  "percentual": 0.01
+ },
+ {
+  "palavra": "eficaz",
+  "quantidade": 1,
+  "percentual": 0.01
+ },
+ {
+  "palavra": "trazendo",
+  "quantidade": 1,
+  "percentual": 0.01
+ },
+ {
+  "palavra": "médicocasos",
+  "quantidade": 1,
+  "percentual": 0.01
+ },
+ {
+  "palavra": "qual",
+  "quantidade": 1,
+  "percentual": 0.01
+ },
+ {
+  "palavra": "ele",
+  "quantidade": 1,
+  "percentual": 0.01
+ },
+ {
+  "palavra": "declassificação",
+  "quantidade": 1,
+  "percentual": 0.01
+ },
+ {
+  "palavra": "únicaresposta",
+  "quantidade": 1,
+  "percentual": 0.01
+ },
+ {
+  "palavra": "benigno",
+  "quantidade": 1,
+  "percentual": 0.01
+ },
+ {
+  "palavra": "maligno",
+  "quantidade": 1,
+  "percentual": 0.01
+ },
+ {
+  "palavra": "ossistemas",
+  "quantidade": 1,
+  "percentual": 0.01
+ },
+ {
+  "palavra": "buscas",
+  "quantidade": 1,
+  "percentual": 0.01
+ },
+ {
+  "palavra": "porsimilaridade",
+  "quantidade": 1,
+  "percentual": 0.01
+ },
+ {
+  "palavra": "aum",
+  "quantidade": 1,
+  "percentual": 0.01
+ },
+ {
+  "palavra": "desconhecido",
+  "quantidade": 1,
+  "percentual": 0.01
+ },
+ {
+  "palavra": "indicado",
+  "quantidade": 1,
+  "percentual": 0.01
+ },
+ {
+  "palavra": "médicoradiômica",
+  "quantidade": 1,
+  "percentual": 0.01
+ },
+ {
+  "palavra": "radiogenômicao",
+  "quantidade": 1,
+  "percentual": 0.01
+ },
+ {
+  "palavra": "sufixo",
+  "quantidade": 1,
+  "percentual": 0.01
+ },
+ {
+  "palavra": "ômica",
+  "quantidade": 1,
+  "percentual": 0.01
+ },
+ {
+  "palavra": "termo",
+  "quantidade": 1,
+  "percentual": 0.01
+ },
+ {
+  "palavra": "biologiamolecular",
+  "quantidade": 1,
+  "percentual": 0.01
+ },
+ {
+  "palavra": "descrever",
+  "quantidade": 1,
+  "percentual": 0.01
+ },
+ {
+  "palavra": "detalhada",
+  "quantidade": 1,
+  "percentual": 0.01
+ },
+ {
+  "palavra": "demoléculas",
+  "quantidade": 1,
+  "percentual": 0.01
+ },
+ {
+  "palavra": "dna",
+  "quantidade": 1,
+  "percentual": 0.01
+ },
+ {
+  "palavra": "genômica",
+  "quantidade": 1,
+  "percentual": 0.01
+ },
+ {
+  "palavra": "proteômica",
+  "quantidade": 1,
+  "percentual": 0.01
+ },
+ {
+  "palavra": "associa",
+  "quantidade": 1,
+  "percentual": 0.01
+ },
+ {
+  "palavra": "quantitativasatributos",
+  "quantidade": 1,
+  "percentual": 0.01
+ },
+ {
+  "palavra": "desfechosfigura",
+  "quantidade": 1,
+  "percentual": 0.01
+ },
+ {
+  "palavra": "decad",
+  "quantidade": 1,
+  "percentual": 0.01
+ },
+ {
+  "palavra": "nódulospulmonares",
+  "quantidade": 1,
+  "percentual": 0.01
+ },
+ {
+  "palavra": "somenteindica",
+  "quantidade": 1,
+  "percentual": 0.01
+ },
+ {
+  "palavra": "pulmonarapical",
+  "quantidade": 1,
+  "percentual": 0.01
+ },
+ {
+  "palavra": "direito",
+  "quantidade": 1,
+  "percentual": 0.01
+ },
+ {
+  "palavra": "informaçõesquantitativas",
+  "quantidade": 1,
+  "percentual": 0.01
+ },
+ {
+  "palavra": "tridimensionais",
+  "quantidade": 1,
+  "percentual": 0.01
+ },
+ {
+  "palavra": "dessenódulokoenigkam",
+  "quantidade": 1,
+  "percentual": 0.01
+ },
+ {
+  "palavra": "novdezclínicos",
+  "quantidade": 1,
+  "percentual": 0.01
+ },
+ {
+  "palavra": "permitindo",
+  "quantidade": 1,
+  "percentual": 0.01
+ },
+ {
+  "palavra": "mas",
+  "quantidade": 1,
+  "percentual": 0.01
+ },
+ {
+  "palavra": "ede",
+  "quantidade": 1,
+  "percentual": 0.01
+ },
+ {
+  "palavra": "face",
+  "quantidade": 1,
+  "percentual": 0.01
+ },
+ {
+  "palavra": "recentes",
+  "quantidade": 1,
+  "percentual": 0.01
+ },
+ {
+  "palavra": "avançosnas",
+  "quantidade": 1,
+  "percentual": 0.01
+ },
+ {
+  "palavra": "terapiasalvo",
+  "quantidade": 1,
+  "percentual": 0.01
+ },
+ {
+  "palavra": "imunoterapias",
+  "quantidade": 1,
+  "percentual": 0.01
+ },
+ {
+  "palavra": "neoplasias",
+  "quantidade": 1,
+  "percentual": 0.01
+ },
+ {
+  "palavra": "abordagemde",
+  "quantidade": 1,
+  "percentual": 0.01
+ },
+ {
+  "palavra": "robusta",
+  "quantidade": 1,
+  "percentual": 0.01
+ },
+ {
+  "palavra": "tornou",
+  "quantidade": 1,
+  "percentual": 0.01
+ },
+ {
+  "palavra": "imperativa",
+  "quantidade": 1,
+  "percentual": 0.01
+ },
+ {
+  "palavra": "prover",
+  "quantidade": 1,
+  "percentual": 0.01
+ },
+ {
+  "palavra": "invasiva",
+  "quantidade": 1,
+  "percentual": 0.01
+ },
+ {
+  "palavra": "rápida",
+  "quantidade": 1,
+  "percentual": 0.01
+ },
+ {
+  "palavra": "baixo",
+  "quantidade": 1,
+  "percentual": 0.01
+ },
+ {
+  "palavra": "custo",
+  "quantidade": 1,
+  "percentual": 0.01
+ },
+ {
+  "palavra": "análiseradiômica",
+  "quantidade": 1,
+  "percentual": 0.01
+ },
+ {
+  "palavra": "define",
+  "quantidade": 1,
+  "percentual": 0.01
+ },
+ {
+  "palavra": "dezenas",
+  "quantidade": 1,
+  "percentual": 0.01
+ },
+ {
+  "palavra": "inserção",
+  "quantidade": 1,
+  "percentual": 0.01
+ },
+ {
+  "palavra": "informaçõesclínicas",
+  "quantidade": 1,
+  "percentual": 0.01
+ },
+ {
+  "palavra": "permitam",
+  "quantidade": 1,
+  "percentual": 0.01
+ },
+ {
+  "palavra": "compartilhamentoe",
+  "quantidade": 1,
+  "percentual": 0.01
+ },
+ {
+  "palavra": "análiseo",
+  "quantidade": 1,
+  "percentual": 0.01
+ },
+ {
+  "palavra": "crescendo",
+  "quantidade": 1,
+  "percentual": 0.01
+ },
+ {
+  "palavra": "umritmo",
+  "quantidade": 1,
+  "percentual": 0.01
+ },
+ {
+  "palavra": "acelerado",
+  "quantidade": 1,
+  "percentual": 0.01
+ },
+ {
+  "palavra": "caracterizando",
+  "quantidade": 1,
+  "percentual": 0.01
+ },
+ {
+  "palavra": "quealguns",
+  "quantidade": 1,
+  "percentual": 0.01
+ },
+ {
+  "palavra": "chamam",
+  "quantidade": 1,
+  "percentual": 0.01
+ },
+ {
+  "palavra": "era",
+  "quantidade": 1,
+  "percentual": 0.01
+ },
+ {
+  "palavra": "eesses",
+  "quantidade": 1,
+  "percentual": 0.01
+ },
+ {
+  "palavra": "eletrônicos",
+  "quantidade": 1,
+  "percentual": 0.01
+ },
+ {
+  "palavra": "estão",
+  "quantidade": 1,
+  "percentual": 0.01
+ },
+ {
+  "palavra": "volumosasquantidades",
+  "quantidade": 1,
+  "percentual": 0.01
+ },
+ {
+  "palavra": "hospitais",
+  "quantidade": 1,
+  "percentual": 0.01
+ },
+ {
+  "palavra": "centros",
+  "quantidade": 1,
+  "percentual": 0.01
+ },
+ {
+  "palavra": "saúdediante",
+  "quantidade": 1,
+  "percentual": 0.01
+ },
+ {
+  "palavra": "inúmeras",
+  "quantidade": 1,
+  "percentual": 0.01
+ },
+ {
+  "palavra": "possibilidades",
+  "quantidade": 1,
+  "percentual": 0.01
+ },
+ {
+  "palavra": "autorespassaram",
+  "quantidade": 1,
+  "percentual": 0.01
+ },
+ {
+  "palavra": "sugerir",
+  "quantidade": 1,
+  "percentual": 0.01
+ },
+ {
+  "palavra": "assinaturaradiômica",
+  "quantidade": 1,
+  "percentual": 0.01
+ },
+ {
+  "palavra": "significativos",
+  "quantidade": 1,
+  "percentual": 0.01
+ },
+ {
+  "palavra": "testados",
+  "quantidade": 1,
+  "percentual": 0.01
+ },
+ {
+  "palavra": "comprotocolos",
+  "quantidade": 1,
+  "percentual": 0.01
+ },
+ {
+  "palavra": "acurados",
+  "quantidade": 1,
+  "percentual": 0.01
+ },
+ {
+  "palavra": "reprodutíveisjá",
+  "quantidade": 1,
+  "percentual": 0.01
+ },
+ {
+  "palavra": "literatura",
+  "quantidade": 1,
+  "percentual": 0.01
+ },
+ {
+  "palavra": "usandoa",
+  "quantidade": 1,
+  "percentual": 0.01
+ },
+ {
+  "palavra": "imagempara",
+  "quantidade": 1,
+  "percentual": 0.01
+ },
+ {
+  "palavra": "maioria",
+  "quantidade": 1,
+  "percentual": 0.01
+ },
+ {
+  "palavra": "aplicada",
+  "quantidade": 1,
+  "percentual": 0.01
+ },
+ {
+  "palavra": "àoncologia",
+  "quantidade": 1,
+  "percentual": 0.01
+ },
+ {
+  "palavra": "rim",
+  "quantidade": 1,
+  "percentual": 0.01
+ },
+ {
+  "palavra": "pettc",
+  "quantidade": 1,
+  "percentual": 0.01
+ },
+ {
+  "palavra": "próstata",
+  "quantidade": 1,
+  "percentual": 0.01
+ },
+ {
+  "palavra": "glioma",
+  "quantidade": 1,
+  "percentual": 0.01
+ },
+ {
+  "palavra": "cerebral",
+  "quantidade": 1,
+  "percentual": 0.01
+ },
+ {
+  "palavra": "carcinoma",
+  "quantidade": 1,
+  "percentual": 0.01
+ },
+ {
+  "palavra": "hepatocelular",
+  "quantidade": 1,
+  "percentual": 0.01
+ },
+ {
+  "palavra": "rmquando",
+  "quantidade": 1,
+  "percentual": 0.01
+ },
+ {
+  "palavra": "foco",
+  "quantidade": 1,
+  "percentual": 0.01
+ },
+ {
+  "palavra": "genômicos",
+  "quantidade": 1,
+  "percentual": 0.01
+ },
+ {
+  "palavra": "conjuntode",
+  "quantidade": 1,
+  "percentual": 0.01
+ },
+ {
+  "palavra": "passa",
+  "quantidade": 1,
+  "percentual": 0.01
+ },
+ {
+  "palavra": "nome",
+  "quantidade": 1,
+  "percentual": 0.01
+ },
+ {
+  "palavra": "demonstrado",
+  "quantidade": 1,
+  "percentual": 0.01
+ },
+ {
+  "palavra": "dasimagens",
+  "quantidade": 1,
+  "percentual": 0.01
+ },
+ {
+  "palavra": "associações",
+  "quantidade": 1,
+  "percentual": 0.01
+ },
+ {
+  "palavra": "significativas",
+  "quantidade": 1,
+  "percentual": 0.01
+ },
+ {
+  "palavra": "aanálise",
+  "quantidade": 1,
+  "percentual": 0.01
+ },
+ {
+  "palavra": "demonstrar",
+  "quantidade": 1,
+  "percentual": 0.01
+ },
+ {
+  "palavra": "biológicos",
+  "quantidade": 1,
+  "percentual": 0.01
+ },
+ {
+  "palavra": "dispositivos",
+  "quantidade": 1,
+  "percentual": 0.01
+ },
+ {
+  "palavra": "ecomputacionais",
+  "quantidade": 1,
+  "percentual": 0.01
+ },
+ {
+  "palavra": "possibilitando",
+  "quantidade": 1,
+  "percentual": 0.01
+ },
+ {
+  "palavra": "decodificação",
+  "quantidade": 1,
+  "percentual": 0.01
+ },
+ {
+  "palavra": "fenótipos",
+  "quantidade": 1,
+  "percentual": 0.01
+ },
+ {
+  "palavra": "invasivosa",
+  "quantidade": 1,
+  "percentual": 0.01
+ },
+ {
+  "palavra": "empregada",
+  "quantidade": 1,
+  "percentual": 0.01
+ },
+ {
+  "palavra": "analisam",
+  "quantidade": 1,
+  "percentual": 0.01
+ },
+ {
+  "palavra": "heterogeneidade",
+  "quantidade": 1,
+  "percentual": 0.01
+ },
+ {
+  "palavra": "intratumoral",
+  "quantidade": 1,
+  "percentual": 0.01
+ },
+ {
+  "palavra": "éa",
+  "quantidade": 1,
+  "percentual": 0.01
+ },
+ {
+  "palavra": "múltiplas",
+  "quantidade": 1,
+  "percentual": 0.01
+ },
+ {
+  "palavra": "genéticasem",
+  "quantidade": 1,
+  "percentual": 0.01
+ },
+ {
+  "palavra": "recidiva",
+  "quantidade": 1,
+  "percentual": 0.01
+ },
+ {
+  "palavra": "àresistência",
+  "quantidade": 1,
+  "percentual": 0.01
+ },
+ {
+  "palavra": "capaz",
+  "quantidade": 1,
+  "percentual": 0.01
+ },
+ {
+  "palavra": "quantificar",
+  "quantidade": 1,
+  "percentual": 0.01
+ },
+ {
+  "palavra": "complexidade",
+  "quantidade": 1,
+  "percentual": 0.01
+ },
+ {
+  "palavra": "essassubregiões",
+  "quantidade": 1,
+  "percentual": 0.01
+ },
+ {
+  "palavra": "fenotípicasgenotípicas",
+  "quantidade": 1,
+  "percentual": 0.01
+ },
+ {
+  "palavra": "conclusãoa",
+  "quantidade": 1,
+  "percentual": 0.01
+ },
+ {
+  "palavra": "passando",
+  "quantidade": 1,
+  "percentual": 0.01
+ },
+ {
+  "palavra": "atualizações",
+  "quantidade": 1,
+  "percentual": 0.01
+ },
+ {
+  "palavra": "acontece",
+  "quantidade": 1,
+  "percentual": 0.01
+ },
+ {
+  "palavra": "mundoprimeiro",
+  "quantidade": 1,
+  "percentual": 0.01
+ },
+ {
+  "palavra": "digitalização",
+  "quantidade": 1,
+  "percentual": 0.01
+ },
+ {
+  "palavra": "radiológicosdepois",
+  "quantidade": 1,
+  "percentual": 0.01
+ },
+ {
+  "palavra": "amadurecimento",
+  "quantidade": 1,
+  "percentual": 0.01
+ },
+ {
+  "palavra": "decisões",
+  "quantidade": 1,
+  "percentual": 0.01
+ },
+ {
+  "palavra": "clínicas",
+  "quantidade": 1,
+  "percentual": 0.01
+ },
+ {
+  "palavra": "prognósticaneste",
+  "quantidade": 1,
+  "percentual": 0.01
+ },
+ {
+  "palavra": "apresentamos",
+  "quantidade": 1,
+  "percentual": 0.01
+ },
+ {
+  "palavra": "discutimos",
+  "quantidade": 1,
+  "percentual": 0.01
+ },
+ {
+  "palavra": "conceitos",
+  "quantidade": 1,
+  "percentual": 0.01
+ },
+ {
+  "palavra": "computadorizadadas",
+  "quantidade": 1,
+  "percentual": 0.01
+ },
+ {
+  "palavra": "artificialaplicada",
+  "quantidade": 1,
+  "percentual": 0.01
+ },
+ {
+  "palavra": "acreditam",
+  "quantidade": 1,
+  "percentual": 0.01
+ },
+ {
+  "palavra": "queessas",
+  "quantidade": 1,
+  "percentual": 0.01
+ },
+ {
+  "palavra": "irão",
+  "quantidade": 1,
+  "percentual": 0.01
+ },
+ {
+  "palavra": "jeito",
+  "quantidade": 1,
+  "percentual": 0.01
+ },
+ {
+  "palavra": "trabalhamcom",
+  "quantidade": 1,
+  "percentual": 0.01
+ },
+ {
+  "palavra": "futuromuito",
+  "quantidade": 1,
+  "percentual": 0.01
+ },
+ {
+  "palavra": "todosos",
+  "quantidade": 1,
+  "percentual": 0.01
+ },
+ {
+  "palavra": "entretanto",
+  "quantidade": 1,
+  "percentual": 0.01
+ },
+ {
+  "palavra": "temerosa",
+  "quantidade": 1,
+  "percentual": 0.01
+ },
+ {
+  "palavra": "aafirmação",
+  "quantidade": 1,
+  "percentual": 0.01
+ },
+ {
+  "palavra": "sejam",
+  "quantidade": 1,
+  "percentual": 0.01
+ },
+ {
+  "palavra": "substituídos",
+  "quantidade": 1,
+  "percentual": 0.01
+ },
+ {
+  "palavra": "computadortalvez",
+  "quantidade": 1,
+  "percentual": 0.01
+ },
+ {
+  "palavra": "avaliaçãode",
+  "quantidade": 1,
+  "percentual": 0.01
+ },
+ {
+  "palavra": "escoliose",
+  "quantidade": 1,
+  "percentual": 0.01
+ },
+ {
+  "palavra": "idade",
+  "quantidade": 1,
+  "percentual": 0.01
+ },
+ {
+  "palavra": "óssea",
+  "quantidade": 1,
+  "percentual": 0.01
+ },
+ {
+  "palavra": "possamaté",
+  "quantidade": 1,
+  "percentual": 0.01
+ },
+ {
+  "palavra": "realizados",
+  "quantidade": 1,
+  "percentual": 0.01
+ },
+ {
+  "palavra": "interpretados",
+  "quantidade": 1,
+  "percentual": 0.01
+ },
+ {
+  "palavra": "papel",
+  "quantidade": 1,
+  "percentual": 0.01
+ },
+ {
+  "palavra": "verificaçãovalidaçãodo",
+  "quantidade": 1,
+  "percentual": 0.01
+ },
+ {
+  "palavra": "clinicoepidemiológica",
+  "quantidade": 1,
+  "percentual": 0.01
+ },
+ {
+  "palavra": "decisãoterapêutica",
+  "quantidade": 1,
+  "percentual": 0.01
+ },
+ {
+  "palavra": "deverá",
+  "quantidade": 1,
+  "percentual": 0.01
+ },
+ {
+  "palavra": "ameaçado",
+  "quantidade": 1,
+  "percentual": 0.01
+ },
+ {
+  "palavra": "além",
+  "quantidade": 1,
+  "percentual": 0.01
+ },
+ {
+  "palavra": "claro",
+  "quantidade": 1,
+  "percentual": 0.01
+ },
+ {
+  "palavra": "dasquestões",
+  "quantidade": 1,
+  "percentual": 0.01
+ },
+ {
+  "palavra": "éticas",
+  "quantidade": 1,
+  "percentual": 0.01
+ },
+ {
+  "palavra": "legais",
+  "quantidade": 1,
+  "percentual": 0.01
+ },
+ {
+  "palavra": "relacionadas",
+  "quantidade": 1,
+  "percentual": 0.01
+ },
+ {
+  "palavra": "responsabilidadesobre",
+  "quantidade": 1,
+  "percentual": 0.01
+ },
+ {
+  "palavra": "médicoa",
+  "quantidade": 1,
+  "percentual": 0.01
+ },
+ {
+  "palavra": "certamente",
+  "quantidade": 1,
+  "percentual": 0.01
+ },
+ {
+  "palavra": "vai",
+  "quantidade": 1,
+  "percentual": 0.01
+ },
+ {
+  "palavra": "baixar",
+  "quantidade": 1,
+  "percentual": 0.01
+ },
+ {
+  "palavra": "pilha",
+  "quantidade": 1,
+  "percentual": 0.01
+ },
+ {
+  "palavra": "ação",
+  "quantidade": 1,
+  "percentual": 0.01
+ },
+ {
+  "palavra": "casosfigura",
+  "quantidade": 1,
+  "percentual": 0.01
+ },
+ {
+  "palavra": "heterogeneidadeintratumoral",
+  "quantidade": 1,
+  "percentual": 0.01
+ },
+ {
+  "palavra": "adenocarcinoma",
+  "quantidade": 1,
+  "percentual": 0.01
+ },
+ {
+  "palavra": "avaliaçãoradiômicaradiogenômica",
+  "quantidade": 1,
+  "percentual": 0.01
+ },
+ {
+  "palavra": "coresse",
+  "quantidade": 1,
+  "percentual": 0.01
+ },
+ {
+  "palavra": "refere",
+  "quantidade": 1,
+  "percentual": 0.01
+ },
+ {
+  "palavra": "atributo",
+  "quantidade": 1,
+  "percentual": 0.01
+ },
+ {
+  "palavra": "imagemrefletindo",
+  "quantidade": 1,
+  "percentual": 0.01
+ },
+ {
+  "palavra": "tumorkoenigkam",
+  "quantidade": 1,
+  "percentual": 0.01
+ },
+ {
+  "palavra": "urgentes",
+  "quantidade": 1,
+  "percentual": 0.01
+ },
+ {
+  "palavra": "agilizar",
+  "quantidade": 1,
+  "percentual": 0.01
+ },
+ {
+  "palavra": "emissão",
+  "quantidade": 1,
+  "percentual": 0.01
+ },
+ {
+  "palavra": "relatóriosaumentar",
+  "quantidade": 1,
+  "percentual": 0.01
+ },
+ {
+  "palavra": "confiança",
+  "quantidade": 1,
+  "percentual": 0.01
+ },
+ {
+  "palavra": "tornarmais",
+  "quantidade": 1,
+  "percentual": 0.01
+ },
+ {
+  "palavra": "reprodutível",
+  "quantidade": 1,
+  "percentual": 0.01
+ },
+ {
+  "palavra": "oferecer",
+  "quantidade": 1,
+  "percentual": 0.01
+ },
+ {
+  "palavra": "fidedignaauxiliar",
+  "quantidade": 1,
+  "percentual": 0.01
+ },
+ {
+  "palavra": "porfim",
+  "quantidade": 1,
+  "percentual": 0.01
+ },
+ {
+  "palavra": "inserir",
+  "quantidade": 1,
+  "percentual": 0.01
+ },
+ {
+  "palavra": "definitivamente",
+  "quantidade": 1,
+  "percentual": 0.01
+ },
+ {
+  "palavra": "demedicina",
+  "quantidade": 1,
+  "percentual": 0.01
+ },
+ {
+  "palavra": "prática",
+  "quantidade": 1,
+  "percentual": 0.01
+ },
+ {
+  "palavra": "imaginase",
+  "quantidade": 1,
+  "percentual": 0.01
+ },
+ {
+  "palavra": "mudançaserá",
+  "quantidade": 1,
+  "percentual": 0.01
+ },
+ {
+  "palavra": "suamaioria",
+  "quantidade": 1,
+  "percentual": 0.01
+ },
+ {
+  "palavra": "trabalham",
+  "quantidade": 1,
+  "percentual": 0.01
+ },
+ {
+  "palavra": "estação",
+  "quantidade": 1,
+  "percentual": 0.01
+ },
+ {
+  "palavra": "trabalhocom",
+  "quantidade": 1,
+  "percentual": 0.01
+ },
+ {
+  "palavra": "telas",
+  "quantidade": 1,
+  "percentual": 0.01
+ },
+ {
+  "palavra": "ferramentade",
+  "quantidade": 1,
+  "percentual": 0.01
+ },
+ {
+  "palavra": "visualização",
+  "quantidade": 1,
+  "percentual": 0.01
+ },
+ {
+  "palavra": "paraemissão",
+  "quantidade": 1,
+  "percentual": 0.01
+ },
+ {
+  "palavra": "relatório",
+  "quantidade": 1,
+  "percentual": 0.01
+ },
+ {
+  "palavra": "passarão",
+  "quantidade": 1,
+  "percentual": 0.01
+ },
+ {
+  "palavra": "telase",
+  "quantidade": 1,
+  "percentual": 0.01
+ },
+ {
+  "palavra": "estará",
+  "quantidade": 1,
+  "percentual": 0.01
+ },
+ {
+  "palavra": "disponível",
+  "quantidade": 1,
+  "percentual": 0.01
+ },
+ {
+  "palavra": "inteligênciaartificial",
+  "quantidade": 1,
+  "percentual": 0.01
+ },
+ {
+  "palavra": "temer",
+  "quantidade": 1,
+  "percentual": 0.01
+ },
+ {
+  "palavra": "preciso",
+  "quantidade": 1,
+  "percentual": 0.01
+ },
+ {
+  "palavra": "prepare",
+  "quantidade": 1,
+  "percentual": 0.01
+ },
+ {
+  "palavra": "aprenda",
+  "quantidade": 1,
+  "percentual": 0.01
+ },
+ {
+  "palavra": "adapte",
+  "quantidade": 1,
+  "percentual": 0.01
+ },
+ {
+  "palavra": "asmudanças",
+  "quantidade": 1,
+  "percentual": 0.01
+ },
+ {
+  "palavra": "inevitáveis",
+  "quantidade": 1,
+  "percentual": 0.01
+ },
+ {
+  "palavra": "noção",
+  "quantidade": 1,
+  "percentual": 0.01
+ },
+ {
+  "palavra": "ampla",
+  "quantidade": 1,
+  "percentual": 0.01
+ },
+ {
+  "palavra": "aberta",
+  "quantidade": 1,
+  "percentual": 0.01
+ },
+ {
+  "palavra": "grosso",
+  "quantidade": 1,
+  "percentual": 0.01
+ },
+ {
+  "palavra": "entendido",
+  "quantidade": 1,
+  "percentual": 0.01
+ },
+ {
+  "palavra": "manifestação",
+  "quantidade": 1,
+  "percentual": 0.01
+ },
+ {
+  "palavra": "ideias",
+  "quantidade": 1,
+  "percentual": 0.01
+ },
+ {
+  "palavra": "interpretadas",
+  "quantidade": 1,
+  "percentual": 0.01
+ },
+ {
+  "palavra": "conhecimentos",
+  "quantidade": 1,
+  "percentual": 0.01
+ },
+ {
+  "palavra": "linguísticos",
+  "quantidade": 1,
+  "percentual": 0.01
+ },
+ {
+  "palavra": "culturais",
+  "quantidade": 1,
+  "percentual": 0.01
+ },
+ {
+  "palavra": "variávelconjunto",
+  "quantidade": 1,
+  "percentual": 0.01
+ },
+ {
+  "palavra": "articuladas",
+  "quantidade": 1,
+  "percentual": 0.01
+ },
+ {
+  "palavra": "escritas",
+  "quantidade": 1,
+  "percentual": 0.01
+ },
+ {
+  "palavra": "sobre",
+  "quantidade": 1,
+  "percentual": 0.01
+ },
+ {
+  "palavra": "suporteobra",
+  "quantidade": 1,
+  "percentual": 0.01
+ },
+ {
+  "palavra": "redação",
+  "quantidade": 1,
+  "percentual": 0.01
+ },
+ {
+  "palavra": "autêntica",
+  "quantidade": 1,
+  "percentual": 0.01
+ },
+ {
+  "palavra": "sumário",
+  "quantidade": 1,
+  "percentual": 0.01
+ },
+ {
+  "palavra": "tradução",
+  "quantidade": 1,
+  "percentual": 0.01
+ },
+ {
+  "palavra": "notas",
+  "quantidade": 1,
+  "percentual": 0.01
+ },
+ {
+  "palavra": "comentários",
+  "quantidade": 1,
+  "percentual": 0.01
+ },
+ {
+  "palavra": "etcum",
+  "quantidade": 1,
+  "percentual": 0.01
+ },
+ {
+  "palavra": "falada",
+  "quantidade": 1,
+  "percentual": 0.01
+ },
+ {
+  "palavra": "dotada",
+  "quantidade": 1,
+  "percentual": 0.01
+ },
+ {
+  "palavra": "sociocomunicativa",
+  "quantidade": 1,
+  "percentual": 0.01
+ },
+ {
+  "palavra": "semântica",
+  "quantidade": 1,
+  "percentual": 0.01
+ },
+ {
+  "palavra": "formal",
+  "quantidade": 1,
+  "percentual": 0.01
+ },
+ {
+  "palavra": "usoo",
+  "quantidade": 1,
+  "percentual": 0.01
+ },
+ {
+  "palavra": "gerou",
+  "quantidade": 1,
+  "percentual": 0.01
+ },
+ {
+  "palavra": "vários",
+  "quantidade": 1,
+  "percentual": 0.01
+ },
+ {
+  "palavra": "teóricos",
+  "quantidade": 1,
+  "percentual": 0.01
+ },
+ {
+  "palavra": "percorreram",
+  "quantidade": 1,
+  "percentual": 0.01
+ },
+ {
+  "palavra": "fases",
+  "quantidade": 1,
+  "percentual": 0.01
+ },
+ {
+  "palavra": "diversas",
+  "quantidade": 1,
+  "percentual": 0.01
+ },
+ {
+  "palavra": "cujas",
+  "quantidade": 1,
+  "percentual": 0.01
+ },
+ {
+  "palavra": "transpor",
+  "quantidade": 1,
+  "percentual": 0.01
+ },
+ {
+  "palavra": "limites",
+  "quantidade": 1,
+  "percentual": 0.01
+ },
+ {
+  "palavra": "frase",
+  "quantidade": 1,
+  "percentual": 0.01
+ },
+ {
+  "palavra": "descontextualizada",
+  "quantidade": 1,
+  "percentual": 0.01
+ },
+ {
+  "palavra": "gramática",
+  "quantidade": 1,
+  "percentual": 0.01
+ },
+ {
+  "palavra": "tradicional",
+  "quantidade": 1,
+  "percentual": 0.01
+ },
+ {
+  "palavra": "incluir",
+  "quantidade": 1,
+  "percentual": 0.01
+ },
+ {
+  "palavra": "papéis",
+  "quantidade": 1,
+  "percentual": 0.01
+ },
+ {
+  "palavra": "textosum",
+  "quantidade": 1,
+  "percentual": 0.01
+ },
+ {
+  "palavra": "escrito",
+  "quantidade": 1,
+  "percentual": 0.01
+ },
+ {
+  "palavra": "oral",
+  "quantidade": 1,
+  "percentual": 0.01
+ },
+ {
+  "palavra": "lato",
+  "quantidade": 1,
+  "percentual": 0.01
+ },
+ {
+  "palavra": "verbaltexto",
+  "quantidade": 1,
+  "percentual": 0.01
+ },
+ {
+  "palavra": "crítico",
+  "quantidade": 1,
+  "percentual": 0.01
+ },
+ {
+  "palavra": "reflexivo",
+  "quantidade": 1,
+  "percentual": 0.01
+ },
+ {
+  "palavra": "analítico",
+  "quantidade": 1,
+  "percentual": 0.01
+ },
+ {
+  "palavra": "gerando",
+  "quantidade": 1,
+  "percentual": 0.01
+ },
+ {
+  "palavra": "crítica",
+  "quantidade": 1,
+  "percentual": 0.01
+ },
+ {
+  "palavra": "construtiva",
+  "quantidade": 1,
+  "percentual": 0.01
+ },
+ {
+  "palavra": "fundamentadaem",
+  "quantidade": 1,
+  "percentual": 0.01
+ },
+ {
+  "palavra": "artes",
+  "quantidade": 1,
+  "percentual": 0.01
+ },
+ {
+  "palavra": "gráficas",
+  "quantidade": 1,
+  "percentual": 0.01
+ },
+ {
+  "palavra": "verbal",
+  "quantidade": 1,
+  "percentual": 0.01
+ },
+ {
+  "palavra": "ilustraçõestodo",
+  "quantidade": 1,
+  "percentual": 0.01
+ },
+ {
+  "palavra": "estabelecem",
+  "quantidade": 1,
+  "percentual": 0.01
+ },
+ {
+  "palavra": "si",
+  "quantidade": 1,
+  "percentual": 0.01
+ },
+ {
+  "palavra": "temos",
+  "quantidade": 1,
+  "percentual": 0.01
+ },
+ {
+  "palavra": "ligação",
+  "quantidade": 1,
+  "percentual": 0.01
+ },
+ {
+  "palavra": "conexão",
+  "quantidade": 1,
+  "percentual": 0.01
+ },
+ {
+  "palavra": "expressões",
+  "quantidade": 1,
+  "percentual": 0.01
+ },
+ {
+  "palavra": "compreensão",
+  "quantidade": 1,
+  "percentual": 0.01
+ },
+ {
+  "palavra": "diz",
+  "quantidade": 1,
+  "percentual": 0.01
+ },
+ {
+  "palavra": "escreve",
+  "quantidade": 1,
+  "percentual": 0.01
+ },
+ {
+  "palavra": "suficiente",
+  "quantidade": 1,
+  "percentual": 0.01
+ },
+ {
+  "palavra": "enunciados",
+  "quantidade": 1,
+  "percentual": 0.01
+ },
+ {
+  "palavra": "constituam",
+  "quantidade": 1,
+  "percentual": 0.01
+ },
+ {
+  "palavra": "coesivos",
+  "quantidade": 1,
+  "percentual": 0.01
+ },
+ {
+  "palavra": "lhes",
+  "quantidade": 1,
+  "percentual": 0.01
+ },
+ {
+  "palavra": "legibilidade",
+  "quantidade": 1,
+  "percentual": 0.01
+ },
+ {
+  "palavra": "evidenciam",
+  "quantidade": 1,
+  "percentual": 0.01
+ },
+ {
+  "palavra": "relações",
+  "quantidade": 1,
+  "percentual": 0.01
+ },
+ {
+  "palavra": "componentes",
+  "quantidade": 1,
+  "percentual": 0.01
+ },
+ {
+  "palavra": "coesãotextos",
+  "quantidade": 1,
+  "percentual": 0.01
+ },
+ {
+  "palavra": "literáriosos",
+  "quantidade": 1,
+  "percentual": 0.01
+ },
+ {
+  "palavra": "aqueles",
+  "quantidade": 1,
+  "percentual": 0.01
+ },
+ {
+  "palavra": "emocionar",
+  "quantidade": 1,
+  "percentual": 0.01
+ },
+ {
+  "palavra": "isso",
+  "quantidade": 1,
+  "percentual": 0.01
+ },
+ {
+  "palavra": "exploram",
+  "quantidade": 1,
+  "percentual": 0.01
+ },
+ {
+  "palavra": "conotativa",
+  "quantidade": 1,
+  "percentual": 0.01
+ },
+ {
+  "palavra": "poética",
+  "quantidade": 1,
+  "percentual": 0.01
+ },
+ {
+  "palavra": "predomínio",
+  "quantidade": 1,
+  "percentual": 0.01
+ },
+ {
+  "palavra": "emotiva",
+  "quantidade": 1,
+  "percentual": 0.01
+ },
+ {
+  "palavra": "poéticaexemplos",
+  "quantidade": 1,
+  "percentual": 0.01
+ },
+ {
+  "palavra": "poemas",
+  "quantidade": 1,
+  "percentual": 0.01
+ },
+ {
+  "palavra": "romances",
+  "quantidade": 1,
+  "percentual": 0.01
+ },
+ {
+  "palavra": "contos",
+  "quantidade": 1,
+  "percentual": 0.01
+ },
+ {
+  "palavra": "telenovelasos",
+  "quantidade": 1,
+  "percentual": 0.01
+ },
+ {
+  "palavra": "pretendem",
+  "quantidade": 1,
+  "percentual": 0.01
+ },
+ {
+  "palavra": "informar",
+  "quantidade": 1,
+  "percentual": 0.01
+ },
+ {
+  "palavra": "direta",
+  "quantidade": 1,
+  "percentual": 0.01
+ },
+ {
+  "palavra": "denotativa",
+  "quantidade": 1,
+  "percentual": 0.01
+ },
+ {
+  "palavra": "referencial",
+  "quantidade": 1,
+  "percentual": 0.01
+ },
+ {
+  "palavra": "predominase",
+  "quantidade": 1,
+  "percentual": 0.01
+ },
+ {
+  "palavra": "nãoliteráriosexemplos",
+  "quantidade": 1,
+  "percentual": 0.01
+ },
+ {
+  "palavra": "nãoliterários",
+  "quantidade": 1,
+  "percentual": 0.01
+ },
+ {
+  "palavra": "notícias",
+  "quantidade": 1,
+  "percentual": 0.01
+ },
+ {
+  "palavra": "reportagens",
+  "quantidade": 1,
+  "percentual": 0.01
+ },
+ {
+  "palavra": "jornalísticas",
+  "quantidade": 1,
+  "percentual": 0.01
+ },
+ {
+  "palavra": "livros",
+  "quantidade": 1,
+  "percentual": 0.01
+ },
+ {
+  "palavra": "didáticos",
+  "quantidade": 1,
+  "percentual": 0.01
+ },
+ {
+  "palavra": "história",
+  "quantidade": 1,
+  "percentual": 0.01
+ },
+ {
+  "palavra": "geografia",
+  "quantidade": 1,
+  "percentual": 0.01
+ },
+ {
+  "palavra": "ciências",
+  "quantidade": 1,
+  "percentual": 0.01
+ },
+ {
+  "palavra": "científicos",
+  "quantidade": 1,
+  "percentual": 0.01
+ },
+ {
+  "palavra": "receitas",
+  "quantidade": 1,
+  "percentual": 0.01
+ },
+ {
+  "palavra": "culinárias",
+  "quantidade": 1,
+  "percentual": 0.01
+ },
+ {
+  "palavra": "bulas",
+  "quantidade": 1,
+  "percentual": 0.01
+ },
+ {
+  "palavra": "remédio",
+  "quantidade": 1,
+  "percentual": 0.01
+ }
+]

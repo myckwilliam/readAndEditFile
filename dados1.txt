@@ -1,1 +1,457 @@
-Myck Maria Jessie Jhony @123 Bruno Luana Luka Barbara Tiago @123
+https://www.scielo.br/pdf/brag/v74n1/0006-8705-brag-74-1-25.pdf
+
+1. INTRODUÇÃO
+A mamoneira (Ricinus communis L. – Euphorbiaceae) é
+uma cultura com destacada aplicação industrial por apresentar
+mais de 85% de ácido ricinoleico no óleo de suas sementes,
+o que lhe confere índice de viscosidade mais elevado e maior
+estabilidade entre todos os óleos vegetais, combinados com
+alta lubricidade, especialmente sob condições de baixa
+temperatura, notadamente para fabricação de gasolina de
+aviação, lubrificantes, nylon, corantes, tintas, sabões, adesivos
+e biodiesel (Ogunniyi, 2006).
+Há registros muito antigos de ocorrência da mamona no
+sudeste do Mediterrâneo, África Oriental e Índia, sendo mais
+provável que tenha se originado na África tropical (Weiss,
+1971). A distribuição da espécie nos dias de hoje ocorre entre
+as latitudes 40° Norte e 40° Sul, sendo cultivada em mais
+de 15 países (Allan et al., 2008; Figueiredo et al., 2004),
+particularmente na Índia, China e Brasil (Atsmon, 1989).
+A mamoneira é uma planta perene com variação no hábito
+de crescimento, cor da folhagem e caules, tamanho da semente
+e teor de óleo (Weiss, 2000). Geralmente considerada tanto
+de auto como de polinização cruzada pelo vento, estudos de
+cruzamento controlados sugerem que a polinização cruzada é
+um modo frequente de reprodução e que a taxa de alogamia
+natural pode ser superior a 40% (Brigham, 1967).
+A mamoneira é tida como tolerante à seca, provavelmente
+devido ao sistema radicular bem desenvolvido. Há referências
+de bons rendimentos com chuvas de 375 a 500 mm anuais
+(Weiss, 1983). Porém, embora tolerante à seca, tanto a
+ausência como o excesso de chuvas no período da floração
+podem reduzir a produtividade da planta e a falta de água,
+nessa última fase, pode comprometer a formação de frutos
+(Souza et al., 2007).
+A seca é um fator importante que afeta o desenvolvimento
+das plantas, prejudicando o rendimento das culturas em
+geral. Essa condição induz um conjunto de respostas
+fisiológicas, bioquímicas e moleculares, as quais desenvolvem
+habilidades para adaptação às circunstâncias ambientais
+limitantes, dependendo da intensidade e da duração do
+estresse, dos efeitos interativos de outros tipos de estresse, do
+estádio de desenvolvimento e do genótipo (Meneses et al.,
+2006). O impacto da seca na agricultura é uma importante
+consequência socioeconômica que afeta milhões de pessoas
+ao redor do mundo (Elliott et al., 2013). Para sobreviverem
+na falta de água, as plantas desenvolveram mecanismos de
+tolerância. Tolerância à seca é considerada uma característica
+poligênica e difícil de ser trabalhada no melhoramento
+genético clássico (Beever, 2000). Assim, a biologia molecular
+é considerada uma ferramenta de extrema importância na
+identificação de genes envolvidos nas respostas ao déficit
+hídrico. Em genótipos de soja tolerantes a seca o gene NADH
+desidrogenase foi diferencialmente expresso durante período
+de seca, associado com rotas metabólicas que podem estar
+envolvidas em respostas ao déficit hídrico (Casagrande et al.,
+2001). O estresse hídrico provoca alterações na expressão
+gênica de diferentes categorias funcionais. Observou-se em
+feijão-caiupi a indução de genes pertencentes à biossíntese de
+ácido abscísico, sinalização celular, transportador de prolina
+e biossíntese de lipídeos de membranas. A expressão desses
+genes indica sua participação em processos relacionados à
+proteção da planta ao estresse abiótico (Silva et al., 2012).
+Sob estresse, as plantas produzem espécies reativas de oxigênio
+(ERO), que são moléculas instáveis e extremamente reativas
+capazes de transformar outras moléculas com as quais colidem,
+afetando moléculas como proteínas, carboidratos, lipídeos
+e ácido nucleicos (Silva & Gonçalves, 2010).
+Alguns trabalhos têm mostrado que o déficit hídrico ativa
+o sistema de defesa enzimático das plantas para eliminação
+das espécies reativas de oxigênio ou ERO (Fan et al., 2009;
+Jaleel et al., 2007; Jambunathan, 2010; Jebara et al., 2005).
+Esse fato ocorre devido a alterações no metabolismo das
+plantas. Essas formas reativas de oxigênio, como Peróxido
+de Hidrogênio (H2
+O2
+), Radical Superóxido (O2
+-
+) e Radical
+Hidroxila (OH-
+), são conhecidas por oxidar importantes
+constituintes celulares, tais como: ácidos nucleicos, lipídeos
+de membrana (camada bipolar) e proteínas, podendo
+ocasionar a morte celular (Alscher et al., 2002). A produção
+das enzimas como: Catalase (CAT), Ascorbato Peroxidase
+(APX), Guaiacol Peroxidase (GPOX) e Superoxide Dismutase
+(SOD) é essencial para a eliminação das ERO presentes nas
+células. Dessa forma, o aumento na atividade das enzimas do
+sistema antioxidante é importante para eliminar o acúmulo
+de H2
+O2
+ e assim reduzir a peroxidação de lipídios (Eyidogan
+& Oz, 2007; Vaidyanathan et al., 2003).
+O aumento da demanda de mamona em muitos países
+vem atraindo grande atenção de melhoristas dos países
+produtores (Sujatha et al., 2008). Compreender o sistema
+antioxidativo das plantas é fundamental para a seleção
+de acessos que apresentam menor sensibilidade ao déficit
+hídrico e maior tolerância à seca. Informações básicas sobre
+o entendimento do mecanismo de resposta ao déficit hídrico
+poderão representar importante avanço ao desenvolvimento
+de cultivares resistentes ao déficit hídrico, haja vista que a
+planta vem sendo cultivada em regiões de baixos níveis de
+precipitação em muitos países.
+2. MATERIAL E MÉTODO
+Inicialmente, foi conduzido um experimento com seis
+acessos de Ricinus communis expostos a diferentes concentrações
+de polietilenoglicol (PEG 6.000) para determinação de
+curva de resposta. Três acessos foram selecionados para o
+estudo em função de respostas divergentes de tolerância e
+susceptibilidade à exposição ao estresse hídrico induzido
+por 10 gL–1 de PEG: IAC 2028 (cultivar comercial),
+PB 07 (linhagem avançada) e China Careca (acesso não 
+Genótipos de mamona submetidos a estresse hídrico
+Bragantia, Campinas, v.74, n. 1, p.25-32, 2015 27
+melhorado). A concentração de 10 g L–1 de PEG possui o
+potencial hídrico de 0,006095 MPa.
+Sementes dos três acessos foram germinadas em papel
+de filtro em incubadora mantida a 25 °C. Após sete dias, as
+mudas foram transplantadas para vasos com vermiculita e
+mantidos em casa de vegetação sob irrigação. Após 30 dias,
+as plântulas, com aproximadamente 15 cm de altura, foram
+transferidas para ambiente climatizado em tubos de 50 mL
+contendo água destilada (controle) e em tubos de 50 mL
+contendo PEG 6.000 10 g L–1 (tratamento), nas condições
+de crescimento de 12 horas de luz e 25 °C constantes. Os
+tratamentos foram aplicados durante 24 horas e as amostras
+foram coletadas nos tempos de 2, 8 e 24 horas. Para cada
+tratamento foram adotadas três repetições biológicas.
+Isolamento de RNA e síntese de DNA
+complementar
+O RNA total foi extraído a partir de 50 mg de folhas
+frescas usando-se o reagente Trizol (Invitrogen), de
+acordo com as instruções do fabricante. A qualidade e a
+concentração do RNA extraído foram avaliadas através de
+espectrofotometro Nano-Drop (ND-1.000) (NanoDrop
+Technologies, Wilmington, DE, EUA). A contaminação
+por fenol, hidratos de carbono e proteínas foi determinada
+com base nos índices de OD, A260/A230 e A260/A280,
+respectivamente, considerando-se apenas as amostras com
+razão maior que 1,7. A fim de verificar a integridade do RNA,
+as amostras foram separadas por electroforese num gel de
+agarose 1% corado com Gel Red (Biotium, Hayward, CA,
+EUA) e visualizadas com um HP AlphaImager (Alpha Innotech
+Corporation, Santa Clara, CA, EUA). Contaminantes de
+DNA e pequenos RNA foram eliminados com GeneJET™
+RNA Purification Kit (Thermo Scientific).
+A primeira fita de cDNA foi sintetizada a partir de
+8 µL de RNA total em uma reação de 20 µL utilizando-se
+RevertAid H Minus First Strand cDNA Synthesis Kit (Thermo
+Scientific). Os cDNAs foram diluídos para 5 ng.µL–1
+Foi feita uma análise in silico para a seleção de sequências de
+SOD, Catalase, Ascorbato Peroxidase usando EST (expressed
+sequence tags) de mamona do NCBI (National Center
+for Biotechnology Information). Cinco oligonucleotídeos
+iniciadores específicos foram desenhados: um para Catalase
+(CAT), um para Ascorbato Peroxidase (APX) e três para as
+isoformas Superóxido Dismutase (SOD-Fe, SOD-Cu/Zn
+e SOD-Mn), usando Primer3 software (Rozen & Skaletsky,
+2000). Os iniciadores de referência foram ubiquitina (UBT)
+e actina (ACT) (Morgante et al., 2011). Foi realizado um
+experimento de validação para confirmar a eficiência da PCR.
+As curvas de calibração para cada iniciador foram geradas
+utilizando-se diluições do cDNA em água para 10 ng; 5 ng;
+2,5 ng; 1,25 ng; 0,625 ng; 0,312 ng; e 0,156 ng e a eficiência
+de amplificação calculada por E = (10–1/slope–1) × 100.
+Para a análise de expressão foi utilizado PCR em tempo
+real quantitativo (qPCR). Os níveis de expressão de mRNA
+foram avaliados num ensaio de SYBR Green utilizando um
+Applied Biosystems 7.500 Fast Real-Time PCR System
+(Applied Biosystems, CA, EUA). As amplificações de
+PCR foram realizadas em triplicata em reações de 20 µL
+contendo Maxima SYBR Green/qPCR ROX Mix Master
+(Fermentas), 250 nM de cada iniciador (direto e inverso)
+e 4 ng de cDNA. As condições de amplificação foram de
+50 °C durante 2 min, 95 °C durante 10 min, 40 ciclos a
+95 °C durante 15 s, 60 °C durante 1 min. Para verificar a
+especificidade de amplificação foi adicionado um estágio
+de curva de dissociação. Em cada placa, genes de referência
+(actina e ubiquitina) e controle negativo foram incluídos.
+Determinação da expressão diferencial
+Valores de Ct (Cycle Threshold) foram determinados
+utilizando-se o software SDS (Applied Biosystems, CA, EUA).
+Dados de expressão gênica foram avaliados utilizando-se
+os valores Ct e de eficiência de amplificação, usando o
+método 2-ΔΔC
+T (Livak & Schmittgen, 2001). O Heat
+map foi construído utilizando-se o programa JColorGrid
+(Joachimiak et al., 2006).
+Avaliação da atividade enzimática
+As atividades enzimáticas foram determinadas em
+espectrofotômetro (Thermo scientific GENESYS 10S/UV).
+Para a determinação da atividade enzimática das enzimas
+CAT, GPX e APX, folhas foram maceradas em tampão
+fosfato 100 mM.
+A atividade da CAT foi determinada em 100 µL de
+extrato enzimático, 2.000 µL de tampão fosfato de potássio
+100 mM e 1,5 µL de peróxido de hidrogênio (H2
+O2
+) 30%,
+observando-se o decréscimo de H2
+O2
+ a 240 nm, de acordo
+com o método de Costa et al. (2005).
+Para a atividade enzimática da GPX foi utilizado 100 µL
+de extrato enzimático, 2,9mL de tampão fosfato de potássio
+100 mM, 15 µL de H2
+O2
+ 2% e 15 µL de Guaiacol 0,05%,
+observando-se o acréscimo de Guaiacol a 470 nm, de acordo
+com método de Costa et al. (2005).
+A atividade da APX foi obtida com a adição de 100 µL
+de extrato enzimático, 2,9mL de tampão fosfato de potássio
+100 mM, 30 µL de EDTA 10 mM, 30 µL H2
+O2
+ 100 mM e
+30 µL de ácido ascórbito 50 mM, observando-se o decréscimo
+de ácido ascórbico a 290 nm, de acordo com o método de
+Amako et al. (1994).
+Para a determinação da atividade enzimática da enzima
+SOD, as folhas da mamona foram maceradas num tampão
+fosfato de potássio 50 mM (1 mL tampão fosfato de potássio
+0,5 M, 9 mL H2
+O e 20 ul EDTA 5 mM, 0,1 g PVPP).
+P.F. Moraes et al.
+28 Bragantia, Campinas, v.74, n. 1, p.25-32, 2015
+A atividade de SOD foi determinada por espectrofotometria,
+de acordo com o método de Gupta  et  al. (1993), com
+algumas modificações, por meio de uma solução contendo
+20 µL de extrato enzimático, 700 µL de tampão fosfato
+de potassio 50 mM, 40 µL de metionina 500 mM, 30 µL
+de azul de nitrotetrazólio (NTB) 1 mM, 50 µL de triton
+X-100 (0,5%) e 176 µL de riboflavina.
+O cálculo da atividade enzimática de CAT, APX, GPOX
+foi determinado pela fórmula:
+Atividade enzimática = (∆ leitura / c.e)*(∆ tempo/1.000)*(volume
+cubeta)*(1/extrato enzima)*(volume tampão)*(volume
+tampão/volume tampão após centrifugação)*(1/gramas
+de tecido).
+Em que c.e é o coeficiente de extinção molar de cada
+enzima (CAT = 39,4 mM –1.cm–1, APX = 2,8 mM –1.cm–1,
+GPOX = 26,6 mM –1.cm–1).
+Como a enzima SOD não apresenta coeficiente de
+extinção molar, foi utilizada a mesma fórmula apresentada
+para as outras enzimas. Porém, esse coeficiente foi substituído
+pelo valor da diferença de leitura entre os extratos controle
+e tratamento.
+As atividades catalíticas das enzimas foram calculadas
+de acordo com as absorbâncias obtidas e expressas em
+µmol.min–1.mg–1.MF.
+Análise de dados
+A análise de variância (ANOVA) dos dados bioquímicos
+foi feita usando o programa R (R Development Core Team,
+2011) comparando os valores médios de tratamentos e
+controles, e as diferenças entre valores médios do tratamento
+menos controle (∆= Tratamento-Controle). Os valores
+encontrados foram comparados pelo teste de Tukey (p<0,05).
+3. RESULTADOS
+Expressão diferencial
+Os iniciadores desenhados e os genes de referência
+actina e ubiquitina foram selecionados a partir do teste de
+eficiência de amplificação (Tabela 1). Os valores de eficiência
+de amplificação dos genes alvos e normalizadores variaram
+de 0,96 (CAT) a 1,11 (ACT), aproximadamente 100% para
+os oligonucleotídios iniciadores escolhidos, considerados
+valores ideais (Pfaffl, 2001) para o sucesso da técnica.
+Para a análise da expressão diferencial foram considerados
+como diferencialmente expressos os genes cujos valores de
+quantificação relativa (QR) foram superiores a 1,5 (QR > 1,5)
+após indução de déficit hídrico por PEG.
+A análise de variância mostrou que apenas no tempo
+24 horas houve diferença significativa de expressão entre
+os acessos. Por esse motivo, as amostras analisadas foram
+aquelas coletadas no período de 24 horas.
+O cálculo de QR para os tratamentos (PEG 6.000 10 g L–1)
+das moléculas alvo nas amostras dos acessos IAC 2028, PB
+07 e China Careca revelou aumento de expressão das enzimas
+do sistema antioxidativo apenas para o acesso China Careca
+quando comparadas com os normalizadores actina e ubiquitina
+utilizados no experimento. Para os dois normalizadores foi
+observado o mesmo padrão de expressão gênica (Figura 1).
+No entanto, para o normalizador ubiquitina, o gene SOD-Fe
+não apresentou expressão diferencial quando submetido a
+déficit hídrico, tendo, nesse caso, maior expressão desse gene
+no controle negativo (sem PEG 6.000 10 g L–1).
+Em situação de déficit hídrico, o acesso China Careca
+apresentou maior expressão diferencial e aumento de cerca
+de três vezes no nível de transcrição dos genes SOD-Cu/Zn
+e expressão 1,7 vez maior para os genes SOD-Mn, CAT
+e APX (Tabela 2). Contrariamente, o gene SOD-Fe não
+apresentou expressão diferencial em China Careca, sendo
+diferentemente mais expresso no controle negativo e nos
+acessos PB 07 e IAC 2028. O gene CAT foi diferencialmente
+expresso (1,6 vez) apenas no acesso PB 07. O acesso IAC
+2028 não apresentou expressão diferencial em situação de
+déficit em nenhum dos genes alvo.
+Tabela 1. Eficiência de amplificação dos iniciadores pertencentes ao
+sistema antioxidativo e genes de referência
+GENES SLOP EFICIÊNCIA
+CAT
+–3,4225 0,96
+D:CCCAGGAGCTGCGCACTAT
+R:GCTAGCTTCTGACCCAGGGATT
+*(X59383.1)
+APX
+–3,3362 0,99
+D:AACTCAGGGTCTTCCAACAAAGC
+R:AACTCAGGGTCTTCCAACAAAGC
+*(T5225.1)
+SOD (Cu/Zn)
+–3,3417 0,99
+D: AAACCTGTCAAGCCAACCCATA
+R: TGAACTGCTTCTCCAGGAATCC
+*(T15128.1)
+SOD (Fe)
+–3,4192 0,96
+D: AAACCCCTTTCCCGAATTCA
+R: TGCATGGATTCCCAAAAGAAGT
+*(XM002520869.1)
+SOD (Mn)
+–3,2360 1,03
+D:GGGCGACTCTTCTTCTGTTGTTAA
+R: TTGATATGACCTCCTCCGTTGAA
+*(XM002520810.1)
+ACT
+–3,0784 1,11
+D: GCCGACGCCGAGGATATT
+R: CCAGCCTTCACCATTCCAGTT
+*(AY360221.1)
+UBQ
+–3,3255 0,99
+D:TTCTCATGTGAGGGACTATGGTGTT
+R:CTGAAAGTCTGAGAACCAAATGCA
+*(XM002516651.1)
+*Acesso de sequência presente no NCBI.
+Genótipos de mamona submetidos a estresse hídrico
+Bragantia, Campinas, v.74, n. 1, p.25-32, 2015 29
+Respostas enzimáticas
+Em situação de déficit hídrico, o acesso China Careca
+apresentou maior atividade de CAT (média de 0,0013) e
+maior atividade enzimática da SOD (média de 6,314) quando
+comparado com PB 07 e IAC 2028, que apresentaram
+valores inferiores na atividade dessas enzimas (Tabela 3).
+O acesso China Careca apresentou maior atividade de
+CAT e SOD, porém menor atividade de GPOX. Já o acesso
+IAC 2028 mostrou maior atividade de GPOX e menor
+atividade de CAT. Esse mesmo padrão de alternância de
+atividade enzimática foi verificado no acesso PB 07, que
+teve uma maior atividade da enzima GPOX, contra uma
+menor atividade da enzima CAT (Tabela 3).
+4. DISCUSSÃO
+Plantas possuem sistemas enzimáticos de defesa contra
+espécies reativas de oxigênio, incluindo SOD, CAT, APX. A
+ativação de genes que codificam essas enzimas em resposta
+a estresse oxidativo foi observada, também, em tabaco
+(Bowler et al., 1991), soja (Lee et al.,1999) e amendoim
+(Sankar et al., 2007).
+Estudos com superexpressão das isoformas de SOD
+demonstram o aumento da tolerância contra as ERO em
+arroz (Tanaka et al., 1999) e tabaco (Van Breusegem et al.,
+1999). Como observado no presente trabalho, o acesso
+Figura 1. Heat map representando valores médios de expressão
+diferencial de genes alvos em três acessos de mamona durante 24 horas
+de déficit hídrico, determinada pela quantitativa PCR em tempo real.
+Tabela 2. Valores médios de expressão diferencial (actina e ubiquitina) entre os acessos de mamona para os genes estudados
+GENES
+ACESSOS
+China Careca PB 07 IAC 2028
+SOD-Cu/Zn 3,537 (±1,24) (~ 300%) 0,676 (±0,02) 0,154 (±0,01)
+SOD-Fe 1,055 (±0,49) (~ 10%) 0,422 (±0,00) 0,160 (±0,00)
+SOD-Mn 1,702 (±0,09) (~70%) 0,650 (±0,05) 0,311 (±0,02)
+CAT 1,770 (±0,50) (~80%) 1,614 (±0,00) (~70%) 0,405 (±0,04)
+APX 1,600 (±0,49) (~70%) 0,309 (±0,00) 0,306 (±0,02)
+Tabela 3. Teste de média das atividades enzimáticas de CAT, APX, GPOX e SOD entre os três acessos avaliados (∆ = Tratamento – Controle)
+no tempo de 24 horas
+ENZIMAS ACESSOS MÉDIA* 5%**
+CAT
+China Careca 0,0013 a
+IAC 2028 0,0008 ab
+PB 07 0,0002 b
+APX
+China Careca 0,1766 a
+IAC 2028 0,1629 a
+PB 07 0,1490 a
+GPOX
+IAC 2028 0,0745 a
+PB 07 0,0692 a
+China Careca 0,0135 b
+SOD
+China Careca 6,314000 a
+PB 07 4,356000 ab
+IAC 2028 4,306000 ab
+* Valores expressos em µmol.min–1.mg–1MF; ** Tukey (p<0,05); médias seguidas por letras distintas diferem entre si.
+P.F. Moraes et al.
+30 Bragantia, Campinas, v.74, n. 1, p.25-32, 2015
+China Careca apresentou maior expressão de SOD-Cu/Zn e
+SOD-Mn em resposta ao déficit hídrico causado por PEG.
+A superexpressão do gene SOD-Mn foi induzida
+em plantas de tabaco e foi observado que essa enzima
+confere tolerância aos danos celulares causados por radical
+de oxigênio (Bowler  et  al., 1991). A superexpressão de
+apenas uma das isoformas de SOD pode ser explicada pela
+compartimentação das diferentes SOD dentro das células. A
+isoforma SOD-Cu/Zn é encontrada no citosol (cloroplasto) e
+possivelmente no espaço extracelular, SOD-Fe está localizada
+nos cloroplastos e SOD-Mn se localiza nas mitocôndrias
+(Alscher et al., 2002; Scandalios, 2005). O mesmo padrão
+de expressão observado em SOD-Fe e SOD-Mn pode
+ser devido a essas duas isoformas de SOD serem as mais
+antigas e, possivelmente, terem surgido da mesma enzima
+ancestral. Apesar de SOD-Cu/Zn possuir similaridade com a
+sequência de SOD-Fe e SOD-Mn, provavelmente evoluíram
+separadamente nos eucariotos (Alscher et al., 2002). Isso
+explica o fato de o gene SOD-Cu/Zn ser três vezes mais
+expresso na cultivar China Careca, quando comparado com
+as outras isoformas que tiveram menor expressão.
+Foi possível observar um aumento de 80% e 70% na
+expressão dos genes CAT e APX no acesso China Careca,
+respectivamente. Em segundo plano foi observado aumento
+(70%) na expressão apenas de CAT no acesso PB 07. Ambas as
+enzimas possuem alta afinidade para peróxido, sendo capazes
+de detoxificar baixas concentrações de H2
+O2
+ (Wang et al.,
+1999). Segundo Chamnongpol et al. (1998), Lee et al. (1999)
+e Sankar et al. (2007), essa enzima está diretamente ligada
+com a resposta a estresses bióticos e abióticos.
+O nível de expressão diferencial acima de 1,5 (50%)
+observado em China Careca para todos os genes do estudo,
+com exceção de SOD (Fe), pode estar relacionado com
+o caráter precocidade desse acesso. Enquanto os acessos
+IAC 2028 e PB 07 completam o seu ciclo de produção em
+180 dias, aproximadamente (nas coordenadas geográficas
+do município de Campinas, SP), China Careca precisa de
+apenas 100 dias.
+Os resultados obtidos a partir da análise da atividade
+enzimática corroboram os dados de expressão gênica, tendo
+o acesso China Careca apresentado maior atividade de CAT
+e SOD. Assim, o aumento da atividade dessas enzimas está
+diretamente ligado com a expressão diferencial desses genes
+pertencentes ao sistema antioxidante, tendo como uma
+de suas funções impedir o acúmulo de H2
+O2
+ nas células
+(Eyidogan & Oz, 2007; Vaidyanathan et al., 2003).
+5. Conclusão
+Os acessos estudados no presente trabalho apresentam
+características morfológicas que facilitam a sobrevivência
+e adaptação ao déficit hídrico por serem xerófilas. No
+entanto, o acesso China Careca apresentou um sistema de
+defesa contra as ERO mais eficiente, sugerindo ser menos
+sensível a situações de seca. A confirmação em campo de
+um sistema mais eficiente de defesa contra as ERO em um
+acesso mais precoce abre importante perspectiva de trabalho
+por meio da sua utilização em programas de melhoramento
+genético visando não apenas à precocidade de produção,
+como também maior capacidade de resistência a efeitos do
+déficit hídrico.

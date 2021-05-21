@@ -2,2056 +2,2056 @@
  {
   "palavra": "de",
   "quantidade": 74,
-  "percentual": "7.59"
+  "percentual": 7.59
  },
  {
   "palavra": "o",
   "quantidade": 40,
-  "percentual": "4.10"
+  "percentual": 4.1
  },
  {
   "palavra": "em",
   "quantidade": 26,
-  "percentual": "2.67"
+  "percentual": 2.67
  },
  {
   "palavra": "que",
   "quantidade": 25,
-  "percentual": "2.56"
+  "percentual": 2.56
  },
  {
   "palavra": "codificação",
   "quantidade": 23,
-  "percentual": "2.36"
+  "percentual": 2.36
  },
  {
   "palavra": "um",
   "quantidade": 21,
-  "percentual": "2.15"
+  "percentual": 2.15
  },
  {
   "palavra": "a",
   "quantidade": 21,
-  "percentual": "2.15"
+  "percentual": 2.15
  },
  {
   "palavra": "texto",
   "quantidade": 17,
-  "percentual": "1.74"
+  "percentual": 1.74
  },
  {
   "palavra": "e",
   "quantidade": 16,
-  "percentual": "1.64"
+  "percentual": 1.64
  },
  {
   "palavra": "com",
   "quantidade": 15,
-  "percentual": "1.54"
+  "percentual": 1.54
  },
  {
   "palavra": "padrão",
   "quantidade": 14,
-  "percentual": "1.44"
+  "percentual": 1.44
  },
  {
   "palavra": "no",
   "quantidade": 12,
-  "percentual": "1.23"
+  "percentual": 1.23
  },
  {
   "palavra": "computador",
   "quantidade": 12,
-  "percentual": "1.23"
+  "percentual": 1.23
  },
  {
   "palavra": "para",
   "quantidade": 11,
-  "percentual": "1.13"
+  "percentual": 1.13
  },
  {
   "palavra": "você",
   "quantidade": 10,
-  "percentual": "1.03"
+  "percentual": 1.03
  },
  {
   "palavra": "como",
   "quantidade": 10,
-  "percentual": "1.03"
+  "percentual": 1.03
  },
  {
   "palavra": "arquivo",
   "quantidade": 10,
-  "percentual": "1.03"
+  "percentual": 1.03
  },
  {
   "palavra": "os",
   "quantidade": 9,
-  "percentual": "0.92"
+  "percentual": 0.92
  },
  {
   "palavra": "arquivos",
   "quantidade": 9,
-  "percentual": "0.92"
+  "percentual": 0.92
  },
  {
   "palavra": "caracteres",
   "quantidade": 9,
-  "percentual": "0.92"
+  "percentual": 0.92
  },
  {
   "palavra": "do",
   "quantidade": 8,
-  "percentual": "0.82"
+  "percentual": 0.82
  },
  {
   "palavra": "ou",
   "quantidade": 8,
-  "percentual": "0.82"
+  "percentual": 0.82
  },
  {
   "palavra": "na",
   "quantidade": 8,
-  "percentual": "0.82"
+  "percentual": 0.82
  },
  {
   "palavra": "pode",
   "quantidade": 8,
-  "percentual": "0.82"
+  "percentual": 0.82
  },
  {
   "palavra": "foi",
   "quantidade": 7,
-  "percentual": "0.72"
+  "percentual": 0.72
  },
  {
   "palavra": "da",
   "quantidade": 7,
-  "percentual": "0.72"
+  "percentual": 0.72
  },
  {
   "palavra": "quando",
   "quantidade": 7,
-  "percentual": "0.72"
+  "percentual": 0.72
  },
  {
   "palavra": "Cabral",
   "quantidade": 6,
-  "percentual": "0.62"
+  "percentual": 0.62
  },
  {
   "palavra": "ao",
   "quantidade": 6,
-  "percentual": "0.62"
+  "percentual": 0.62
  },
  {
   "palavra": "abrir",
   "quantidade": 6,
-  "percentual": "0.62"
+  "percentual": 0.62
  },
  {
   "palavra": "Unicode",
   "quantidade": 6,
-  "percentual": "0.62"
+  "percentual": 0.62
  },
  {
   "palavra": "O",
   "quantidade": 5,
-  "percentual": "0.51"
+  "percentual": 0.51
  },
  {
   "palavra": "era",
   "quantidade": 5,
-  "percentual": "0.51"
+  "percentual": 0.51
  },
  {
   "palavra": "sua",
   "quantidade": 5,
-  "percentual": "0.51"
+  "percentual": 0.51
  },
  {
   "palavra": "se",
   "quantidade": 5,
-  "percentual": "0.51"
+  "percentual": 0.51
  },
  {
   "palavra": "é",
   "quantidade": 5,
-  "percentual": "0.51"
+  "percentual": 0.51
  },
  {
   "palavra": "valor",
   "quantidade": 5,
-  "percentual": "0.51"
+  "percentual": 0.51
  },
  {
   "palavra": "caractere",
   "quantidade": 5,
-  "percentual": "0.51"
+  "percentual": 0.51
  },
  {
   "palavra": "usa",
   "quantidade": 5,
-  "percentual": "0.51"
+  "percentual": 0.51
  },
  {
   "palavra": "encouraçado",
   "quantidade": 4,
-  "percentual": "0.41"
+  "percentual": 0.41
  },
  {
   "palavra": "uma",
   "quantidade": 4,
-  "percentual": "0.41"
+  "percentual": 0.41
  },
  {
   "palavra": "Fortaleza",
   "quantidade": 4,
-  "percentual": "0.41"
+  "percentual": 0.41
  },
  {
   "palavra": "por",
   "quantidade": 4,
-  "percentual": "0.41"
+  "percentual": 0.41
  },
  {
   "palavra": "outros",
   "quantidade": 4,
-  "percentual": "0.41"
+  "percentual": 0.41
  },
  {
   "palavra": "não",
   "quantidade": 4,
-  "percentual": "0.41"
+  "percentual": 0.41
  },
  {
   "palavra": "salvar",
   "quantidade": 4,
-  "percentual": "0.41"
+  "percentual": 0.41
  },
  {
   "palavra": "Word",
   "quantidade": 4,
-  "percentual": "0.41"
+  "percentual": 0.41
  },
  {
   "palavra": "numérico",
   "quantidade": 4,
-  "percentual": "0.41"
+  "percentual": 0.41
  },
  {
   "palavra": "diferentes",
   "quantidade": 4,
-  "percentual": "0.41"
+  "percentual": 0.41
  },
  {
   "palavra": "Windows",
   "quantidade": 4,
-  "percentual": "0.41"
+  "percentual": 0.41
  },
  {
   "palavra": "navio",
   "quantidade": 3,
-  "percentual": "0.31"
+  "percentual": 0.31
  },
  {
   "palavra": "entre",
   "quantidade": 3,
-  "percentual": "0.31"
+  "percentual": 0.31
  },
  {
   "palavra": "A",
   "quantidade": 3,
-  "percentual": "0.31"
+  "percentual": 0.31
  },
  {
   "palavra": "cerca",
   "quantidade": 3,
-  "percentual": "0.31"
+  "percentual": 0.31
  },
  {
   "palavra": "conjunto",
   "quantidade": 3,
-  "percentual": "0.31"
+  "percentual": 0.31
  },
  {
   "palavra": "No",
   "quantidade": 3,
-  "percentual": "0.31"
+  "percentual": 0.31
  },
  {
   "palavra": "idiomas",
   "quantidade": 3,
-  "percentual": "0.31"
+  "percentual": 0.31
  },
  {
   "palavra": "sistema",
   "quantidade": 3,
-  "percentual": "0.31"
+  "percentual": 0.31
  },
  {
   "palavra": "padrões",
   "quantidade": 3,
-  "percentual": "0.31"
+  "percentual": 0.31
  },
  {
   "palavra": "conjuntos",
   "quantidade": 3,
-  "percentual": "0.31"
+  "percentual": 0.31
  },
  {
   "palavra": "seu",
   "quantidade": 3,
-  "percentual": "0.31"
+  "percentual": 0.31
  },
  {
   "palavra": "cirílico",
   "quantidade": 3,
-  "percentual": "0.31"
+  "percentual": 0.31
  },
  {
   "palavra": "guerra",
   "quantidade": 2,
-  "percentual": "0.21"
+  "percentual": 0.21
  },
  {
   "palavra": "anos",
   "quantidade": 2,
-  "percentual": "0.21"
+  "percentual": 0.21
  },
  {
   "palavra": "embarcação",
   "quantidade": 2,
-  "percentual": "0.21"
+  "percentual": 0.21
  },
  {
   "palavra": "também",
   "quantidade": 2,
-  "percentual": "0.21"
+  "percentual": 0.21
  },
  {
   "palavra": "à",
   "quantidade": 2,
-  "percentual": "0.21"
+  "percentual": 0.21
  },
  {
   "palavra": "dois",
   "quantidade": 2,
-  "percentual": "0.21"
+  "percentual": 0.21
  },
  {
   "palavra": "casamata",
   "quantidade": 2,
-  "percentual": "0.21"
+  "percentual": 0.21
  },
  {
   "palavra": "marinha",
   "quantidade": 2,
-  "percentual": "0.21"
+  "percentual": 0.21
  },
  {
   "palavra": "navegabilidade",
   "quantidade": 2,
-  "percentual": "0.21"
+  "percentual": 0.21
  },
  {
   "palavra": "devido",
   "quantidade": 2,
-  "percentual": "0.21"
+  "percentual": 0.21
  },
  {
   "palavra": "diversos",
   "quantidade": 2,
-  "percentual": "0.21"
+  "percentual": 0.21
  },
  {
   "palavra": "dia",
   "quantidade": 2,
-  "percentual": "0.21"
+  "percentual": 0.21
  },
  {
   "palavra": "agosto",
   "quantidade": 2,
-  "percentual": "0.21"
+  "percentual": 0.21
  },
  {
   "palavra": "manobra",
   "quantidade": 2,
-  "percentual": "0.21"
+  "percentual": 0.21
  },
  {
   "palavra": "transposição",
   "quantidade": 2,
-  "percentual": "0.21"
+  "percentual": 0.21
  },
  {
   "palavra": "Em",
   "quantidade": 2,
-  "percentual": "0.21"
+  "percentual": 0.21
  },
  {
   "palavra": "Rio",
   "quantidade": 2,
-  "percentual": "0.21"
+  "percentual": 0.21
  },
  {
   "palavra": "armazenado",
   "quantidade": 2,
-  "percentual": "0.21"
+  "percentual": 0.21
  },
  {
   "palavra": "entanto",
   "quantidade": 2,
-  "percentual": "0.21"
+  "percentual": 0.21
  },
  {
   "palavra": "compartilha",
   "quantidade": 2,
-  "percentual": "0.21"
+  "percentual": 0.21
  },
  {
   "palavra": "faz",
   "quantidade": 2,
-  "percentual": "0.21"
+  "percentual": 0.21
  },
  {
   "palavra": "talvez",
   "quantidade": 2,
-  "percentual": "0.21"
+  "percentual": 0.21
  },
  {
   "palavra": "abre",
   "quantidade": 2,
-  "percentual": "0.21"
+  "percentual": 0.21
  },
  {
   "palavra": "programa",
   "quantidade": 2,
-  "percentual": "0.21"
+  "percentual": 0.21
  },
  {
   "palavra": "idioma",
   "quantidade": 2,
-  "percentual": "0.21"
+  "percentual": 0.21
  },
  {
   "palavra": "diferente",
   "quantidade": 2,
-  "percentual": "0.21"
+  "percentual": 0.21
  },
  {
   "palavra": "esse",
   "quantidade": 2,
-  "percentual": "0.21"
+  "percentual": 0.21
  },
  {
   "palavra": "representar",
   "quantidade": 2,
-  "percentual": "0.21"
+  "percentual": 0.21
  },
  {
   "palavra": "exibido",
   "quantidade": 2,
-  "percentual": "0.21"
+  "percentual": 0.21
  },
  {
   "palavra": "tela",
   "quantidade": 2,
-  "percentual": "0.21"
+  "percentual": 0.21
  },
  {
   "palavra": "valores",
   "quantidade": 2,
-  "percentual": "0.21"
+  "percentual": 0.21
  },
  {
   "palavra": "numéricos",
   "quantidade": 2,
-  "percentual": "0.21"
+  "percentual": 0.21
  },
  {
   "palavra": "Um",
   "quantidade": 2,
-  "percentual": "0.21"
+  "percentual": 0.21
  },
  {
   "palavra": "incluir",
   "quantidade": 2,
-  "percentual": "0.21"
+  "percentual": 0.21
  },
  {
   "palavra": "são",
   "quantidade": 2,
-  "percentual": "0.21"
+  "percentual": 0.21
  },
  {
   "palavra": "usados",
   "quantidade": 2,
-  "percentual": "0.21"
+  "percentual": 0.21
  },
  {
   "palavra": "exibir",
   "quantidade": 2,
-  "percentual": "0.21"
+  "percentual": 0.21
  },
  {
   "palavra": "Por",
   "quantidade": 2,
-  "percentual": "0.21"
+  "percentual": 0.21
  },
  {
   "palavra": "exemplo",
   "quantidade": 2,
-  "percentual": "0.21"
+  "percentual": 0.21
  },
  {
   "palavra": "Europeia",
   "quantidade": 2,
-  "percentual": "0.21"
+  "percentual": 0.21
  },
  {
   "palavra": "Ocidental",
   "quantidade": 2,
-  "percentual": "0.21"
+  "percentual": 0.21
  },
  {
   "palavra": "codificados",
   "quantidade": 2,
-  "percentual": "0.21"
+  "percentual": 0.21
  },
  {
   "palavra": "Você",
   "quantidade": 2,
-  "percentual": "0.21"
+  "percentual": 0.21
  },
  {
   "palavra": "baseado",
   "quantidade": 2,
-  "percentual": "0.21"
+  "percentual": 0.21
  },
  {
   "palavra": "inglês",
   "quantidade": 2,
-  "percentual": "0.21"
+  "percentual": 0.21
  },
  {
   "palavra": "Myck",
   "quantidade": 1,
-  "percentual": "0.10"
+  "percentual": 0.1
  },
  {
   "palavra": "Maria",
   "quantidade": 1,
-  "percentual": "0.10"
+  "percentual": 0.1
  },
  {
   "palavra": "Jessie",
   "quantidade": 1,
-  "percentual": "0.10"
+  "percentual": 0.1
  },
  {
   "palavra": "Jhony",
   "quantidade": 1,
-  "percentual": "0.10"
+  "percentual": 0.1
  },
  {
   "palavra": "Bruno",
   "quantidade": 1,
-  "percentual": "0.10"
+  "percentual": 0.1
  },
  {
   "palavra": "Luana",
   "quantidade": 1,
-  "percentual": "0.10"
+  "percentual": 0.1
  },
  {
   "palavra": "Luka",
   "quantidade": 1,
-  "percentual": "0.10"
+  "percentual": 0.1
  },
  {
   "palavra": "Barbara",
   "quantidade": 1,
-  "percentual": "0.10"
+  "percentual": 0.1
  },
  {
   "palavra": "Tiago",
   "quantidade": 1,
-  "percentual": "0.10"
+  "percentual": 0.1
  },
  {
   "palavra": "tipo",
   "quantidade": 1,
-  "percentual": "0.10"
+  "percentual": 0.1
  },
  {
   "palavra": "corveta",
   "quantidade": 1,
-  "percentual": "0.10"
+  "percentual": 0.1
  },
  {
   "palavra": "encouraçada",
   "quantidade": 1,
-  "percentual": "0.10"
+  "percentual": 0.1
  },
  {
   "palavra": "simplesmente",
   "quantidade": 1,
-  "percentual": "0.10"
+  "percentual": 0.1
  },
  {
   "palavra": "operado",
   "quantidade": 1,
-  "percentual": "0.10"
+  "percentual": 0.1
  },
  {
   "palavra": "pela",
   "quantidade": 1,
-  "percentual": "0.10"
+  "percentual": 0.1
  },
  {
   "palavra": "Armada",
   "quantidade": 1,
-  "percentual": "0.10"
+  "percentual": 0.1
  },
  {
   "palavra": "Imperial",
   "quantidade": 1,
-  "percentual": "0.10"
+  "percentual": 0.1
  },
  {
   "palavra": "Brasileira",
   "quantidade": 1,
-  "percentual": "0.10"
+  "percentual": 0.1
  },
  {
   "palavra": "construída",
   "quantidade": 1,
-  "percentual": "0.10"
+  "percentual": 0.1
  },
  {
   "palavra": "estaleiro",
   "quantidade": 1,
-  "percentual": "0.10"
+  "percentual": 0.1
  },
  {
   "palavra": "empresa",
   "quantidade": 1,
-  "percentual": "0.10"
+  "percentual": 0.1
  },
  {
   "palavra": "britânica",
   "quantidade": 1,
-  "percentual": "0.10"
+  "percentual": 0.1
  },
  {
   "palavra": "J",
   "quantidade": 1,
-  "percentual": "0.10"
+  "percentual": 0.1
  },
  {
   "palavra": "and",
   "quantidade": 1,
-  "percentual": "0.10"
+  "percentual": 0.1
  },
  {
   "palavra": "G",
   "quantidade": 1,
-  "percentual": "0.10"
+  "percentual": 0.1
  },
  {
   "palavra": "Rennie",
   "quantidade": 1,
-  "percentual": "0.10"
+  "percentual": 0.1
  },
  {
   "palavra": "Greenwich",
   "quantidade": 1,
-  "percentual": "0.10"
+  "percentual": 0.1
  },
  {
   "palavra": "Inglaterra",
   "quantidade": 1,
-  "percentual": "0.10"
+  "percentual": 0.1
  },
  {
   "palavra": "líder",
   "quantidade": 1,
-  "percentual": "0.10"
+  "percentual": 0.1
  },
  {
   "palavra": "classe",
   "quantidade": 1,
-  "percentual": "0.10"
+  "percentual": 0.1
  },
  {
   "palavra": "contava",
   "quantidade": 1,
-  "percentual": "0.10"
+  "percentual": 0.1
  },
  {
   "palavra": "Colombo",
   "quantidade": 1,
-  "percentual": "0.10"
+  "percentual": 0.1
  },
  {
   "palavra": "Foi",
   "quantidade": 1,
-  "percentual": "0.10"
+  "percentual": 0.1
  },
  {
   "palavra": "lançado",
   "quantidade": 1,
-  "percentual": "0.10"
+  "percentual": 0.1
  },
  {
   "palavra": "mar",
   "quantidade": 1,
-  "percentual": "0.10"
+  "percentual": 0.1
  },
  {
   "palavra": "incorporado",
   "quantidade": 1,
-  "percentual": "0.10"
+  "percentual": 0.1
  },
  {
   "palavra": "armada",
   "quantidade": 1,
-  "percentual": "0.10"
+  "percentual": 0.1
  },
  {
   "palavra": "setembro",
   "quantidade": 1,
-  "percentual": "0.10"
+  "percentual": 0.1
  },
  {
   "palavra": "inteiramente",
   "quantidade": 1,
-  "percentual": "0.10"
+  "percentual": 0.1
  },
  {
   "palavra": "construído",
   "quantidade": 1,
-  "percentual": "0.10"
+  "percentual": 0.1
  },
  {
   "palavra": "ferro",
   "quantidade": 1,
-  "percentual": "0.10"
+  "percentual": 0.1
  },
  {
   "palavra": "deslocava",
   "quantidade": 1,
-  "percentual": "0.10"
+  "percentual": 0.1
  },
  {
   "palavra": "toneladas",
   "quantidade": 1,
-  "percentual": "0.10"
+  "percentual": 0.1
  },
  {
   "palavra": "depender",
   "quantidade": 1,
-  "percentual": "0.10"
+  "percentual": 0.1
  },
  {
   "palavra": "fonte",
   "quantidade": 1,
-  "percentual": "0.10"
+  "percentual": 0.1
  },
  {
   "palavra": "referência",
   "quantidade": 1,
-  "percentual": "0.10"
+  "percentual": 0.1
  },
  {
   "palavra": "Possuía",
   "quantidade": 1,
-  "percentual": "0.10"
+  "percentual": 0.1
  },
  {
   "palavra": "motores",
   "quantidade": 1,
-  "percentual": "0.10"
+  "percentual": 0.1
  },
  {
   "palavra": "vapor",
   "quantidade": 1,
-  "percentual": "0.10"
+  "percentual": 0.1
  },
  {
   "palavra": "desenvolviam",
   "quantidade": 1,
-  "percentual": "0.10"
+  "percentual": 0.1
  },
  {
   "palavra": "até",
   "quantidade": 1,
-  "percentual": "0.10"
+  "percentual": 0.1
  },
  {
   "palavra": "hp",
   "quantidade": 1,
-  "percentual": "0.10"
+  "percentual": 0.1
  },
  {
   "palavra": "potência",
   "quantidade": 1,
-  "percentual": "0.10"
+  "percentual": 0.1
  },
  {
   "palavra": "impulsionando",
   "quantidade": 1,
-  "percentual": "0.10"
+  "percentual": 0.1
  },
  {
   "palavra": "kmh",
   "quantidade": 1,
-  "percentual": "0.10"
+  "percentual": 0.1
  },
  {
   "palavra": "Sua",
   "quantidade": 1,
-  "percentual": "0.10"
+  "percentual": 0.1
  },
  {
   "palavra": "estrutura",
   "quantidade": 1,
-  "percentual": "0.10"
+  "percentual": 0.1
  },
  {
   "palavra": "compreendia",
   "quantidade": 1,
-  "percentual": "0.10"
+  "percentual": 0.1
  },
  {
   "palavra": "dupla",
   "quantidade": 1,
-  "percentual": "0.10"
+  "percentual": 0.1
  },
  {
   "palavra": "oito",
   "quantidade": 1,
-  "percentual": "0.10"
+  "percentual": 0.1
  },
  {
   "palavra": "bocas",
   "quantidade": 1,
-  "percentual": "0.10"
+  "percentual": 0.1
  },
  {
   "palavra": "fogo",
   "quantidade": 1,
-  "percentual": "0.10"
+  "percentual": 0.1
  },
  {
   "palavra": "teve",
   "quantidade": 1,
-  "percentual": "0.10"
+  "percentual": 0.1
  },
  {
   "palavra": "grandes",
   "quantidade": 1,
-  "percentual": "0.10"
+  "percentual": 0.1
  },
  {
   "palavra": "dificuldades",
   "quantidade": 1,
-  "percentual": "0.10"
+  "percentual": 0.1
  },
  {
   "palavra": "este",
   "quantidade": 1,
-  "percentual": "0.10"
+  "percentual": 0.1
  },
  {
   "palavra": "difícil",
   "quantidade": 1,
-  "percentual": "0.10"
+  "percentual": 0.1
  },
  {
   "palavra": "modelo",
   "quantidade": 1,
-  "percentual": "0.10"
+  "percentual": 0.1
  },
  {
   "palavra": "deixava",
   "quantidade": 1,
-  "percentual": "0.10"
+  "percentual": 0.1
  },
  {
   "palavra": "parte",
   "quantidade": 1,
-  "percentual": "0.10"
+  "percentual": 0.1
  },
  {
   "palavra": "desprotegida",
   "quantidade": 1,
-  "percentual": "0.10"
+  "percentual": 0.1
  },
  {
   "palavra": "vulnerável",
   "quantidade": 1,
-  "percentual": "0.10"
+  "percentual": 0.1
  },
  {
   "palavra": "projéteis",
   "quantidade": 1,
-  "percentual": "0.10"
+  "percentual": 0.1
  },
  {
   "palavra": "mergulhantesApós",
   "quantidade": 1,
-  "percentual": "0.10"
+  "percentual": 0.1
  },
  {
   "palavra": "alguns",
   "quantidade": 1,
-  "percentual": "0.10"
+  "percentual": 0.1
  },
  {
   "palavra": "meses",
   "quantidade": 1,
-  "percentual": "0.10"
+  "percentual": 0.1
  },
  {
   "palavra": "chegada",
   "quantidade": 1,
-  "percentual": "0.10"
+  "percentual": 0.1
  },
  {
   "palavra": "Brasil",
   "quantidade": 1,
-  "percentual": "0.10"
+  "percentual": 0.1
  },
  {
   "palavra": "enviado",
   "quantidade": 1,
-  "percentual": "0.10"
+  "percentual": 0.1
  },
  {
   "palavra": "combate",
   "quantidade": 1,
-  "percentual": "0.10"
+  "percentual": 0.1
  },
  {
   "palavra": "Guerra",
   "quantidade": 1,
-  "percentual": "0.10"
+  "percentual": 0.1
  },
  {
   "palavra": "Paraguai",
   "quantidade": 1,
-  "percentual": "0.10"
+  "percentual": 0.1
  },
  {
   "palavra": "primeiro",
   "quantidade": 1,
-  "percentual": "0.10"
+  "percentual": 0.1
  },
  {
   "palavra": "obstáculo",
   "quantidade": 1,
-  "percentual": "0.10"
+  "percentual": 0.1
  },
  {
   "palavra": "Curupaiti",
   "quantidade": 1,
-  "percentual": "0.10"
+  "percentual": 0.1
  },
  {
   "palavra": "navios",
   "quantidade": 1,
-  "percentual": "0.10"
+  "percentual": 0.1
  },
  {
   "palavra": "esquadra",
   "quantidade": 1,
-  "percentual": "0.10"
+  "percentual": 0.1
  },
  {
   "palavra": "imperial",
   "quantidade": 1,
-  "percentual": "0.10"
+  "percentual": 0.1
  },
  {
   "palavra": "bombardeou",
   "quantidade": 1,
-  "percentual": "0.10"
+  "percentual": 0.1
  },
  {
   "palavra": "intensamente",
   "quantidade": 1,
-  "percentual": "0.10"
+  "percentual": 0.1
  },
  {
   "palavra": "fevereiro",
   "quantidade": 1,
-  "percentual": "0.10"
+  "percentual": 0.1
  },
  {
   "palavra": "forçou",
   "quantidade": 1,
-  "percentual": "0.10"
+  "percentual": 0.1
  },
  {
   "palavra": "sucesso",
   "quantidade": 1,
-  "percentual": "0.10"
+  "percentual": 0.1
  },
  {
   "palavra": "passagem",
   "quantidade": 1,
-  "percentual": "0.10"
+  "percentual": 0.1
  },
  {
   "palavra": "desse",
   "quantidade": 1,
-  "percentual": "0.10"
+  "percentual": 0.1
  },
  {
   "palavra": "forte",
   "quantidade": 1,
-  "percentual": "0.10"
+  "percentual": 0.1
  },
  {
   "palavra": "durou",
   "quantidade": 1,
-  "percentual": "0.10"
+  "percentual": 0.1
  },
  {
   "palavra": "duas",
   "quantidade": 1,
-  "percentual": "0.10"
+  "percentual": 0.1
  },
  {
   "palavra": "horas",
   "quantidade": 1,
-  "percentual": "0.10"
+  "percentual": 0.1
  },
  {
   "palavra": "Após",
   "quantidade": 1,
-  "percentual": "0.10"
+  "percentual": 0.1
  },
  {
   "palavra": "essa",
   "quantidade": 1,
-  "percentual": "0.10"
+  "percentual": 0.1
  },
  {
   "palavra": "março",
   "quantidade": 1,
-  "percentual": "0.10"
+  "percentual": 0.1
  },
  {
   "palavra": "Lima",
   "quantidade": 1,
-  "percentual": "0.10"
+  "percentual": 0.1
  },
  {
   "palavra": "Barros",
   "quantidade": 1,
-  "percentual": "0.10"
+  "percentual": 0.1
  },
  {
   "palavra": "sofreram",
   "quantidade": 1,
-  "percentual": "0.10"
+  "percentual": 0.1
  },
  {
   "palavra": "tentativa",
   "quantidade": 1,
-  "percentual": "0.10"
+  "percentual": 0.1
  },
  {
   "palavra": "abordagem",
   "quantidade": 1,
-  "percentual": "0.10"
+  "percentual": 0.1
  },
  {
   "palavra": "paraguaios",
   "quantidade": 1,
-  "percentual": "0.10"
+  "percentual": 0.1
  },
  {
   "palavra": "estavam",
   "quantidade": 1,
-  "percentual": "0.10"
+  "percentual": 0.1
  },
  {
   "palavra": "canoas",
   "quantidade": 1,
-  "percentual": "0.10"
+  "percentual": 0.1
  },
  {
   "palavra": "estava",
   "quantidade": 1,
-  "percentual": "0.10"
+  "percentual": 0.1
  },
  {
   "palavra": "prestes",
   "quantidade": 1,
-  "percentual": "0.10"
+  "percentual": 0.1
  },
  {
   "palavra": "ser",
   "quantidade": 1,
-  "percentual": "0.10"
+  "percentual": 0.1
  },
  {
   "palavra": "tomado",
   "quantidade": 1,
-  "percentual": "0.10"
+  "percentual": 0.1
  },
  {
   "palavra": "eles",
   "quantidade": 1,
-  "percentual": "0.10"
+  "percentual": 0.1
  },
  {
   "palavra": "Silvado",
   "quantidade": 1,
-  "percentual": "0.10"
+  "percentual": 0.1
  },
  {
   "palavra": "Herval",
   "quantidade": 1,
-  "percentual": "0.10"
+  "percentual": 0.1
  },
  {
   "palavra": "aproximaram",
   "quantidade": 1,
-  "percentual": "0.10"
+  "percentual": 0.1
  },
  {
   "palavra": "desbarataram",
   "quantidade": 1,
-  "percentual": "0.10"
+  "percentual": 0.1
  },
  {
   "palavra": "seus",
   "quantidade": 1,
-  "percentual": "0.10"
+  "percentual": 0.1
  },
  {
   "palavra": "canhões",
   "quantidade": 1,
-  "percentual": "0.10"
+  "percentual": 0.1
  },
  {
   "palavra": "mês",
   "quantidade": 1,
-  "percentual": "0.10"
+  "percentual": 0.1
  },
  {
   "palavra": "julho",
   "quantidade": 1,
-  "percentual": "0.10"
+  "percentual": 0.1
  },
  {
   "palavra": "participou",
   "quantidade": 1,
-  "percentual": "0.10"
+  "percentual": 0.1
  },
  {
   "palavra": "bombardeio",
   "quantidade": 1,
-  "percentual": "0.10"
+  "percentual": 0.1
  },
  {
   "palavra": "Humaitá",
   "quantidade": 1,
-  "percentual": "0.10"
+  "percentual": 0.1
  },
  {
   "palavra": "transpôs",
   "quantidade": 1,
-  "percentual": "0.10"
+  "percentual": 0.1
  },
  {
   "palavra": "Nessa",
   "quantidade": 1,
-  "percentual": "0.10"
+  "percentual": 0.1
  },
  {
   "palavra": "demonstrou",
   "quantidade": 1,
-  "percentual": "0.10"
+  "percentual": 0.1
  },
  {
   "palavra": "péssima",
   "quantidade": 1,
-  "percentual": "0.10"
+  "percentual": 0.1
  },
  {
   "palavra": "governabilidade",
   "quantidade": 1,
-  "percentual": "0.10"
+  "percentual": 0.1
  },
  {
   "palavra": "abalroar",
   "quantidade": 1,
-  "percentual": "0.10"
+  "percentual": 0.1
  },
  {
   "palavra": "violentamente",
   "quantidade": 1,
-  "percentual": "0.10"
+  "percentual": 0.1
  },
  {
   "palavra": "contra",
   "quantidade": 1,
-  "percentual": "0.10"
+  "percentual": 0.1
  },
  {
   "palavra": "encouraçados",
   "quantidade": 1,
-  "percentual": "0.10"
+  "percentual": 0.1
  },
  {
   "palavra": "prejudicando",
   "quantidade": 1,
-  "percentual": "0.10"
+  "percentual": 0.1
  },
  {
   "palavra": "mas",
   "quantidade": 1,
-  "percentual": "0.10"
+  "percentual": 0.1
  },
  {
   "palavra": "impedindo",
   "quantidade": 1,
-  "percentual": "0.10"
+  "percentual": 0.1
  },
  {
   "palavra": "ultrapassou",
   "quantidade": 1,
-  "percentual": "0.10"
+  "percentual": 0.1
  },
  {
   "palavra": "Timbó",
   "quantidade": 1,
-  "percentual": "0.10"
+  "percentual": 0.1
  },
  {
   "palavra": "outubro",
   "quantidade": 1,
-  "percentual": "0.10"
+  "percentual": 0.1
  },
  {
   "palavra": "AngosturaNos",
   "quantidade": 1,
-  "percentual": "0.10"
+  "percentual": 0.1
  },
  {
   "palavra": "últimos",
   "quantidade": 1,
-  "percentual": "0.10"
+  "percentual": 0.1
  },
  {
   "palavra": "já",
   "quantidade": 1,
-  "percentual": "0.10"
+  "percentual": 0.1
  },
  {
   "palavra": "mais",
   "quantidade": 1,
-  "percentual": "0.10"
+  "percentual": 0.1
  },
  {
   "palavra": "requisitado",
   "quantidade": 1,
-  "percentual": "0.10"
+  "percentual": 0.1
  },
  {
   "palavra": "retornou",
   "quantidade": 1,
-  "percentual": "0.10"
+  "percentual": 0.1
  },
  {
   "palavra": "Janeiro",
   "quantidade": 1,
-  "percentual": "0.10"
+  "percentual": 0.1
  },
  {
   "palavra": "onde",
   "quantidade": 1,
-  "percentual": "0.10"
+  "percentual": 0.1
  },
  {
   "palavra": "passou",
   "quantidade": 1,
-  "percentual": "0.10"
+  "percentual": 0.1
  },
  {
   "palavra": "obras",
   "quantidade": 1,
-  "percentual": "0.10"
+  "percentual": 0.1
  },
  {
   "palavra": "reparo",
   "quantidade": 1,
-  "percentual": "0.10"
+  "percentual": 0.1
  },
  {
   "palavra": "designado",
   "quantidade": 1,
-  "percentual": "0.10"
+  "percentual": 0.1
  },
  {
   "palavra": "terceira",
   "quantidade": 1,
-  "percentual": "0.10"
+  "percentual": 0.1
  },
  {
   "palavra": "divisão",
   "quantidade": 1,
-  "percentual": "0.10"
+  "percentual": 0.1
  },
  {
   "palavra": "naval",
   "quantidade": 1,
-  "percentual": "0.10"
+  "percentual": 0.1
  },
  {
   "palavra": "missão",
   "quantidade": 1,
-  "percentual": "0.10"
+  "percentual": 0.1
  },
  {
   "palavra": "patrulhar",
   "quantidade": 1,
-  "percentual": "0.10"
+  "percentual": 0.1
  },
  {
   "palavra": "costa",
   "quantidade": 1,
-  "percentual": "0.10"
+  "percentual": 0.1
  },
  {
   "palavra": "brasileira",
   "quantidade": 1,
-  "percentual": "0.10"
+  "percentual": 0.1
  },
  {
   "palavra": "Mossoró",
   "quantidade": 1,
-  "percentual": "0.10"
+  "percentual": 0.1
  },
  {
   "palavra": "Grande",
   "quantidade": 1,
-  "percentual": "0.10"
+  "percentual": 0.1
  },
  {
   "palavra": "Norte",
   "quantidade": 1,
-  "percentual": "0.10"
+  "percentual": 0.1
  },
  {
   "palavra": "limites",
   "quantidade": 1,
-  "percentual": "0.10"
+  "percentual": 0.1
  },
  {
   "palavra": "Guiana",
   "quantidade": 1,
-  "percentual": "0.10"
+  "percentual": 0.1
  },
  {
   "palavra": "Francesa",
   "quantidade": 1,
-  "percentual": "0.10"
+  "percentual": 0.1
  },
  {
   "palavra": "Na",
   "quantidade": 1,
-  "percentual": "0.10"
+  "percentual": 0.1
  },
  {
   "palavra": "segunda",
   "quantidade": 1,
-  "percentual": "0.10"
+  "percentual": 0.1
  },
  {
   "palavra": "metade",
   "quantidade": 1,
-  "percentual": "0.10"
+  "percentual": 0.1
  },
  {
   "palavra": "década",
   "quantidade": 1,
-  "percentual": "0.10"
+  "percentual": 0.1
  },
  {
   "palavra": "relegado",
   "quantidade": 1,
-  "percentual": "0.10"
+  "percentual": 0.1
  },
  {
   "palavra": "bateria",
   "quantidade": 1,
-  "percentual": "0.10"
+  "percentual": 0.1
  },
  {
   "palavra": "fluvial",
   "quantidade": 1,
-  "percentual": "0.10"
+  "percentual": 0.1
  },
  {
   "palavra": "às",
   "quantidade": 1,
-  "percentual": "0.10"
+  "percentual": 0.1
  },
  {
   "palavra": "suas",
   "quantidade": 1,
-  "percentual": "0.10"
+  "percentual": 0.1
  },
  {
   "palavra": "péssimas",
   "quantidade": 1,
-  "percentual": "0.10"
+  "percentual": 0.1
  },
  {
   "palavra": "condições",
   "quantidade": 1,
-  "percentual": "0.10"
+  "percentual": 0.1
  },
  {
   "palavra": "descomissionou",
   "quantidade": 1,
-  "percentual": "0.10"
+  "percentual": 0.1
  },
  {
   "palavra": "novembro",
   "quantidade": 1,
-  "percentual": "0.10"
+  "percentual": 0.1
  },
  {
   "palavra": "Normalmente",
   "quantidade": 1,
-  "percentual": "0.10"
+  "percentual": 0.1
  },
  {
   "palavra": "compartilhar",
   "quantidade": 1,
-  "percentual": "0.10"
+  "percentual": 0.1
  },
  {
   "palavra": "sem",
   "quantidade": 1,
-  "percentual": "0.10"
+  "percentual": 0.1
  },
  {
   "palavra": "preocupar",
   "quantidade": 1,
-  "percentual": "0.10"
+  "percentual": 0.1
  },
  {
   "palavra": "detalhes",
   "quantidade": 1,
-  "percentual": "0.10"
+  "percentual": 0.1
  },
  {
   "palavra": "subjacentes",
   "quantidade": 1,
-  "percentual": "0.10"
+  "percentual": 0.1
  },
  {
   "palavra": "está",
   "quantidade": 1,
-  "percentual": "0.10"
+  "percentual": 0.1
  },
  {
   "palavra": "pessoas",
   "quantidade": 1,
-  "percentual": "0.10"
+  "percentual": 0.1
  },
  {
   "palavra": "trabalham",
   "quantidade": 1,
-  "percentual": "0.10"
+  "percentual": 0.1
  },
  {
   "palavra": "download",
   "quantidade": 1,
-  "percentual": "0.10"
+  "percentual": 0.1
  },
  {
   "palavra": "Internet",
   "quantidade": 1,
-  "percentual": "0.10"
+  "percentual": 0.1
  },
  {
   "palavra": "sistemas",
   "quantidade": 1,
-  "percentual": "0.10"
+  "percentual": 0.1
  },
  {
   "palavra": "seja",
   "quantidade": 1,
-  "percentual": "0.10"
+  "percentual": 0.1
  },
  {
   "palavra": "necessário",
   "quantidade": 1,
-  "percentual": "0.10"
+  "percentual": 0.1
  },
  {
   "palavra": "escolher",
   "quantidade": 1,
-  "percentual": "0.10"
+  "percentual": 0.1
  },
  {
   "palavra": "arquivoQuando",
   "quantidade": 1,
-  "percentual": "0.10"
+  "percentual": 0.1
  },
  {
   "palavra": "outra",
   "quantidade": 1,
-  "percentual": "0.10"
+  "percentual": 0.1
  },
  {
   "palavra": "pessoa",
   "quantidade": 1,
-  "percentual": "0.10"
+  "percentual": 0.1
  },
  {
   "palavra": "Microsoft",
   "quantidade": 1,
-  "percentual": "0.10"
+  "percentual": 0.1
  },
  {
   "palavra": "outro",
   "quantidade": 1,
-  "percentual": "0.10"
+  "percentual": 0.1
  },
  {
   "palavra": "tenha",
   "quantidade": 1,
-  "percentual": "0.10"
+  "percentual": 0.1
  },
  {
   "palavra": "software",
   "quantidade": 1,
-  "percentual": "0.10"
+  "percentual": 0.1
  },
  {
   "palavra": "daquele",
   "quantidade": 1,
-  "percentual": "0.10"
+  "percentual": 0.1
  },
  {
   "palavra": "usado",
   "quantidade": 1,
-  "percentual": "0.10"
+  "percentual": 0.1
  },
  {
   "palavra": "criar",
   "quantidade": 1,
-  "percentual": "0.10"
+  "percentual": 0.1
  },
  {
   "palavra": "ajuda",
   "quantidade": 1,
-  "percentual": "0.10"
+  "percentual": 0.1
  },
  {
   "palavra": "determinar",
   "quantidade": 1,
-  "percentual": "0.10"
+  "percentual": 0.1
  },
  {
   "palavra": "ele",
   "quantidade": 1,
-  "percentual": "0.10"
+  "percentual": 0.1
  },
  {
   "palavra": "fique",
   "quantidade": 1,
-  "percentual": "0.10"
+  "percentual": 0.1
  },
  {
   "palavra": "legívelO",
   "quantidade": 1,
-  "percentual": "0.10"
+  "percentual": 0.1
  },
  {
   "palavra": "deseja",
   "quantidade": 1,
-  "percentual": "0.10"
+  "percentual": 0.1
  },
  {
   "palavra": "fazerCompreender",
   "quantidade": 1,
-  "percentual": "0.10"
+  "percentual": 0.1
  },
  {
   "palavra": "textoEscolha",
   "quantidade": 1,
-  "percentual": "0.10"
+  "percentual": 0.1
  },
  {
   "palavra": "arquivoEscolha",
   "quantidade": 1,
-  "percentual": "0.10"
+  "percentual": 0.1
  },
  {
   "palavra": "arquivoProcure",
   "quantidade": 1,
-  "percentual": "0.10"
+  "percentual": 0.1
  },
  {
   "palavra": "estejam",
   "quantidade": 1,
-  "percentual": "0.10"
+  "percentual": 0.1
  },
  {
   "palavra": "disponíveis",
   "quantidade": 1,
-  "percentual": "0.10"
+  "percentual": 0.1
  },
  {
   "palavra": "WordCompreender",
   "quantidade": 1,
-  "percentual": "0.10"
+  "percentual": 0.1
  },
  {
   "palavra": "textoO",
   "quantidade": 1,
-  "percentual": "0.10"
+  "percentual": 0.1
  },
  {
   "palavra": "verdade",
   "quantidade": 1,
-  "percentual": "0.10"
+  "percentual": 0.1
  },
  {
   "palavra": "Seu",
   "quantidade": 1,
-  "percentual": "0.10"
+  "percentual": 0.1
  },
  {
   "palavra": "converte",
   "quantidade": 1,
-  "percentual": "0.10"
+  "percentual": 0.1
  },
  {
   "palavra": "visíveis",
   "quantidade": 1,
-  "percentual": "0.10"
+  "percentual": 0.1
  },
  {
   "palavra": "Ele",
   "quantidade": 1,
-  "percentual": "0.10"
+  "percentual": 0.1
  },
  {
   "palavra": "isso",
   "quantidade": 1,
-  "percentual": "0.10"
+  "percentual": 0.1
  },
  {
   "palavra": "usando",
   "quantidade": 1,
-  "percentual": "0.10"
+  "percentual": 0.1
  },
  {
   "palavra": "codificaçãoUm",
   "quantidade": 1,
-  "percentual": "0.10"
+  "percentual": 0.1
  },
  {
   "palavra": "esquema",
   "quantidade": 1,
-  "percentual": "0.10"
+  "percentual": 0.1
  },
  {
   "palavra": "numeração",
   "quantidade": 1,
-  "percentual": "0.10"
+  "percentual": 0.1
  },
  {
   "palavra": "atribui",
   "quantidade": 1,
-  "percentual": "0.10"
+  "percentual": 0.1
  },
  {
   "palavra": "cada",
   "quantidade": 1,
-  "percentual": "0.10"
+  "percentual": 0.1
  },
  {
   "palavra": "alfabéticos",
   "quantidade": 1,
-  "percentual": "0.10"
+  "percentual": 0.1
  },
  {
   "palavra": "números",
   "quantidade": 1,
-  "percentual": "0.10"
+  "percentual": 0.1
  },
  {
   "palavra": "símbolos",
   "quantidade": 1,
-  "percentual": "0.10"
+  "percentual": 0.1
  },
  {
   "palavra": "Os",
   "quantidade": 1,
-  "percentual": "0.10"
+  "percentual": 0.1
  },
  {
   "palavra": "frequentemente",
   "quantidade": 1,
-  "percentual": "0.10"
+  "percentual": 0.1
  },
  {
   "palavra": "consistem",
   "quantidade": 1,
-  "percentual": "0.10"
+  "percentual": 0.1
  },
  {
   "palavra": "assim",
   "quantidade": 1,
-  "percentual": "0.10"
+  "percentual": 0.1
  },
  {
   "palavra": "existem",
   "quantidade": 1,
-  "percentual": "0.10"
+  "percentual": 0.1
  },
  {
   "palavra": "idiomasDiferentes",
   "quantidade": 1,
-  "percentual": "0.10"
+  "percentual": 0.1
  },
  {
   "palavra": "alfabetosO",
   "quantidade": 1,
-  "percentual": "0.10"
+  "percentual": 0.1
  },
  {
   "palavra": "salvo",
   "quantidade": 1,
-  "percentual": "0.10"
+  "percentual": 0.1
  },
  {
   "palavra": "fornece",
   "quantidade": 1,
-  "percentual": "0.10"
+  "percentual": 0.1
  },
  {
   "palavra": "as",
   "quantidade": 1,
-  "percentual": "0.10"
+  "percentual": 0.1
  },
  {
   "palavra": "informações",
   "quantidade": 1,
-  "percentual": "0.10"
+  "percentual": 0.1
  },
  {
   "palavra": "precisa",
   "quantidade": 1,
-  "percentual": "0.10"
+  "percentual": 0.1
  },
  {
   "palavra": "tem",
   "quantidade": 1,
-  "percentual": "0.10"
+  "percentual": 0.1
  },
  {
   "palavra": "Quando",
   "quantidade": 1,
-  "percentual": "0.10"
+  "percentual": 0.1
  },
  {
   "palavra": "contém",
   "quantidade": 1,
-  "percentual": "0.10"
+  "percentual": 0.1
  },
  {
   "palavra": "lerá",
   "quantidade": 1,
-  "percentual": "0.10"
+  "percentual": 0.1
  },
  {
   "palavra": "exibirá",
   "quantidade": 1,
-  "percentual": "0.10"
+  "percentual": 0.1
  },
  {
   "palavra": "telaNo",
   "quantidade": 1,
-  "percentual": "0.10"
+  "percentual": 0.1
  },
  {
   "palavra": "mesmo",
   "quantidade": 1,
-  "percentual": "0.10"
+  "percentual": 0.1
  },
  {
   "palavra": "exibe",
   "quantidade": 1,
-  "percentual": "0.10"
+  "percentual": 0.1
  },
  {
   "palavra": "correspondente",
   "quantidade": 1,
-  "percentual": "0.10"
+  "percentual": 0.1
  },
  {
   "palavra": "original",
   "quantidade": 1,
-  "percentual": "0.10"
+  "percentual": 0.1
  },
  {
   "palavra": "base",
   "quantidade": 1,
-  "percentual": "0.10"
+  "percentual": 0.1
  },
  {
   "palavra": "será",
   "quantidade": 1,
-  "percentual": "0.10"
+  "percentual": 0.1
  },
  {
   "palavra": "É",
   "quantidade": 1,
-  "percentual": "0.10"
+  "percentual": 0.1
  },
  {
   "palavra": "vez",
   "quantidade": 1,
-  "percentual": "0.10"
+  "percentual": 0.1
  },
  {
   "palavra": "porque",
   "quantidade": 1,
-  "percentual": "0.10"
+  "percentual": 0.1
  },
  {
   "palavra": "mapeado",
   "quantidade": 1,
-  "percentual": "0.10"
+  "percentual": 0.1
  },
  {
   "palavra": "ÉUnicode",
   "quantidade": 1,
-  "percentual": "0.10"
+  "percentual": 0.1
  },
  {
   "palavra": "muitos",
   "quantidade": 1,
-  "percentual": "0.10"
+  "percentual": 0.1
  },
  {
   "palavra": "alfabetosPara",
   "quantidade": 1,
-  "percentual": "0.10"
+  "percentual": 0.1
  },
  {
   "palavra": "evitar",
   "quantidade": 1,
-  "percentual": "0.10"
+  "percentual": 0.1
  },
  {
   "palavra": "problemas",
   "quantidade": 1,
-  "percentual": "0.10"
+  "percentual": 0.1
  },
  {
   "palavra": "decodificação",
   "quantidade": 1,
-  "percentual": "0.10"
+  "percentual": 0.1
  },
  {
   "palavra": "acomoda",
   "quantidade": 1,
-  "percentual": "0.10"
+  "percentual": 0.1
  },
  {
   "palavra": "maioria",
   "quantidade": 1,
-  "percentual": "0.10"
+  "percentual": 0.1
  },
  {
   "palavra": "dos",
   "quantidade": 1,
-  "percentual": "0.10"
+  "percentual": 0.1
  },
  {
   "palavra": "todos",
   "quantidade": 1,
-  "percentual": "0.10"
+  "percentual": 0.1
  },
  {
   "palavra": "comumente",
   "quantidade": 1,
-  "percentual": "0.10"
+  "percentual": 0.1
  },
  {
   "palavra": "usuários",
   "quantidade": 1,
-  "percentual": "0.10"
+  "percentual": 0.1
  },
  {
   "palavra": "hojeComo",
   "quantidade": 1,
-  "percentual": "0.10"
+  "percentual": 0.1
  },
  {
   "palavra": "baseiase",
   "quantidade": 1,
-  "percentual": "0.10"
+  "percentual": 0.1
  },
  {
   "palavra": "salva",
   "quantidade": 1,
-  "percentual": "0.10"
+  "percentual": 0.1
  },
  {
   "palavra": "automaticamente",
   "quantidade": 1,
-  "percentual": "0.10"
+  "percentual": 0.1
  },
  {
   "palavra": "ler",
   "quantidade": 1,
-  "percentual": "0.10"
+  "percentual": 0.1
  },
  {
   "palavra": "formato",
   "quantidade": 1,
-  "percentual": "0.10"
+  "percentual": 0.1
  },
  {
   "palavra": "independentemente",
   "quantidade": 1,
-  "percentual": "0.10"
+  "percentual": 0.1
  },
  {
   "palavra": "Da",
   "quantidade": 1,
-  "percentual": "0.10"
+  "percentual": 0.1
  },
  {
   "palavra": "mesma",
   "quantidade": 1,
-  "percentual": "0.10"
+  "percentual": 0.1
  },
  {
   "palavra": "forma",
   "quantidade": 1,
-  "percentual": "0.10"
+  "percentual": 0.1
  },
  {
   "palavra": "encontrados",
   "quantidade": 1,
-  "percentual": "0.10"
+  "percentual": 0.1
  },
  {
   "palavra": "alfabetos",
   "quantidade": 1,
-  "percentual": "0.10"
+  "percentual": 0.1
  },
  {
   "palavra": "Europeus",
   "quantidade": 1,
-  "percentual": "0.10"
+  "percentual": 0.1
  },
  {
   "palavra": "Ocidentais",
   "quantidade": 1,
-  "percentual": "0.10"
+  "percentual": 0.1
  },
  {
   "palavra": "gregos",
   "quantidade": 1,
-  "percentual": "0.10"
+  "percentual": 0.1
  },
  {
   "palavra": "cirílicos",
   "quantidade": 1,
-  "percentual": "0.10"
+  "percentual": 0.1
  },
  {
   "palavra": "árabes",
   "quantidade": 1,
-  "percentual": "0.10"
+  "percentual": 0.1
  },
  {
   "palavra": "japonesesInício",
   "quantidade": 1,
-  "percentual": "0.10"
+  "percentual": 0.1
  },
  {
   "palavra": "PáginaEscolha",
   "quantidade": 1,
-  "percentual": "0.10"
+  "percentual": 0.1
  },
  {
   "palavra": "arquivoSe",
   "quantidade": 1,
-  "percentual": "0.10"
+  "percentual": 0.1
  },
  {
   "palavra": "aparecer",
   "quantidade": 1,
-  "percentual": "0.10"
+  "percentual": 0.1
  },
  {
   "palavra": "ilegível",
   "quantidade": 1,
-  "percentual": "0.10"
+  "percentual": 0.1
  },
  {
   "palavra": "pontos",
   "quantidade": 1,
-  "percentual": "0.10"
+  "percentual": 0.1
  },
  {
   "palavra": "interrogação",
   "quantidade": 1,
-  "percentual": "0.10"
+  "percentual": 0.1
  },
  {
   "palavra": "caixas",
   "quantidade": 1,
-  "percentual": "0.10"
+  "percentual": 0.1
  },
  {
   "palavra": "ter",
   "quantidade": 1,
-  "percentual": "0.10"
+  "percentual": 0.1
  },
  {
   "palavra": "detectado",
   "quantidade": 1,
-  "percentual": "0.10"
+  "percentual": 0.1
  },
  {
   "palavra": "precisamente",
   "quantidade": 1,
-  "percentual": "0.10"
+  "percentual": 0.1
  },
  {
   "palavra": "especificar",
   "quantidade": 1,
-  "percentual": "0.10"
+  "percentual": 0.1
  },
  {
   "palavra": "usar",
   "quantidade": 1,
-  "percentual": "0.10"
+  "percentual": 0.1
  },
  {
   "palavra": "decodificar",
   "quantidade": 1,
-  "percentual": "0.10"
+  "percentual": 0.1
  }
 ]

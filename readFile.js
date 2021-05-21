@@ -41,7 +41,7 @@ const obterInfoDasPalavras = (listaPalavras) => {
             const listaQuantidade = listaPalavras.filter(element2 => element2 === element);
             const quantidade = listaQuantidade.length;
             const percentual = ((quantidade/listaPalavras.length) * 100).toFixed(2);
-            listaObjetos.push(criarObjetoContagem(element, quantidade, percentual))
+            listaObjetos.push(criarObjetoContagem(element, quantidade, parseFloat(percentual)))
         }   
     })
     return listaObjetos
